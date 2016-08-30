@@ -76,6 +76,7 @@ The licenses for most software are designed to take away your freedom to share a
 .. toctree::
     :hidden:
 
+    intro/index
     account/index
     domains/index
     convention/index
