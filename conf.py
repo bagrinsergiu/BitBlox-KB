@@ -6,7 +6,7 @@ from datetime import date
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'BitBlox'
+project = 'Intro to BitBlox'
 copyright = `date.today().year` + ' Unyson | Theming Fast & Easy ' + \
     '<br>Developed by: <a target="_blank" href="http://themefuse.com">ThemeFuse</a>	Icons by: <a target="_blank" href="http://pixelkit.com">PixelKit</a>'
 #version = ''
