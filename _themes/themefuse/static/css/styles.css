@@ -22,6 +22,8 @@ html {font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100
 
 .site-main {overflow: hidden;}
 
+.body h1{ display:none; }
+
 body {
     font-family: "proxima-nova", sans-serif;
     font-size: 15px;
