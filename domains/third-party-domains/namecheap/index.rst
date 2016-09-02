@@ -7,7 +7,9 @@ Connecting a Namecheap domain to your BitBlox landing page
 =======
 
 
+If you purchased a domain from Namecheap, you can use it for your Squarespace site by following a process called domain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain where to point. This guide will walk you through the steps.
 
+To follow this guide, you should already have an active domain with Namecheap. Once you connect your domain by following the steps in this guide, you must leave it registered with Namecheap to keep it connected to your Squarespace site.
 
 
 
