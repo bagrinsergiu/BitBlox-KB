@@ -3,6 +3,10 @@ Troubleshooting
 
 We've organized the files and folders in order to be easy to understand and use. What follows is the directory and file structure of an Unyson theme:
 
+
+Step 1
+----
+
 .. code-block:: text
 
     themes/
@@ -31,6 +35,10 @@ We've organized the files and folders in order to be easy to understand and use.
       └-framework-customizations/
         └-... # same as in then parent theme, but here you can overwrite specific files from the parent theme
 
+		
+Step 
+----
+		
 Let's take a closer look at each directory and file, and understand how it works.
 
 * ``framework-customizations/theme/`` - Contains options, views, helpers, and all bunch of theme stuff, we'll take a closer look at every file below.
