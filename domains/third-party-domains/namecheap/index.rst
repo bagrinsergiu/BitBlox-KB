@@ -25,7 +25,10 @@ Step 1 - Open the Domains panel
 
 * Login to your BitBlox **Account** then click **Edit Site**.
 
-.. image:: _image/edit_site.png
+.. class:: screenshot
+
+    |shortcodes-layout-builder-title|
+	
 
 * Open **Page Panel**.
 
@@ -103,6 +106,8 @@ After propagation open BitBlox editor and make the domain primary:
 Getting more help
 ------
 
+
+.. |shortcodes-layout-builder-title| image:: _images/layout-builder-title.jpg
 
 
 
