@@ -40,6 +40,10 @@ Step 2 - Link your domain
 
 .. image:: image/enter_domain.png
 
+* The DNS panel will open with the records you need to enter in your Namecheap account so your domain connects to BitBlox. Keep this panel open for your reference.
+
+.. image:: image/dns_settings.png
+
 Step 3 - Log into Namecheap
 ------
 * Go to www.namecheap.com and log into your account. Click **Manage** next to your domain name.
@@ -50,23 +54,23 @@ Step 3 - Log into Namecheap
 
 .. image:: image/dns_panel.ong
 
-Step 4 - Add the first CNAME
+Step 4 - Add A Records
+------
+* Select **A Record** from the drop-menu
+* Enter @ in the **Host** text box, and BitBlox's IP  162.243.77.151  in the ** IP Address** text box
+* Click **Save all changes** 
+
+image:: image/ip_to_namecheap.png   (aici trebuie de schimbat imaginea)
+
+Step 5 - Add CNAME
 ------
 
 
-Step 5 - Add the second CNAME
+Step 6 - Refresh
 ------
 
 
-Step 6 - Add A Records
-------
-
-
-Step 7 - Refresh
-------
-
-
-Step 8 - Wait and test
+Step 7 - Wait and test
 ------
 
 
