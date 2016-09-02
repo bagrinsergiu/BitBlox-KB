@@ -24,7 +24,7 @@ Step 1 - Open the Domains panel
 -------
 * Login to your BitBlox **Account** then click **Edit Site**.
 
-.. image:: image/edit_site.png
+.. image:: ./image/edit_site.png
 
 * Open **Page Panel**.
 
