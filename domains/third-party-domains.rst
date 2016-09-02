@@ -1,4 +1,4 @@
-Directory Structure
+Using a third-party domain
 ===================
 
 We've organized the files and folders in order to be easy to understand and use. What follows is the directory and file structure of an Unyson theme:

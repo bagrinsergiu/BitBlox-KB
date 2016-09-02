@@ -6,4 +6,4 @@ Domains
 
     introduction
     understanding-domains
-    directory-structure
+    third-party-domains
