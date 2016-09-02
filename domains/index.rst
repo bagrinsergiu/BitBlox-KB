@@ -1,4 +1,4 @@
-Introduction to domains
+Domains
 ==========
 
 .. toctree::

@@ -1,4 +1,4 @@
-General
+Introduction to domains
 =======
 
 The framework was built following some rules to ensure compatibility between components
