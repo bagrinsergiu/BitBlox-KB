@@ -1,7 +1,11 @@
 Using a third-party domain
 ===================
 
-We've organized the files and folders in order to be easy to understand and use. What follows is the directory and file structure of an Unyson theme:
+If you're using a third-party domain, then you need to change its settings before it can connect to your Shopify store. You will find setup instructions for the most popular domain providers, but you should read these general instructions first so you have a broad understanding of the process before you begin.
+
+.. note::
+
+    BitBlox Support can't log in to your third-party domain account for you, even if you give us explicit permission.
 
 .. code-block:: text
 
