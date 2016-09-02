@@ -27,12 +27,16 @@ Step 1 - Open the Domains panel
 
 .. class:: screenshot
 
-    |edit-landing-page|
+   	|edit-landing-page|
 	
 
 2. Open **Page Panel**.
 
-.. image:: image/PagePanel.png
+.. class:: screenshot
+
+    |pagepanel|
+	
+.. image:: image/pagepanel.png
 
 
 Step 2 - Link your domain
@@ -115,5 +119,5 @@ Getting more help
 
 .. |edit-landing-page| image:: _images/edit-landing-page.png
 
-
+.. |pagepanel .. image:: _image/pagepanel.png
 
