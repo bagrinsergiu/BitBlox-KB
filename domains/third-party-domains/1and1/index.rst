@@ -1,4 +1,4 @@
-1&1
+1and1.com
 =====================
 
 Connecting a 1&1 domain to your Squarespace site
