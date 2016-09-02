@@ -113,10 +113,7 @@ h4 {font-size: 19px;}
 h5 {font-size: 17px;}
 h6 {font-size: 15px;}
 
-#body h1{ display:none; }
-
 .section h1,
-.section h2,
 #search-results h2 {
     font-weight: 600;
     line-height: 30px;
@@ -124,8 +121,8 @@ h6 {font-size: 15px;}
     margin-bottom: 40px;
     border-bottom: 1px solid #eaeaea;
 }
-.section h3 {margin: 45px 0 22px;}
-.section h4 {margin: 36px 0 21px;}
+.section h2 {margin: 45px 0 22px;}
+.section h3 {margin: 36px 0 21px;}
 
 em {font-style: italic;}
 strong {font-weight: 700; color: #1a1a1a;}
