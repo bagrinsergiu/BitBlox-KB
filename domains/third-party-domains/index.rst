@@ -6,7 +6,7 @@ Overview
     :hidden:
 
     introduction
-    1&1/index
+    1and1/index
     101domain/index
     bluehost/index
     crazy-domains/index
