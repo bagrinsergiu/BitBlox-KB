@@ -48,7 +48,7 @@ Step 3 - Log into Namecheap
 ------
 * Go to www.namecheap.com and log into your account. Click **Manage** next to your domain name.
 
-..image:: image/manage_dns.png
+.. image:: image/manage_dns.png
 
 * On the domain **Details** page, click **Advanced DNS**
 
@@ -56,6 +56,7 @@ Step 3 - Log into Namecheap
 
 Step 4 - Add A Records
 ------
+* Click **Add new Record** 
 * Select **A Record** from the drop-menu
 * Enter @ in the **Host** text box, and BitBlox's IP  162.243.77.151  in the ** IP Address** text box
 * Click **Save all changes** 
@@ -65,18 +66,28 @@ image:: image/ip_to_namecheap.png   (aici trebuie de schimbat imaginea)
 Step 5 - Add CNAME
 ------
 
+* In the **type** column, use the drop-dowmn menu to select **CNAME Record**
+* Enter your landing project name in the **Target** text box
+* Click **Save all changes**
+
+.. image:: image/cname.png
 
 Step 6 - Refresh
 ------
+After changing your records, return to the BitBlox Domains panel, click **Refresh** below the records.
+
+The **Current Data** column in the panel will start to update and if your records are entered correctly, it will change the color into green 
 
 
-Step 7 - Wait and test
-------
+.. image:: image/green_ip.png
 
 
+After you've claimed your domain, it can take up to 48 hours for changes to take effect
 Troubleshoot with the DNS record checker
-------
 
+After propagation open BitBlox editor and make the domain primary: 
+
+.. image/primar_domain.png
 
 Getting more help
 ------
