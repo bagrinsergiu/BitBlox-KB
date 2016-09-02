@@ -4,6 +4,6 @@ Domains
 .. toctree::
     :hidden:
 
-    understanding-domains
+    introduction
     third-party-domains
 	troubleshooting
