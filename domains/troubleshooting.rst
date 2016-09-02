@@ -1,3 +1,4 @@
+===================
 Troubleshooting
 ===================
 
@@ -5,7 +6,7 @@ We've organized the files and folders in order to be easy to understand and use.
 
 
 Step 1
-----
+======
 
 .. code-block:: text
 
@@ -37,7 +38,7 @@ Step 1
 
 		
 Step 2
-----
+======
 		
 Let's take a closer look at each directory and file, and understand how it works.
 
