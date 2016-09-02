@@ -14,21 +14,7 @@ To follow this guide, you should already have an active domain with Namecheap. O
 
         Before you begin, review our requirements for connecting a third-party domain. Daca ai unele intrebari referitor la domain poti contacta namecheap la adresa urmatoare: https://support.namecheap.com/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-This extension provides the core builder functionality that you can extend to create new builders.
-
+		
 .. contents::
     :local:
     :backlinks: top
