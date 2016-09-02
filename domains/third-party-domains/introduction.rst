@@ -1,5 +1,9 @@
-Introduction
+Using a third-party domain
 ========
+
+If you're using a third-party domain, then you need to change its settings before it can connect to your Shopify store.
+
+
 
 In the framework everything is prefixed to prevent naming conflicts and to give a meaning to functions, classes and methods names.
 
