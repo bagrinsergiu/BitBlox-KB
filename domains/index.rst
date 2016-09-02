@@ -1,4 +1,4 @@
-Third Party Domains
+Domains
 ==========
 
 .. toctree::
