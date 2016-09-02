@@ -113,7 +113,7 @@ Getting more help
 ------
 
 
-.. |edit-landing-page| image:: ./_images/namecheap/edit-landing-page.jpg
+.. |edit-landing-page| image:: ./_images/edit-landing-page.jpg
 
 
 
