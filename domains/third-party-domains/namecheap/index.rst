@@ -36,7 +36,6 @@ Step 1 - Open the Domains panel
 
     |pagepanel|
 	
-.. image:: image/pagepanel.png
 
 
 Step 2 - Link your domain
@@ -119,5 +118,5 @@ Getting more help
 
 .. |edit-landing-page| image:: _images/edit-landing-page.png
 
-.. |pagepanel .. image:: _image/pagepanel.png
+.. |pagepanel| .. image:: _image/pagepanel.png
 
