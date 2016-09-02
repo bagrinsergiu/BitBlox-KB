@@ -36,6 +36,10 @@ Step 2 - Link your domain
 
 .. image:: image/open3rdpartdom.png
 
+* Enter the full custom domain name you’re linking in the Domain Name box, and then click **Connect Domain**.
+
+.. image:: image/enter_domain.png
+
 Step 3 - Log into Namecheap
 ------
 
