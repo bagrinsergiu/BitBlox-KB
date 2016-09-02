@@ -1,5 +1,5 @@
 ===================
-Overview
+Third-party domain
 ===================
 
 .. toctree::
