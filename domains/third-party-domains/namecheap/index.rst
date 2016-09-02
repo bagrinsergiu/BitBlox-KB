@@ -27,7 +27,7 @@ Step 1 - Open the Domains panel
 
 .. class:: screenshot
 
-    |shortcodes-layout-builder-title|
+    |edit-landing-page|
 	
 
 * Open **Page Panel**.
