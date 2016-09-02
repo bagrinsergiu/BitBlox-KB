@@ -1,4 +1,4 @@
-Introduction
+Introduction to domains
 ============
 
 The Unyson framework comes with the following built-in extensions:
