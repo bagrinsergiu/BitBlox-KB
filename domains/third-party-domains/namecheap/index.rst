@@ -1,5 +1,26 @@
-Builder
+========
+Namecheap
 =======
+
+
+Connecting a Namecheap domain to your BitBlox landing page
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This extension provides the core builder functionality that you can extend to create new builders.
 
