@@ -117,6 +117,5 @@ Getting more help
 
 
 .. |edit-landing-page| image:: _images/edit-landing-page.png
-
-.. |pagepanel| .. image:: _image/pagepanel.png
+.. |pagepanel| .. image:: _image/pagepanel.jpg
 
