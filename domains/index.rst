@@ -1,4 +1,4 @@
-Domains 0010
+Domains
 ==========
 
 .. toctree::
@@ -6,3 +6,4 @@ Domains 0010
 
     introduction
     third-party-domains
+	troubleshooting
