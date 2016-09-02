@@ -32,7 +32,9 @@ Step 1 - Open the Domains panel
 
 Step 2 - Link your domain
 ------
+*In the project overlay, click on **Settings** Tab, the clik **3rd Part Domain**
 
+.. image:: image/open3rdpartdom.png
 
 Step 3 - Log into Namecheap
 ------
