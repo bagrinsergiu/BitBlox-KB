@@ -107,7 +107,7 @@ Getting more help
 ------
 
 
-.. |shortcodes-layout-builder-title| image:: ./_images/namecheap/edit_site.jpg
+.. |edit-landing-page| image:: ./_images/namecheap/edit-landing-page.jpg
 
 
 
