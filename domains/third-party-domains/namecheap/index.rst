@@ -22,6 +22,7 @@ To follow this guide, you should already have an active domain with Namecheap. O
 	
 Step 1 - Open the Domains panel
 -------
+
 * Login to your BitBlox **Account** then click **Edit Site**.
 
 .. image:: ./image/edit_site.png
@@ -30,8 +31,10 @@ Step 1 - Open the Domains panel
 
 .. image:: image/PagePanel.png
 
+
 Step 2 - Link your domain
 ------
+
 * In the project overlay, click on **Settings** Tab, then click **3rd Part Domain**
 
 .. image:: image/open3rdpartdom.png
@@ -44,8 +47,10 @@ Step 2 - Link your domain
 
 .. image:: image/dns_settings.png
 
+
 Step 3 - Log into Namecheap
 ------
+
 * Go to www.namecheap.com and log into your account. Click **Manage** next to your domain name.
 
 .. image:: image/manage_dns.png
@@ -54,14 +59,17 @@ Step 3 - Log into Namecheap
 
 .. image:: image/dns_panel.ong
 
+
 Step 4 - Add A Records
 ------
+
 * Click **Add new Record** 
 * Select **A Record** from the drop-menu
 * Enter @ in the **Host** text box, and BitBlox's IP  162.243.77.151  in the ** IP Address** text box
 * Click **Save all changes** 
 
 image:: image/ip_to_namecheap.png   (aici trebuie de schimbat imaginea)
+
 
 Step 5 - Add CNAME
 ------
@@ -72,8 +80,10 @@ Step 5 - Add CNAME
 
 .. image:: image/cname.png
 
+
 Step 6 - Refresh
 ------
+
 After changing your records, return to the BitBlox Domains panel, click **Refresh** below the records.
 
 The **Current Data** column in the panel will start to update and if your records are entered correctly, it will change the color into green 
@@ -88,6 +98,7 @@ Troubleshoot with the DNS record checker
 After propagation open BitBlox editor and make the domain primary: 
 
 .. image/primar_domain.png
+
 
 Getting more help
 ------
