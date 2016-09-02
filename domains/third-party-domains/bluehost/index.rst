@@ -1,4 +1,4 @@
-Builder
+Bluehost
 =======
 
 This extension provides the core builder functionality that you can extend to create new builders.
