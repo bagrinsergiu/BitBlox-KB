@@ -977,8 +977,8 @@ li > a.reference.internal em {
 /* Lists */
 .section ul,
 .section ol {
-    list-style: inside disc;
-    padding-left: 20px;
+    /*list-style: inside disc;*/
+    padding-left: 0px;
     line-height: 21px;
     margin: 27px 0;
 }
