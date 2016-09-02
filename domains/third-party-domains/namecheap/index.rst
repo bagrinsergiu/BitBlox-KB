@@ -22,9 +22,13 @@ To follow this guide, you should already have an active domain with Namecheap. O
 	
 Step 1 - Open the Domains panel
 -------
-Login to your BitBlox **Account** then click **Edit Site**.
+*Login to your BitBlox **Account** then click **Edit Site**.
 
 .. image:: image/edit_site.png
+
+*Open Page Panel.
+
+.. image:: image/PagePanel.png
 
 Step 2 - Link your domain
 ------
