@@ -1,6 +1,6 @@
 ========
 Namecheap
-=======
+========
 
 
 Connecting a Namecheap domain to your BitBlox landing page
