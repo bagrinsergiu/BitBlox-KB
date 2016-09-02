@@ -1,6 +1,8 @@
 Introduction to domains
 ========
 
+
+
 A domain name is the URL or web address where visitors find your landing page. With a BitBlox landing page, you can replace your built-in BitBlox domain (yourdomain.bitblox.me) with a custom domain.
 
 Custom domains make it easy for visitors to find you on the web. Manage and connect your domains in the Domains panel. In the Home Menu, click Settings, and then click Domains.
@@ -34,4 +36,9 @@ Primary domain - Your primary domain is the main domain name always appears in a
 Subdomain - An extension of your domain name that forwards to your site. For example, help.squarespace.com and blog.squarespace.com are subdomains of squarespace.com.
 TLD - Also known as a domain extension, a TLD (Top Level Domain) identifies the most general part of the domain name in an Internet address. The TLD always follows the last dot in a URL. For example, .com, .org, and .net are TLDs.
 Who.is - A public internet record directory that provides information about all registered domains, including owner contact information, availability, and its registrar.
+
+
+Understanding domains
+-----
+
 
