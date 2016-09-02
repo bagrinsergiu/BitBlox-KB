@@ -1041,7 +1041,7 @@ dl.docutils dd {
 .contents:before,
 .toctree-wrapper:before {
     display: block;
-    content: 'IN THIS ARTICLE';
+    content: 'In this article';
     font-size: 16px;
     font-weight: 600;
     color: #1a1a1a;
