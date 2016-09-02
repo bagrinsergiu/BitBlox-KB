@@ -23,14 +23,14 @@ To follow this guide, you should already have an active domain with Namecheap. O
 Step 1 - Open the Domains panel
 -------
 
-1. Login to your **BitBlox Account** then click **Edit Site**.
+* Login to your **BitBlox Account** then click **Edit Site**.
 
 .. class:: screenshot
 
    	|edit-landing-page|
 	
 
-2. Open **Page Panel**.
+* Open **Page Panel**.
 
 .. class:: screenshot
 
