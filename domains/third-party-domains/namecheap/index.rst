@@ -23,20 +23,9 @@ To follow this guide, you should already have an active domain with Namecheap. O
 Step 1 - Open the Domains panel
 -------
 
-The new class inherits some usefull methods like:
-
-* ``get_tag()`` - returns the shortcode's tag.
-* ``get_declared_path($rel_path = '')`` - returns the path to where the shortcode folder was declared.
-* ``get_declared_URI($rel_path = '')`` - returns the uri to where shortcode folder was declared.
-* ``locate_path($rel_path = '')`` - searches a rel path given as an argument first in child theme then in parent theme and last in framework. Returns the found path or false if not found. See :ref:`overwriting <overwriting-shortcodes>` for more details.
-* ``locate_URI($rel_path = '')`` - does the same as `locate_path` with uris.
-* ``get_config($key = null)`` - returns the shortcode's whole :ref:`overwritten <overwriting-shortcodes>` config array, or just a particular key of it's given as an argument.
-* ``get_options()`` - returns the shortcode's :ref:`overwritten <overwriting-shortcodes>` options array, if there is any.
-
-
 There are three places where the shortcode files are searched until found: child theme (if active), parent theme and framework.
 
-* ``Login`` to your BitBlox ``Account`` then click ``Edit Site``.
+* Login to your BitBlox **Account** then click **Edit Site**.
 
 .. class:: screenshot
 
