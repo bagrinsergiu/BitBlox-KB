@@ -23,8 +23,6 @@ To follow this guide, you should already have an active domain with Namecheap. O
 Step 1 - Open the Domains panel
 -------
 
-There are three places where the shortcode files are searched until found: child theme (if active), parent theme and framework. 
-
 * Login to your BitBlox **Account** then click **Edit Site**.
 
 .. class:: screenshot
@@ -103,6 +101,12 @@ Troubleshoot with the DNS record checker
 After propagation open BitBlox editor and make the domain primary: 
 
 .. image/primar_domain.png
+
+
+Troubleshoot with the DNS record checker
+-------
+
+
 
 
 Getting more help
