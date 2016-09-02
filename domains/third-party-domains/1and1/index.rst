@@ -1,5 +1,9 @@
-Backup & Demo Content
+1&1
 =====================
+
+Connecting a 1&1 domain to your Squarespace site
+----
+
 
 This extension lets you create an automated backup schedule,
 import demo content or even create a demo content archive for migration purposes.
