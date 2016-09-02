@@ -4,6 +4,6 @@ Domains
 .. toctree::
     :maxdepth: 2
 
-introduction
-third-party-domains
-troubleshooting
+    introduction
+    third-party-domains
+	troubleshooting
