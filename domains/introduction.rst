@@ -1,4 +1,6 @@
-Introduction
+Introduction to domains
 ========
 
-In the framework everything is prefixed to prevent naming conflicts and to give a meaning to functions, classes and methods names.
+Setting up your domain is not something you have to do often, but it’s important that you do it properly the first time. 
+
+
