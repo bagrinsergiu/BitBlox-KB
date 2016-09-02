@@ -12,7 +12,7 @@ To follow this guide, you should already have an active domain with Namecheap. O
 
     .. note::
 
-        Before you begin, review our requirements for connecting a third-party domain.
+        Before you begin, review our requirements for connecting a third-party domain. Daca ai unele intrebari referitor la domain poti contacta namecheap la adresa urmatoare: https://support.namecheap.com/
 
 
 
