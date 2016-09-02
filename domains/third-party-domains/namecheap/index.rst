@@ -10,6 +10,10 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox landin
 
 To follow this guide, you should already have an active domain with Namecheap. Once you connect your domain by following the steps in this guide, you must leave it registered with Namecheap to keep it connected to your BitBlox landing page.
 
+    .. note::
+
+        Before you begin, review our requirements for connecting a third-party domain.
+
 
 
 
