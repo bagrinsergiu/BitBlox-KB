@@ -43,7 +43,10 @@ Step 2 - Link your domain
 
 * In the project overlay, click on **Settings** Tab, then click **3rd Part Domain**
 
-.. image:: image/open3rdpartdom.png
+
+.. class:: screenshot
+		
+		|open3rdpartdomain|	
 
 * Enter the full custom domain name you’re linking in the Domain Name box, and then click **Connect Domain**.
 
@@ -118,4 +121,4 @@ Getting more help
 
 .. |edit-landing-page| image:: _images/edit-landing-page.png
 .. |pagepanel| image:: _images/pagepanel.jpg
-
+.. |open3rdpartdom| image:: _image/open3rdpartdom.png
