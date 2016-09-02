@@ -2,7 +2,7 @@ Domains
 ==========
 
 .. toctree::
-    :maxdepth: 2
+    :hidden:
 
     introduction
     third-party-domains
