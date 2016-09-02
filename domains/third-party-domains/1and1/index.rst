@@ -1,8 +1,10 @@
+=====================
 1and1.com
 =====================
 
+
 Connecting a 1&1 domain to your Squarespace site
-----
+============
 
 
 This extension lets you create an automated backup schedule,
