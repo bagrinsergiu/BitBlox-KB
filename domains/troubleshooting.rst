@@ -36,7 +36,7 @@ Step 1
         └-... # same as in then parent theme, but here you can overwrite specific files from the parent theme
 
 		
-Step 
+Step 2
 ----
 		
 Let's take a closer look at each directory and file, and understand how it works.
