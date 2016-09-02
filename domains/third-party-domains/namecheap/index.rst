@@ -19,6 +19,49 @@ To follow this guide, you should already have an active domain with Namecheap. O
     :local:
     :backlinks: top
 
+	
+Step 1 - Open the Domains panel
+-------
+
+
+Step 2 - Link your domain
+------
+
+
+Step 3 - Log into Namecheap
+------
+
+
+Step 4 - Add the first CNAME
+------
+
+
+Step 5 - Add the second CNAME
+------
+
+
+Step 6 - Add A Records
+------
+
+
+Step 7 - Refresh
+------
+
+
+Step 8 - Wait and test
+------
+
+
+Troubleshoot with the DNS record checker
+------
+
+
+Getting more help
+------
+
+	
+	
+	
 Changing the grid
 -----------------
 
