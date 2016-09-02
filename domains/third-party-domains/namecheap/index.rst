@@ -42,7 +42,13 @@ Step 2 - Link your domain
 
 Step 3 - Log into Namecheap
 ------
+* Go to www.namecheap.com and log into your account. Click **Manage** next to your domain name.
 
+..image:: image/manage_dns.png
+
+* On the domain **Details** page, click **Advanced DNS**
+
+.. image:: image/dns_panel.ong
 
 Step 4 - Add the first CNAME
 ------
