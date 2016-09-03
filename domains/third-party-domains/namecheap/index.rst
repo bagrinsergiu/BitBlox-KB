@@ -1,18 +1,13 @@
 ========
-Namecheap 
+Namecheap
+========
+
+========
+Set up your domain or subdomain with Namecheap
 ========
 
 
-Connecting a Namecheap domain to your BitBlox landing page
-=======
-
-If you purchased a domain from Namecheap, you can use it for your BitBlox landing page by following a process called domain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain where to point. This guide will walk you through the steps.
-
-To follow this guide, you should already have an active domain with Namecheap. Once you connect your domain by following the steps in this guide, you must leave it registered with Namecheap to keep it connected to your BitBlox landing page.
-
-    .. note::
-
-        Before you begin, review our requirements for connecting a third-party domain. Daca ai unele intrebari referitor la domain poti contacta namecheap la adresa urmatoare: https://support.namecheap.com/
+If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/ subdomain where to point.
 
 		
 .. contents::
@@ -20,105 +15,120 @@ To follow this guide, you should already have an active domain with Namecheap. O
     :backlinks: top
 
 	
-Step 1 - Open the Domains panel
--------
-
-* Login to your **BitBlox Account** then click **Edit Site**.
-
-.. class:: screenshot
-
-   	|edit-landing-page|
-	
-
-* Open **Page Panel**.
-
-.. class:: screenshot
-
-    |pagepanel|
-	
-
-
-Step 2 - Link your domain
+Set up your domain with Namecheap
 ------
 
-* In the project overlay, click on **Settings** Tab, then click **3rd Part Domain**
+To set up your domain with Namecheap:
 
+1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
+2. Click **Manage** next to your domain name:
 
-.. class:: screenshot
+	.. class:: screenshot
+
+		|namecheap-manage-dns|
 		
-		|open3rdpartdomain|	
 
-* Enter the full custom domain name you’re linking in the Domain Name box, and then click **Connect Domain**.
+3. On the domain **Details** page, click **Advanced DNS**
 
-.. image:: image/enter_domain.png
+	.. class:: screenshot
 
-* The DNS panel will open with the records you need to enter in your Namecheap account so your domain connects to BitBlox. Keep this panel open for your reference.
-
-.. image:: image/dns_settings.png
+		|namecheap-dns-panel|
 
 
-Step 3 - Log into Namecheap
+4. Click **Add new record** 
+
+	.. class:: screenshot
+
+		|namecheap-add-new-record|
+
+		
+5. In the **Type** column, use the drop-down menu to select **A Record** 
+6. Enter ``@`` in the **Host** text box, and BitBlox's IP ``162.243.77.151``  in the **Value** text box
+7. Click the **Save Changes** icon: 
+
+	.. class:: screenshot
+
+		|namecheap-a-record-save|
+
+8. In the **Type** column, click **CNAME Record**:
+
+	.. class:: screenshot
+
+		|namecheap-edit-cname|
+
+10. Enter your domain address (ex: ``my-landing-page.com``) in the **Value** text box
+11. Click the **Save Changes** icon:
+
+	.. class:: screenshot
+
+		|namecheap-cname-record-save|
+		
+12. Claim your custom domain in BitBlox [LINK]
+
+    .. note::
+
+		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+
+		
+
+Set up your subdomain with Namecheap
 ------
 
-* Go to www.namecheap.com and log into your account. Click **Manage** next to your domain name.
+To set up your subdomain with Namecheap:
 
-.. image:: image/manage_dns.png
+1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
+2. Click **Manage** next to your domain name:
 
-* On the domain **Details** page, click **Advanced DNS**
+	.. class:: screenshot
 
-.. image:: image/dns_panel.ong
+		|namecheap-manage-dns|
+		
 
+3. On the domain **Details** page, click **Advanced DNS**
 
-Step 4 - Add A Records
-------
+	.. class:: screenshot
 
-* Click **Add new Record** 
-* Select **A Record** from the drop-menu
-* Enter @ in the **Host** text box, and BitBlox's IP  162.243.77.151  in the ** IP Address** text box
-* Click **Save all changes** 
-
-image:: image/ip_to_namecheap.png   (aici trebuie de schimbat imaginea)
+		|namecheap-dns-panel|
 
 
-Step 5 - Add CNAME
-------
+4. Click **Add new record** 
 
-* In the **type** column, use the drop-dowmn menu to select **CNAME Record**
-* Enter your landing project name in the **Target** text box
-* Click **Save all changes**
+	.. class:: screenshot
 
-.. image:: image/cname.png
+		|namecheap-add-new-record|
 
+		
+5. In the **Type** column, use the drop-down menu to select **A Record** 
+6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Value** text box
+7. Click the **Save Changes** icon: 
 
-Step 6 - Refresh
-------
+	.. class:: screenshot
 
-After changing your records, return to the BitBlox Domains panel, click **Refresh** below the records.
+		|namecheap-a-record-save|	
 
-The **Current Data** column in the panel will start to update and if your records are entered correctly, it will change the color into green 
+		
+12. Claim your custom domain in BitBlox [LINK]
 
+    .. note::
 
-.. image:: image/green_ip.png
-
-
-After you've claimed your domain, it can take up to 48 hours for changes to take effect
-Troubleshoot with the DNS record checker
-
-After propagation open BitBlox editor and make the domain primary: 
-
-.. image/primar_domain.png
-
-
-Troubleshoot with the DNS record checker
--------
-
-
-
+		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+		
 
 Getting more help
 ------
 
+For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
+
 
 .. |edit-landing-page| image:: _images/edit-landing-page.png
 .. |pagepanel| image:: _images/pagepanel.jpg
-.. |open3rdpartdom| image:: _image/open3rdpartdom.png
+.. |open3rdpartdomain| image:: _images/open3rdpartdomain.png
+.. |enter-domain| image:: _images/enter-domain.png
+
+.. |namecheap-dns-settings| image:: _images/namecheap-dns-settings.png
+.. |namecheap-manage-dns| image:: _images/namecheap-manage-dns.png
+.. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
+.. |namecheap-add-new-record| image:: _images/namecheap-add-new-record.png
+.. |namecheap-a-record-save| image:: _images/namecheap-a-record-save.png
+.. |namecheap-edit-cname| image:: _images/namecheap-edit-cname.png
+.. |namecheap-cname-record-save| image:: _images/namecheap-cname-record-save.png

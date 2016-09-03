@@ -123,7 +123,7 @@
                     <div class="col-sm-12">
                         <nav class="clearfix">
                             <ol id="breadcrumbs">
-                                <li><a href="{{ url_root }}index.html">{% trans %}{{ project }}{% endtrans %}</a></li>
+                                <li><a href="{{ url_root }}index.html">{% trans %}{{ project }}{% endtrans %}</a>====</li>
 
                                 {% for doc in parents %}
                                 <li><a href="{{ doc.link|e }}">{{ doc.title }}</a></li>
@@ -147,7 +147,7 @@
                     </div>
                     <div class="col-sm-4">
                         <div id="menu-wrapper">
-                            <h3 class="menu-title">{% trans %}Developer Manual{% endtrans %}</h3>
+                            <h3 class="menu-title">{% trans %}User Manual{% endtrans %}</h3>
                             <div id="menu">
 
                                 <ul class="{% if is_front_page %} current{% endif %}" id="custom-menu-top">
