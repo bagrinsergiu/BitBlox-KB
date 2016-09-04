@@ -1,9 +1,5 @@
 ========
-Namecheap
-========
-
-========
-Set up your domain or subdomain with Namecheap
+Set up your domain with Namecheap
 ========
 
 
@@ -17,8 +13,6 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
 	
 Set up your domain with Namecheap
 ------
-
-To set up your domain with Namecheap:
 
 1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
 2. Click **Manage** next to your domain name:
@@ -56,14 +50,14 @@ To set up your domain with Namecheap:
 
 		|namecheap-edit-cname|
 
-10. Enter your domain address (ex: ``my-landing-page.com``) in the **Value** text box
-11. Click the **Save Changes** icon:
+9. Enter your domain name (ex: ``my-landing-page.com``) in the **Value** text box
+10. Click the **Save Changes** icon:
 
 	.. class:: screenshot
 
 		|namecheap-cname-record-save|
 		
-12. Claim your custom domain in BitBlox [LINK]
+11. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -74,21 +68,19 @@ To set up your domain with Namecheap:
 Set up your subdomain with Namecheap
 ------
 
-To set up your subdomain with Namecheap:
-
 1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
 2. Click **Manage** next to your domain name:
 
 	.. class:: screenshot
 
-		|namecheap-manage-dns|
+		|namecheap-manage-dns-subdomain|
 		
 
 3. On the domain **Details** page, click **Advanced DNS**
 
 	.. class:: screenshot
 
-		|namecheap-dns-panel|
+		|namecheap-dns-panel-subdomain|
 
 
 4. Click **Add new record** 
@@ -104,14 +96,14 @@ To set up your subdomain with Namecheap:
 
 	.. class:: screenshot
 
-		|namecheap-a-record-save|	
+		|namecheap-a-record-save-subdomain|	
 
 		
-12. Claim your custom domain in BitBlox [LINK]
+8. Claim your custom domain in BitBlox [LINK]
 
-    .. note::
+.. note::
 
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
 Getting more help
@@ -125,10 +117,13 @@ For more help with settings in your Namecheap account, contact their `support te
 .. |open3rdpartdomain| image:: _images/open3rdpartdomain.png
 .. |enter-domain| image:: _images/enter-domain.png
 
-.. |namecheap-dns-settings| image:: _images/namecheap-dns-settings.png
 .. |namecheap-manage-dns| image:: _images/namecheap-manage-dns.png
+.. |namecheap-manage-dns-subdomain| image:: _images/namecheap-manage-dns-subdomain.png
 .. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
+.. |namecheap-dns-panel-subdomain| image:: _images/namecheap-dns-panel-subdomain.png
 .. |namecheap-add-new-record| image:: _images/namecheap-add-new-record.png
+.. |namecheap-add-new-record-subdomain| image:: _images/namecheap-add-new-record-subdomain.png
 .. |namecheap-a-record-save| image:: _images/namecheap-a-record-save.png
+.. |namecheap-a-record-save-subdomain| image:: _images/namecheap-a-record-save-subdomain.png
 .. |namecheap-edit-cname| image:: _images/namecheap-edit-cname.png
 .. |namecheap-cname-record-save| image:: _images/namecheap-cname-record-save.png

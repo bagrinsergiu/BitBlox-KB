@@ -76,5 +76,4 @@ The licenses for most software are designed to take away your freedom to share a
 .. toctree::
     :hidden:
 
-    account/index
     domains/index
