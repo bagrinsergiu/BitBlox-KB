@@ -36,13 +36,13 @@ Set up your domain with Name.com
 		|namecom-select-dns|
 
 		
-5. Enter BitBlox's IP address ``162.243.77.151`` in the **Answers to** text box, then click **Add Record** 
+5. In the **Type** column, select **A** Record and enter BitBlox's IP address ``162.243.77.151`` in the **Answer** text box, then click **Add Record** 
  
     .. class:: screenshot
 	
 	    |namecom-enter-ip|
 
-6. In the **Type** column, select CNAME record,  enter **www** in **Host** text box, enter your domain name in the **Answers to** text box and click **Add Record** 
+6. In the **Type** column, select **CNAME**,  enter **www** in **Host** text box, enter your domain name in the **Answer** text box and then click **Add Record** 
 
 	.. class:: screenshot
 
@@ -74,24 +74,24 @@ Set up your subdomain with Name.com
 
 	.. class:: screenshot
 
-		|namecom-open-subdomain|
+		|cname-open-subdomain|
 
 
 4. In the **Details** section, click the **DNS Records** 
 
 	.. class:: screenshot
 
-		|namecom-select-dns-subdomain|
+		|namecom-open-subdomain|
 
 		
-5. In the **Type** column, select **A Record**, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Add Record** text box, then click **Save**
+5. In the **Type** column, select **A**, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Answer** text box, then click **Add Record**
 
 	.. class:: screenshot
 
 		|namecom-enter-a-record-subdomain|	
 
 		
-7. Claim your custom domain in BitBlox [LINK]
+6. Claim your custom domain in BitBlox [LINK]
 
 .. note::
 
@@ -101,13 +101,13 @@ Set up your subdomain with Name.com
 Getting more help
 ------
 
-For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
+For more help with settings in your Name.com account, contact their `support team <https://www.name.com/support>`__ . 
 
 .. |namecom-click-my-domains| image:: _images/namecom-click-my-domains.png
 .. |namecom-open-landingpage-domain| image:: _images/namecom-open-landingpage-domain.png
 .. |namecom-select-dns| image:: _images/namecom-select-dns.png
 .. |namecom-enter-ip| image:: _images/namecom-enter-ip.png
 .. |namecom-enter-cname-record2| image:: _images/namecom-enter-cname-record2.png
+.. |cname-open-subdomain| image:: _images/cname-open-subdomain.png
 .. |namecom-open-subdomain| image:: _images/namecom-open-subdomain.png
-.. |namecom-select-dns-subdomain| image:: _images/namecom-select-dns-subdomain.png
 .. |namecom-enter-a-record-subdomain| image:: _images/namecom-enter-a-record-subdomain.png
