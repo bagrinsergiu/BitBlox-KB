@@ -29,27 +29,27 @@ Set up your domain with GoDaddy
 		|godaddy-manage-dns|
 
 
-4. In the **Record** section, click the **Edit Record** icon for the **A** record:  
+4. In the **Record** section, click the **Edit Record** icon for the **A** record  
 
 	.. class:: screenshot
 
 		|godaddy-edit-a-record|
 
 		
-5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box, then click **Save** :
+5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box, then click **Save** 
  
     .. class:: screenshot
 	
 	    |godaddy-enter-ip|
 
-6. Click the **Edit Record** icon in the row of the **www** host: 
+6. Click the **Edit Record** icon in the row of the **www** host 
 
 	.. class:: screenshot
 
 		|godaddy-edit-cname|
 
 		
-7. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, then click **Save**:
+7. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, then click **Save**
 
 	.. class:: screenshot
 
@@ -69,21 +69,21 @@ Set up your subdomain with GoDaddy
 ------
 
 1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
-2. In the **Domains** section, click **Manage**:
+2. In the **Domains** section, click **Manage**
 
 	.. class:: screenshot
 
 		|godaddy-click-manage|
 		
 
-3. Click the **Settings** icon, and select **Manage DNS** : 
+3. Click the **Settings** icon, and select **Manage DNS**  
 
 	.. class:: screenshot
 
 		|godaddy-manage-dns-subdomain|
 
 
-4. Enter **ADD** icon
+4. Click the **ADD** icon
 
 	.. class:: screenshot
 
@@ -91,7 +91,7 @@ Set up your subdomain with GoDaddy
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Value** text box, then click **Save**
+6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box, then click **Save**
 
 	.. class:: screenshot
 
