@@ -101,7 +101,7 @@ Set up your subdomain with Name.com
 Getting more help
 ------
 
-For more help with settings in your Name.com account, contact their `support team <https://www.name.com/support>`__ . 
+For more help with settings in your Name.com account, contact their `support team <https://www.name.com/support>`__ 
 
 .. |namecom-click-my-domains| image:: _images/namecom-click-my-domains.png
 .. |namecom-open-landingpage-domain| image:: _images/namecom-open-landingpage-domain.png
