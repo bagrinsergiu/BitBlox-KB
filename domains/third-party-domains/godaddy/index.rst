@@ -15,7 +15,7 @@ Set up your domain with GoDaddy
 ------
 
 1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
-2.  In the **Domains** section, click **Manage**:
+2.  In the **Domains** section, click **Manage**
 
 	.. class:: screenshot
 
@@ -50,7 +50,7 @@ Set up your domain with GoDaddy
 		|godaddy-edit-cname|
 
 		
-8. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, 
+8. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box 
 9. Click **Save**
 
 	.. class:: screenshot

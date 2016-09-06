@@ -1,14 +1,10 @@
 =====================
-1and1.com
+Set up your domain with 1and1.com
 =====================
 
 
-========
-Set up your domain with GoDaddy
-========
 
-
-If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your GoDaddy account to tell the domain/ subdomain where to point.
+If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/ subdomain where to point.
 
 		
 .. contents::
@@ -16,55 +12,53 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
     :backlinks: top
 
 	
-Set up your domain with GoDaddy 
+Set up your domain with Namecheap
 ------
 
-1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
-2.  In the **Domains** section, click **Manage**:
+1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
+2. Click **Manage** next to your domain name:
 
 	.. class:: screenshot
 
-		|godaddy-click-manage|
+		|namecheap-manage-dns|
 		
 
-3. Click the **Settings** icon, and select **Manage DNS**
+3. On the domain **Details** page, click **Advanced DNS**
 
 	.. class:: screenshot
 
-		|godaddy-manage-dns|
+		|namecheap-dns-panel|
 
 
-4. In the **Record** section, click the **Edit Record** icon for the **A** record  
+4. Click **Add new record** 
 
 	.. class:: screenshot
 
-		|godaddy-edit-a-record|
+		|namecheap-add-new-record|
 
 		
-5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box
-6. Click **Save** 
- 
-    .. class:: screenshot
-	
-	    |godaddy-enter-ip|
-
-7. Click the **Edit Record** icon in the row of the **www** host 
+5. In the **Type** column, use the drop-down menu to select **A Record** 
+6. Enter ``@`` in the **Host** text box, and BitBlox's IP ``162.243.77.151``  in the **Value** text box
+7. Click the **Save Changes** icon: 
 
 	.. class:: screenshot
 
-		|godaddy-edit-cname|
+		|namecheap-a-record-save|
 
-		
-8. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, 
-9. Click **Save**
+8. In the **Type** column, click **CNAME Record**:
 
 	.. class:: screenshot
 
-		|godaddy-enter-www|
+		|namecheap-edit-cname|
 
+9. Enter your domain name (ex: ``my-landing-page.com``) in the **Value** text box
+10. Click the **Save Changes** icon:
 
+	.. class:: screenshot
+
+		|namecheap-cname-record-save|
 		
-10. Claim your custom domain in BitBlox [LINK]
+11. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -72,41 +66,41 @@ Set up your domain with GoDaddy
 
 		
 
-Set up your subdomain with GoDaddy
+Set up your subdomain with Namecheap
 ------
 
-1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
-2. In the **Domains** section, click **Manage**
+1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
+2. Click **Manage** next to your domain name:
 
 	.. class:: screenshot
 
-		|godaddy-click-manage|
+		|namecheap-manage-dns-subdomain|
 		
 
-3. Click the **Settings** icon, and select **Manage DNS**  
+3. On the domain **Details** page, click **Advanced DNS**
 
 	.. class:: screenshot
 
-		|godaddy-manage-dns-subdomain|
+		|namecheap-dns-panel-subdomain|
 
 
-4. Click the **ADD** icon
+4. Click **Add new record** 
 
 	.. class:: screenshot
 
-		|godaddy-add-new-record-subdomain|
+		|namecheap-add-new-record|
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box
-7. Click **Save**
+6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Value** text box
+7. Click the **Save Changes** icon: 
 
 	.. class:: screenshot
 
-		|godaddy-enter-subdomain|	
+		|namecheap-a-record-save-subdomain|	
 
 		
-7. Claim your custom domain in BitBlox [LINK]
+8. Claim your custom domain in BitBlox [LINK]
 
 .. note::
 
@@ -116,14 +110,21 @@ Set up your subdomain with GoDaddy
 Getting more help
 ------
 
-For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ . 
+For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
 
-.. |godaddy-click-manage| image:: _images/godaddy-click-manage.png 
-.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
-.. |godaddy-edit-a-record| image:: _images/godaddy-edit-a-record.png
-.. |godaddy-enter-ip| image:: _images/godaddy-enter-ip.png
-.. |godaddy-edit-cname| image:: _images/godaddy-edit-cname.png
-.. |godaddy-enter-www| image:: _images/godaddy-enter-www.png
-.. |godaddy-manage-dns-subdomain| image:: _images/godaddy-manage-dns-subdomain.png 
-.. |godaddy-add-new-record-subdomain| image:: _images/godaddy-add-new-record-subdomain.png
-.. |godaddy-enter-subdomain| image:: _images/godaddy-enter-subdomain.png
+
+.. |edit-landing-page| image:: _images/edit-landing-page.png
+.. |pagepanel| image:: _images/pagepanel.jpg
+.. |open3rdpartdomain| image:: _images/open3rdpartdomain.png
+.. |enter-domain| image:: _images/enter-domain.png
+
+.. |namecheap-manage-dns| image:: _images/namecheap-manage-dns.png
+.. |namecheap-manage-dns-subdomain| image:: _images/namecheap-manage-dns-subdomain.png
+.. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
+.. |namecheap-dns-panel-subdomain| image:: _images/namecheap-dns-panel-subdomain.png
+.. |namecheap-add-new-record| image:: _images/namecheap-add-new-record.png
+.. |namecheap-add-new-record-subdomain| image:: _images/namecheap-add-new-record-subdomain.png
+.. |namecheap-a-record-save| image:: _images/namecheap-a-record-save.png
+.. |namecheap-a-record-save-subdomain| image:: _images/namecheap-a-record-save-subdomain.png
+.. |namecheap-edit-cname| image:: _images/namecheap-edit-cname.png
+.. |namecheap-cname-record-save| image:: _images/namecheap-cname-record-save.png

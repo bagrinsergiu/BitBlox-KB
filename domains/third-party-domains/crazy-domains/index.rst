@@ -15,7 +15,7 @@ Set up your domain with Crazy Domains
 ------
 
 1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2.  In the Main Menu, click **Domains**:
+2.  In the Main Menu, click **Zone Editor**:
 
 	.. class:: screenshot
 
@@ -26,7 +26,7 @@ Set up your domain with Crazy Domains
 
 	.. class:: screenshot
 
-		|godaddy-manage-dns|
+		|godad|
 
 
 4. In the **Record** section, click the **Edit Record** icon for the **A** record  
