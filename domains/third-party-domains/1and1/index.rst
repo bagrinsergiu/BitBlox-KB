@@ -3,205 +3,127 @@
 =====================
 
 
-Connecting a 1&1 domain to your Squarespace site
-============
+========
+Set up your domain with GoDaddy
+========
 
 
-This extension lets you create an automated backup schedule,
-import demo content or even create a demo content archive for migration purposes.
+If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your GoDaddy account to tell the domain/ subdomain where to point.
 
+		
 .. contents::
     :local:
     :backlinks: top
 
-Demo Content Install
---------------------
+	
+Set up your domain with GoDaddy 
+------
 
-The demo content install might be very useful for your clients.
-After they install the theme, they won't need to configure and create content from scratch
-but instead they can install the demo content you've created.
-Their site will look exactly like your theme demo page, and they can just start to modify and adapt the existing content.
+1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
+2.  In the **Domains** section, click **Manage**:
 
-Create Demos
-^^^^^^^^^^^^
+	.. class:: screenshot
 
-In order to create a demo content archive, just create a Content Backup.
+		|godaddy-click-manage|
+		
 
-.. important::
+3. Click the **Settings** icon, and select **Manage DNS**
 
-    If you have contact forms added in pages with the visual page builder, please check the Mailer settings and remove all private credentials you might have inserted there.
+	.. class:: screenshot
 
-    The Mailer settings are saved in a wp option which is excluded on content backup but unfortunately
-    the same settings are saved in other places. This problem `will be fixed <https://github.com/ThemeFuse/Unyson/issues/838>`__ later but until then,
-    you’ll need to manually clear the mailer settings for each contact form before content backup.
+		|godaddy-manage-dns|
 
-.. tip::
 
-    Before creating a Content Backup for Demo Install use a plugin to remove post revisions.
+4. In the **Record** section, click the **Edit Record** icon for the **A** record  
 
-The next step is to let your users view and select which demo content to install.
-This page is created in the WordPress admin under **Tools > Demo Content Install**
-if the theme has at least one demo content available.
-The demo content archives can be placed in theme or can be downloaded from a remote server.
+	.. class:: screenshot
 
-.. _demo-in-theme:
+		|godaddy-edit-a-record|
 
-Demos bundled in theme
-######################
+		
+5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box
+6. Click **Save** 
+ 
+    .. class:: screenshot
+	
+	    |godaddy-enter-ip|
 
-1. Create Content Backup
-2. **Extract** the zip in ``{theme}/demo-content/{demo-name}/``
-3. Create ``{theme}/demo-content/{demo-name}/manifest.php`` with the following contents:
+7. Click the **Edit Record** icon in the row of the **www** host 
 
-    .. code-block:: php
+	.. class:: screenshot
 
-        <?php if (!defined('FW')) die('Forbidden');
-        /**
-         * @var string $uri Demo directory url
-         */
+		|godaddy-edit-cname|
 
-        $manifest = array();
-        $manifest['title'] = __('Awesome Demo', '{domain}');
-        $manifest['screenshot'] = $uri . '/screenshot.png';
-        $manifest['preview_link'] = 'https://your-site.com/demo/awesome';
+		
+8. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, 
+9. Click **Save**
 
-4. Go to **Tools > Demo Content Install** menu in the WordPress admin. The demo(s) should be listed on that page.
+	.. class:: screenshot
 
-.. _demo-on-server:
+		|godaddy-enter-www|
 
-Demos on remote server
-######################
 
-1. Create Content Backup
-2. Upload the zip on your server (in any directory you want, for e.g. ``your-site.com/demo/``)
-3. Upload this `download script <https://raw.githubusercontent.com/ThemeFuse/Unyson-Backups-Extension/master/includes/module/tasks/type/download/type/piecemeal/server/index.php>`__,
-   let's say in the same directory ``your-site.com/demo/``
-4. In the same directory with the download script, create a `config.php <https://raw.githubusercontent.com/ThemeFuse/Unyson-Backups-Extension/master/includes/module/tasks/type/download/type/piecemeal/server/config.php>`__
-   file and add your demos in the following format:
-
-    .. code-block:: php
-
-        //   'demo-id' => '/path/to/demo.zip',
-        'awesome-demo' => dirname(__FILE__) .'/awesome-demo.zip',
-
-5. Register the demo(s) in your theme. Add in `{theme}/inc/hooks.php <https://github.com/ThemeFuse/Theme-Includes>`__:
-
-    .. code-block:: php
-
-        /**
-         * @param FW_Ext_Backups_Demo[] $demos
-         * @return FW_Ext_Backups_Demo[]
-         */
-        function _filter_theme_fw_ext_backups_demos($demos) {
-            $demos_array = array(
-                'your-demo-id' => array(
-                    'title' => __('Demo Title', '{domain}'),
-                    'screenshot' => 'https://your-site.com/.../screnshot.png',
-                    'preview_link' => 'https://your-site.com/demo/your-demo-id',
-                ),
-                // ...
-            );
-
-            $download_url = 'https://your-site.com/path/to/download-script/';
-
-            foreach ($demos_array as $id => $data) {
-                $demo = new FW_Ext_Backups_Demo($id, 'piecemeal', array(
-                    'url' => $download_url,
-                    'file_id' => $id,
-                ));
-                $demo->set_title($data['title']);
-                $demo->set_screenshot($data['screenshot']);
-                $demo->set_preview_link($data['preview_link']);
-
-                $demos[ $demo->get_id() ] = $demo;
-
-                unset($demo);
-            }
-
-            return $demos;
-        }
-        add_filter('fw:ext:backups-demo:demos', '_filter_theme_fw_ext_backups_demos');
-
-6. Go to **Tools > Demo Content Install** menu in the WordPress admin. The demo(s) should be listed on that page.
-
-Hooks
------
-
-.. _filter-fw_ext_backups_db_export_exclude_option:
-
-* Filter to exclude wp options on database export
-
-    .. code-block:: php
-
-        function _filter_theme_fw_ext_backups_db_export_exclude_option($exclude, $option_name, $is_full_backup) {
-            if (!$is_full_backup) {
-                if ($option_name === 'your-private-option') {
-                    return true;
-                }
-            }
-
-            return $exclude;
-        }
-        add_filter(
-            'fw_ext_backups_db_export_exclude_option',
-            '_filter_theme_fw_ext_backups_db_export_exclude_option',
-            10, 3
-        );
-
-.. _filter-fw_ext_backups_db_restore_exclude_option:
-
-* Filter to exclude wp options on database restore
+		
+10. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
-        The current options (if exist) will be wiped out. To keep the current options, use :ref:`the following filter <filter-fw_ext_backups_db_restore_keep_options>`.
+		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
-    .. code-block:: php
+		
 
-        function _filter_theme_fw_ext_backups_db_restore_exclude_option($exclude, $option_name, $is_full) {
-            if (!$is_full) {
-                if ($option_name === 'your-special-option') {
-                    return true;
-                }
-            }
+Set up your subdomain with GoDaddy
+------
 
-            return $exclude;
-        }
-        add_filter(
-            'fw_ext_backups_db_restore_exclude_option',
-            '_filter_theme_fw_ext_backups_db_restore_exclude_option',
-            10, 3
-        );
+1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
+2. In the **Domains** section, click **Manage**
 
-.. _filter-fw_ext_backups_db_restore_keep_options:
+	.. class:: screenshot
 
-* Filter to preserve current wp options values on database restore
+		|godaddy-click-manage|
+		
 
-    .. code-block:: php
+3. Click the **Settings** icon, and select **Manage DNS**  
 
-        function _filter_fw_ext_backups_db_restore_keep_options($options, $is_full) {
-            if (!$is_full) {
-                $options[ 'your-special-option' ] = true;
-            }
+	.. class:: screenshot
 
-            return $options;
-        }
-        add_filter(
-            'fw_ext_backups_db_restore_keep_options',
-            '_filter_fw_ext_backups_db_restore_keep_options',
-            10, 2
-        );
+		|godaddy-manage-dns-subdomain|
 
-.. _filter-fw_ext_backups_demo_dirs:
 
-* Filter to register a custom directory that contains theme demos (for e.g. a plugin bundled with theme)
+4. Click the **ADD** icon
 
-    .. code-block:: php
+	.. class:: screenshot
 
-        function _filter_theme_fw_ext_backups_demo_dirs($dirs) {
-            $dirs['/path/to/dir-with-theme-demos']
-            = 'http://.../uri/to/dir-with-theme-demos';
+		|godaddy-add-new-record-subdomain|
 
-            return $dirs;
-        }
-        add_filter('fw_ext_backups_demo_dirs', '_filter_theme_fw_ext_backups_demo_dirs');
+		
+5. In the **Type** column, use the drop-down menu to select **A Record** 
+6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box
+7. Click **Save**
+
+	.. class:: screenshot
+
+		|godaddy-enter-subdomain|	
+
+		
+7. Claim your custom domain in BitBlox [LINK]
+
+.. note::
+
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+		
+
+Getting more help
+------
+
+For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ . 
+
+.. |godaddy-click-manage| image:: _images/godaddy-click-manage.png 
+.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
+.. |godaddy-edit-a-record| image:: _images/godaddy-edit-a-record.png
+.. |godaddy-enter-ip| image:: _images/godaddy-enter-ip.png
+.. |godaddy-edit-cname| image:: _images/godaddy-edit-cname.png
+.. |godaddy-enter-www| image:: _images/godaddy-enter-www.png
+.. |godaddy-manage-dns-subdomain| image:: _images/godaddy-manage-dns-subdomain.png 
+.. |godaddy-add-new-record-subdomain| image:: _images/godaddy-add-new-record-subdomain.png
+.. |godaddy-enter-subdomain| image:: _images/godaddy-enter-subdomain.png

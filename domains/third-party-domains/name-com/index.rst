@@ -36,13 +36,18 @@ Set up your domain with Name.com
 		|namecom-select-dns|
 
 		
-5. In the **Type** column, select **A** Record and enter BitBlox's IP address ``162.243.77.151`` in the **Answer** text box, then click **Add Record** 
+5. In the **Type** column, use the drop-menu to select **A** Record 
+6. Enter BitBlox's IP address ``162.243.77.151`` in the **Answer** text box
+7. Click **Add Record** 
  
     .. class:: screenshot
 	
 	    |namecom-enter-ip|
 
-6. In the **Type** column, select **CNAME**,  enter **www** in **Host** text box, enter your domain name in the **Answer** text box and then click **Add Record** 
+8. In the **Type** column, use the drop-menu to select **CNAME** Record
+9. Enter **www** in the **Host** text box 
+10. Enter your domain name in the **Answer** text box 
+11. Click **Add Record** 
 
 	.. class:: screenshot
 
@@ -51,7 +56,7 @@ Set up your domain with Name.com
 
 		
 	
-7. Claim your custom domain in BitBlox [LINK]
+12. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -84,14 +89,16 @@ Set up your subdomain with Name.com
 		|namecom-open-subdomain|
 
 		
-5. In the **Type** column, select **A**, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Answer** text box, then click **Add Record**
+5. In the **Type** column, use the drop-down menu to select **A** Record
+6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Answer** text box 
+7. Click **Add Record**
 
 	.. class:: screenshot
 
 		|namecom-enter-a-record-subdomain|	
 
 		
-6. Claim your custom domain in BitBlox [LINK]
+8. Claim your custom domain in BitBlox [LINK]
 
 .. note::
 

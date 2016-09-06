@@ -36,20 +36,22 @@ Set up your domain with GoDaddy
 		|godaddy-edit-a-record|
 
 		
-5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box, then click **Save** 
+5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box
+6. Click **Save** 
  
     .. class:: screenshot
 	
 	    |godaddy-enter-ip|
 
-6. Click the **Edit Record** icon in the row of the **www** host 
+7. Click the **Edit Record** icon in the row of the **www** host 
 
 	.. class:: screenshot
 
 		|godaddy-edit-cname|
 
 		
-7. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, then click **Save**
+8. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, 
+9. Click **Save**
 
 	.. class:: screenshot
 
@@ -57,7 +59,7 @@ Set up your domain with GoDaddy
 
 
 		
-8. Claim your custom domain in BitBlox [LINK]
+10. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -91,7 +93,8 @@ Set up your subdomain with GoDaddy
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box, then click **Save**
+6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box
+7. Click **Save**
 
 	.. class:: screenshot
 
@@ -108,7 +111,7 @@ Set up your subdomain with GoDaddy
 Getting more help
 ------
 
-For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
+For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ . 
 
 .. |godaddy-click-manage| image:: _images/godaddy-click-manage.png 
 .. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
