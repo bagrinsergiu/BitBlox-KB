@@ -15,49 +15,60 @@ Set up your domain with Crazy Domains
 ------
 
 1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2.  In the Main Menu, click **Zone Editor**:
+2.  In the **Main Menu**, click **Domains**:
 
 	.. class:: screenshot
 
 		|crazydomains-click-domains|
 		
 
-3. Click the **Settings** icon, and select **Manage DNS**
+3. In the main page, scroll down to **DNS Settings** icon, and select **Add Record** from the menu
 
 	.. class:: screenshot
 
-		|godad|
+		|crazydomain-add-record|
 
 
-4. In the **Record** section, click the **Edit Record** icon for the **A** record  
+4. Select **A** Record from the drop-down, then click **Add** 
 
 	.. class:: screenshot
 
-		|godaddy-edit-a-record|
+		|crazydomain-add-a-record|
 
-		
-5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box, then click **Save** 
- 
+5. Leave the **Sub Domain** box blank
+6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
+7. Click **Update**
+
     .. class:: screenshot
 	
-	    |godaddy-enter-ip|
+	    |crazydomain-save-a-record|
 
-6. Click the **Edit Record** icon in the row of the **www** host 
+8. In the **DNS Setting** select **Add Record** again from the menu
+
+    .. class:: screenshot
+
+		|crazydomain-add-cname-record|
+
+9. Select **CNAME Record** from the drop-down, then click **Add** 
 
 	.. class:: screenshot
 
-		|godaddy-edit-cname|
+		|crazydomain-add-cname|
 
 		
-7. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box, then click **Save**
+10. In the **Sub Domain** box, enter **www**
+11. In the **Alias For** box, enter mylandingpage.com
+12. Click **Update**
+
+
 
 	.. class:: screenshot
 
-		|godaddy-enter-www|
+		|crazydomain-save-cname-record|
 
 
 		
-8. Claim your custom domain in BitBlox [LINK]
+13. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -65,37 +76,38 @@ Set up your domain with Crazy Domains
 
 		
 
-Set up your subdomain with GoDaddy
+Set up your subdomain with Crazy Domains
 ------
 
-1. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__ 
-2. In the **Domains** section, click **Manage**
+1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
+2. In the **Main Menu**, click **Domains**:
 
 	.. class:: screenshot
 
-		|godaddy-click-manage|
+		|crazydomains-click-domains|
 		
 
-3. Scroll dowmn to **DNS Settings**, and select **Add Record** from the menu  
+3. In the main page, scroll down to **DNS Settings** icon, and select **Add Record** from the menu
 
 	.. class:: screenshot
 
-		|godaddy-manage-dns-subdomain|
+		|crazydomain-add-record|
 
 
-4. Click the **ADD** icon
+4. Select **A** Record from the drop-down, then click **Add** 
 
 	.. class:: screenshot
 
-		|godaddy-add-new-record-subdomain|
+		|crazydomain-add-a-record|
 
+
+5. In the **Sub Domain** box ener your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
+6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
+7. Click **Update**
 		
-5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box, then click **Save**
-
 	.. class:: screenshot
 
-		|godaddy-enter-subdomain|	
+		|crazydomain-save-a-subdomain|	
 
 		
 7. Claim your custom domain in BitBlox [LINK]
@@ -108,15 +120,16 @@ Set up your subdomain with GoDaddy
 Getting more help
 ------
 
-For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
+For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
 
 .. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |godaddy-click-manage| image:: _images/godaddy-click-manage.png 
-.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
-.. |godaddy-edit-a-record| image:: _images/godaddy-edit-a-record.png
-.. |godaddy-enter-ip| image:: _images/godaddy-enter-ip.png
-.. |godaddy-edit-cname| image:: _images/godaddy-edit-cname.png
-.. |godaddy-enter-www| image:: _images/godaddy-enter-www.png
-.. |godaddy-manage-dns-subdomain| image:: _images/godaddy-manage-dns-subdomain.png 
-.. |godaddy-add-new-record-subdomain| image:: _images/godaddy-add-new-record-subdomain.png
-.. |godaddy-enter-subdomain| image:: _images/godaddy-enter-subdomain.png
+.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
+.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
+.. |crazydomain-save-a-record| image:: _images/crazydomain-save-a-record.png
+.. |crazydomain-add-cname-record| image:: _images/crazydomain-add-cname-record.png
+.. |crazydomain-add-cname| image:: _images/crazydomain-add-cname.png
+.. |crazydomain-save-cname-record| image:: _images/crazydomain-save-cname-record.png
+.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
+.. |crazydomain-add-record| images:: _images/crazydomain-add-record.png
+.. |crazydomain-add-a-record| images:: _images/crazydomain-add-a-record.png
+.. |crazydomain-save-a-subdomain| images:: _images/crazydomain-save-a-subdomain.png
