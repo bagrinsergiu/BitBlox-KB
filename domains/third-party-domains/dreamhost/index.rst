@@ -2,11 +2,6 @@
 Set up your domain with DreamHost
 ========
 
-Probleme:
-1. wwww nu se editeaza.
-2. promo.mydomain.com nu se editeaza
-
-
 
 
 
@@ -24,21 +19,21 @@ Set up your domain with DreamHost
 1. `Log in to your DreamHost account <https://panel.dreamhost.com/>`__ 
 2. In the **Main Menu**, click **Domains**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-open-domains|
 		
 
 3. Click **Manage Domains**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-click-manage-domains|
 
 
 4. Under your domain , click **DNS**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-click-dns|
 
@@ -48,7 +43,7 @@ Set up your domain with DreamHost
 7. In the **Value** box, enter BitBlox's IP ``162.243.77.151``  
 8. Click **Add Record Now!**  
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-enter-ip|
 
@@ -56,9 +51,9 @@ Set up your domain with DreamHost
 10. In the **Type** drop down menu, select **CNAME** Record
 11. In the **Value** box, enter @
 
-	.. class:: screenshot
+    .. class:: screenshot
 
-		|namecheap-edit-cname|
+		|dreamhost-save-cname-record|
 	
 12. Claim your custom domain in BitBlox [LINK]
 
@@ -74,14 +69,14 @@ Set up your subdomain with DreamHost
 1. `Log in to your DreamHost account <https://panel.dreamhost.com/>`__  
 2. In the **Main Menu**, click **Domains**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-open-domains|
 		
 
 3. Click **Manage Domains**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-click-manage-domains|
 
@@ -89,7 +84,7 @@ Set up your subdomain with DreamHost
 
 4. Under your domain , click **DNS**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-click-dns-subdomain|
 
@@ -98,14 +93,14 @@ Set up your subdomain with DreamHost
 7. In the **Value** text box enter BitBlox's IP ``162.243.77.151`` 
 8. Click  **Add Record Now!**  
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|dreamhost-add-ip-subdomain|	
 
 		
 8. Claim your custom domain in BitBlox [LINK]
 
-.. note::
+    .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
@@ -120,7 +115,7 @@ For more help with settings in your DreamHost account, contact their `support te
 .. |dreamhost-click-manage-domains| image:: _images/dreamhost-click-manage-domains.png
 .. |dreamhost-click-dns| image:: _images/dreamhost-click-dns.png
 .. |dreamhost-enter-ip| image:: _images/dreamhost-enter-ip.png
-
+.. |dreamhost-save-cname-record| image:: _images/dreamhost-save-cname-record.png
 .. |dreamhost-click-dns-subdomain| image:: _images/dreamhost-click-dns-subdomain.png
 .. |dreamhost-add-ip-subdomain| image:: _images/dreamhost-add-ip-subdomain.png
 

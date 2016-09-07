@@ -35,14 +35,14 @@ Set up your domain with BlueHost
 
 5. In the **A (Host)** table, click **edit** in the **@** row 
 
-.. class:: screenshot
+    .. class:: screenshot
 
 		|bluehost-edit-a-record|
 
 6. Change the **points to** field to BitBlox's IP ``162.243.77.151`` 
 7. Click **save**
 
-.. class:: screenshot
+    .. class:: screenshot
 
 		|bluehost-save-a-record|
 		
@@ -103,7 +103,7 @@ Set up your subdomain with BlueHost
 		
 8. Claim your custom domain in BitBlox [LINK]
 
-.. note::
+    .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		

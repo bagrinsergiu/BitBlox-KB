@@ -17,21 +17,21 @@ Set up your domain with Crazy Domains
 1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
 2.  In the **Main Menu**, click **Domains**:
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomains-click-domains|
 		
 
 3. In the main page, scroll down to **DNS Settings** icon, and select **Add Record** from the menu
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomain-add-record|
 
 
 4. Select **A** Record from the drop-down, then click **Add** 
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomain-add-a-record|
 
@@ -51,7 +51,7 @@ Set up your domain with Crazy Domains
 
 9. Select **CNAME Record** from the drop-down, then click **Add** 
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomain-add-cname|
 
@@ -62,7 +62,7 @@ Set up your domain with Crazy Domains
 
 
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomain-save-cname-record|
 
@@ -82,21 +82,21 @@ Set up your subdomain with Crazy Domains
 1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
 2. In the **Main Menu**, click **Domains**:
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomains-click-domains|
 		
 
 3. In the main page, scroll down to **DNS Settings** icon, and select **Add Record** from the menu
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomain-add-record|
 
 
 4. Select **A** Record from the drop-down, then click **Add** 
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|crazydomain-add-a-record|
 
@@ -105,14 +105,14 @@ Set up your subdomain with Crazy Domains
 6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
 7. Click **Update**
 		
-	.. class:: screenshot
+    .. class:: screenshot
 
-		|crazydomain-save-a-subdomain|	
+		|crazydomain-save-subdomain|	
 
 		
 7. Claim your custom domain in BitBlox [LINK]
 
-.. note::
+   .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
@@ -130,6 +130,6 @@ For more help with settings in your Crazy Domain account, contact their `support
 .. |crazydomain-add-cname| image:: _images/crazydomain-add-cname.png
 .. |crazydomain-save-cname-record| image:: _images/crazydomain-save-cname-record.png
 .. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| images:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| images:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-a-subdomain| images:: _images/crazydomain-save-a-subdomain.png
+.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
+.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
+.. |crazydomain-save-subdomain| image:: _images/crazydomain-save-subdomain.png
