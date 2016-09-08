@@ -4,7 +4,7 @@ Set up your domain with 1and1.com
 
 
 
-If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/ subdomain where to point.
+If you purchased a domain from 1and1, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your 1and1 account to tell the domain/ subdomain where to point.
 
 		
 .. contents::
@@ -12,53 +12,60 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
     :backlinks: top
 
 	
-Set up your domain with Namecheap
+Set up your domain with 1and1
 ------
 
-1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
-2. Click **Manage** next to your domain name:
+1. `Log in to your 1and1 account <https://www.1and1.com/login?__lf=Static/>`__ 
+2. In **Your domain** section, click **Manage Domain**
 
 	.. class:: screenshot
 
-		|namecheap-manage-dns|
+		|1and1-click-manage-domain|
 		
 
-3. On the domain **Details** page, click **Advanced DNS**
+3. In the **Domains** page, click **Click DNS Settings**
 
 	.. class:: screenshot
 
-		|namecheap-dns-panel|
+		|1and1-click-manage-dns-settings|
 
 
-4. Click **Add new record** 
+4. Scroll down to **A/AAAA** and **CNAME Records**, click **Other IP address (aslo valid for Managed Cloud Hosting)**
 
 	.. class:: screenshot
 
-		|namecheap-add-new-record|
+		|1and1-click-other-ip|
 
+5. In the box to the right of **IPv4 Address**, enter BitBlox's IP ``162.243.77.151``. Leave any other boxes blank	
+
+
+    .. class:: screenshot
+
+		|1and1-edit-a-record|
+
+6. Scroll down and click **Save** 
+
+    .. class:: screenshot
+
+		|1and1-save-a-record|
+
+
+7. In the **Domains** page, click **Create subdomain**
+	
+	.. class:: screenshot
+
+		|1and1-click-create-subdomain|
+	
+	
+8. In the **Create Subdomain** box, enter **www**
+9. Click **Create Subdomain**
+	
+    .. class:: screenshot
+
+		|1and1-create-subdomain|
+	
 		
-5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter ``@`` in the **Host** text box, and BitBlox's IP ``162.243.77.151``  in the **Value** text box
-7. Click the **Save Changes** icon: 
-
-	.. class:: screenshot
-
-		|namecheap-a-record-save|
-
-8. In the **Type** column, click **CNAME Record**:
-
-	.. class:: screenshot
-
-		|namecheap-edit-cname|
-
-9. Enter your domain name (ex: ``my-landing-page.com``) in the **Value** text box
-10. Click the **Save Changes** icon:
-
-	.. class:: screenshot
-
-		|namecheap-cname-record-save|
-		
-11. Claim your custom domain in BitBlox [LINK]
+10. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -112,19 +119,9 @@ Getting more help
 
 For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
 
-
-.. |edit-landing-page| image:: _images/edit-landing-page.png
-.. |pagepanel| image:: _images/pagepanel.jpg
-.. |open3rdpartdomain| image:: _images/open3rdpartdomain.png
-.. |enter-domain| image:: _images/enter-domain.png
-
-.. |namecheap-manage-dns| image:: _images/namecheap-manage-dns.png
-.. |namecheap-manage-dns-subdomain| image:: _images/namecheap-manage-dns-subdomain.png
-.. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
-.. |namecheap-dns-panel-subdomain| image:: _images/namecheap-dns-panel-subdomain.png
-.. |namecheap-add-new-record| image:: _images/namecheap-add-new-record.png
-.. |namecheap-add-new-record-subdomain| image:: _images/namecheap-add-new-record-subdomain.png
-.. |namecheap-a-record-save| image:: _images/namecheap-a-record-save.png
-.. |namecheap-a-record-save-subdomain| image:: _images/namecheap-a-record-save-subdomain.png
-.. |namecheap-edit-cname| image:: _images/namecheap-edit-cname.png
-.. |namecheap-cname-record-save| image:: _images/namecheap-cname-record-save.png
+.. |1and1-click-manage-domain| image:: _images/1and1-click-manage-domain.png
+.. |1and1-click-manage-dns-settings| image:: _images/1and1-click-manage-dns-settings.png
+.. |1and1-click-other-ip| image:: _images/1and1-click-other-ip.png
+.. |1and1-edit-a-record| image:: _images/1and1-edit-a-record.png
+.. |1and1-save-a-record| image:: _images/1and1-save-a-record.png
+.. |1and1-click-create-subdomain| images:: _images/1and1-click-create-subdomain.png
