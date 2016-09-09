@@ -3,7 +3,7 @@ Set up your domain with Name.com
 ========
 
 
-If you purchased a domain from Name.com, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your Name.com account to tell the domain/ subdomain where to point.
+If you purchased a domain from Name.com, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Name.com account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -15,7 +15,7 @@ Set up your domain with Name.com
 ------
 
 1. `Log in to your Name.com account <https://name.com>`__ 
-2.  In the **Domains** section, click **My Domains**
+2.  In the **Domains** section, click **my domains**
 
 	.. class:: screenshot
 
@@ -29,24 +29,24 @@ Set up your domain with Name.com
 		|namecom-open-landingpage-domain|
 
 
-4. In the **Details** section, click the **DNS Records** 
+4. In the **Details** section, click **DNS Records** 
 
 	.. class:: screenshot
 
 		|namecom-select-dns|
 
 		
-5. In the **Type** column, use the drop-menu to select **A** Record 
-6. Enter BitBlox's IP address ``162.243.77.151`` in the **Answer** text box
+5. In the **Type** column, use the drop-down menu to select **A** Record 
+6. In the **Answer** text box, enter BitBlox's IP address ``162.243.77.151`` 
 7. Click **Add Record** 
  
     .. class:: screenshot
 	
 	    |namecom-enter-ip|
 
-8. In the **Type** column, use the drop-menu to select **CNAME** Record
-9. Enter **www** in the **Host** text box 
-10. Enter your domain name in the **Answer** text box 
+8. In the **Type** column, use the drop-down menu to select **CNAME** Record
+9. In the **Host** text box, enter **www** 
+10. In the **Answer** text box, enter your domain name (ex: ``my-landing-page.com``) 
 11. Click **Add Record** 
 
 	.. class:: screenshot
@@ -68,7 +68,7 @@ Set up your subdomain with Name.com
 ------
 
 1. `Log in to your Name.com account <https://name.com>`__ 
-2. In the **Domains** section, click **My Domains**
+2. In the **Domains** section, click **my domains**
 
 	.. class:: screenshot
 
@@ -82,7 +82,7 @@ Set up your subdomain with Name.com
 		|cname-open-subdomain|
 
 
-4. In the **Details** section, click the **DNS Records** 
+4. In the **Details** section, click **DNS Records** 
 
 	.. class:: screenshot
 
@@ -90,15 +90,16 @@ Set up your subdomain with Name.com
 
 		
 5. In the **Type** column, use the drop-down menu to select **A** Record
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Answer** text box 
-7. Click **Add Record**
+6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)  
+7. In the **Answer** text box, enter BitBlox's IP address ``162.243.77.151`` 
+8. Click **Add Record**
 
 	.. class:: screenshot
 
 		|namecom-enter-a-record-subdomain|	
 
 		
-8. Claim your custom domain in BitBlox [LINK]
+9. Claim your custom domain in BitBlox [LINK]
 
 .. note::
 

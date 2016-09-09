@@ -3,7 +3,7 @@ Set up your domain with Register.com
 ========
 
 
-If you purchased a domain from Register.com, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your Register.com account to tell the domain/ subdomain where to point.
+If you purchased a domain from Register.com, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Register.com account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -15,13 +15,13 @@ Set up your domain with Register.com
 ------
 
 1. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 
-2.  Click **Account Manager**,then click **Domains** 
+2.  Click **Account Manager**, then click **Domains** 
 
     .. class:: screenshot
 
 		|registercom-select-domain|
 		
-3. Select **Manage**
+3. From the drop-down menu, select **Manage**
 
     .. class:: screenshot
 
@@ -34,14 +34,14 @@ Set up your domain with Register.com
 		|registercom-select-manage-domain|
 
 
-5. Scroll down to **Advanced Technical Settings**. click **Edit IP Address Records** 
+5. Scroll down to **Advanced Technical Settings**, click **Edit IP Address Records** 
 
 	.. class:: screenshot
 
 		|registercom-edit-a-record|
 
-6. In the first row, add **@** to the left of your domain.
-7. Add BitBlox's IP address ``162.243.77.151`` to the right of **points to**
+6. In the first row, add ``@`` to the left of your domain
+7. In the right of **points to** , enter BitBlox's IP address ``162.243.77.151`` 
 8. Click **Continue**
 
     .. class:: screenshot
@@ -55,14 +55,14 @@ Set up your domain with Register.com
 	    |registercom-enter-continue|
 		
 
-10. Scroll down to **Advanced Technical Settings**. Click **Edit Domain Aliases Records**
+10. Scroll down to **Advanced Technical Settings**, click **Edit Domain Aliases Records**
 
     .. class:: screenshot
 	
 	    |registercom-select-cname|
 
 11. In the box to left of your domain name, enter **www** 
-12. In the box to right of **points to**, enter **mylandingpage.com**
+12. In the box to right of **points to**, enter you domain name (ex: ``mylandingpage.com``) 
 13. Click **Continue**
 
     .. class:: screenshot
@@ -77,7 +77,7 @@ Set up your domain with Register.com
 
 		
 	
-14. Claim your custom domain in BitBlox [LINK]
+15. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -89,14 +89,14 @@ Set up your subdomain with Register.com
 ------
 
 1. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 
-2.  Click **Account Manager**,then click **Domains** 
+2.  Click **Account Manager**, then click **Domains** 
 
 	.. class:: screenshot
 
 		|registercom-select-domain|
 		
 
-3. Select **Manage**
+3. From the drop-down menu, select **Manage**
 
     .. class:: screenshot
 
@@ -116,8 +116,8 @@ Set up your subdomain with Register.com
 
 		|registercom-edit-a-record|
 
-6. In the first row, add **enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)** to the left of your domain.
-7. Add BitBlox's IP address ``162.243.77.151`` to the right of **points to**
+6. In the first row,  enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
+7. In the right of **points to** box, add BitBlox's IP address ``162.243.77.151`` 
 8. Click **Continue**
 	
 	.. class:: screenshot
@@ -132,7 +132,7 @@ Set up your subdomain with Register.com
 		|registercom-click-continue-subdomain|		
 		
 		
-7. Claim your custom domain in BitBlox [LINK]
+10. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 
@@ -142,7 +142,7 @@ Set up your subdomain with Register.com
 Getting more help
 ------
 
-For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
+For more help with settings in your Register.com account, contact their `support team <https://www.register.com/customersupport/index.rcmx>`__ . 
 
 
 .. |registercom-select-domain| image:: _images/registercom-select-domain.png

@@ -3,7 +3,7 @@ Set up your domain with GoDaddy
 ========
 
 
-If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your GoDaddy account to tell the domain/ subdomain where to point.
+If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your GoDaddy account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -22,7 +22,7 @@ Set up your domain with GoDaddy
 		|godaddy-click-manage|
 		
 
-3. Click the **Settings** icon, and select **Manage DNS**
+3. Select the domain you would like to connect and click the **Settings** icon, and select **Manage DNS**
 
 	.. class:: screenshot
 
@@ -36,21 +36,21 @@ Set up your domain with GoDaddy
 		|godaddy-edit-a-record|
 
 		
-5. Enter BitBlox's IP address ``162.243.77.151`` in the **Points to** text box
+5. In the **Points to** text box, enter BitBlox's IP address ``162.243.77.151``
 6. Click **Save** 
  
     .. class:: screenshot
 	
 	    |godaddy-enter-ip|
 
-7. Click the **Edit Record** icon in the row of the **www** host 
+7. In the row of the **www** host, click the **Edit Record** icon 
 
 	.. class:: screenshot
 
 		|godaddy-edit-cname|
 
 		
-8. Enter your domain name (ex: ``my-landing-page.com``) in the **Points to** text box 
+8. In the **Points to** text box, enter your domain name (ex: ``my-landing-page.com``) 
 9. Click **Save**
 
 	.. class:: screenshot
@@ -78,7 +78,7 @@ Set up your subdomain with GoDaddy
 		|godaddy-click-manage|
 		
 
-3. Click the **Settings** icon, and select **Manage DNS**  
+3. Select the domain you would like to connect and click the **Settings** icon, and select **Manage DNS**  
 
 	.. class:: screenshot
 
@@ -93,17 +93,18 @@ Set up your subdomain with GoDaddy
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Points To** text box
-7. Click **Save**
+6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)   
+7. In the **Points To** text box, enter BitBlox's IP address ``162.243.77.151``
+8. Click **Save**
 
-	.. class:: screenshot
+    .. class:: screenshot
 
 		|godaddy-enter-subdomain|	
 
 		
-7. Claim your custom domain in BitBlox [LINK]
+9. Claim your custom domain in BitBlox [LINK]
 
-.. note::
+    .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		

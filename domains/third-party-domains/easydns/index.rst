@@ -1,9 +1,9 @@
 ========
-Set up your domain with EasyDns
+Set up your domain with EasyDNS
 ========
 
 
-If you purchased a domain from EasyDns, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your EasyDNS account to tell the domain/ subdomain where to point.
+If you purchased a domain from EasyDNS, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your EasyDNS account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -15,7 +15,7 @@ Set up your domain with EasyDNS
 ------
 
 1. `Log in to your EasyDNS account <https://cp.easydns.com/login.php>`__ 
-2. Click **DNS** next to your domain name:
+2. Click **dns** next to your domain name
 
 	.. class:: screenshot
 
@@ -29,8 +29,8 @@ Set up your domain with EasyDNS
 		|easydns-select-a-record|
 
 
-4. In the **subdomain or @** box enter **@**
-5. In the **IPv4 address** box enter BitBlox's IP ``162.243.77.151``
+4. In the **subdomain or @** box, enter ``@``
+5. In the **IPv4 address** box enter BitBlox's IP address ``162.243.77.151``
 6. Click **+** icon
 
 
@@ -46,8 +46,8 @@ Set up your domain with EasyDNS
 		|easydns-select-cname-record|
 		
 		
-8. In the **subdomain or @** box enter **www**
-9. In the **subdomain.mylandingpage.com** box, enter **www.mylandingpage.com**
+8. In the **subdomain or @** box, enter **www**
+9. In the **subdomain.mylandingpage.com** box, enter your domain name  (ex: ``mylandingpage.com``)
 10. Click **+** icon
 
 	.. class:: screenshot
@@ -68,7 +68,7 @@ Set up your subdomain with EasyDNS
 ------
 
 1. `Log in to your EasyDNS account <https://cp.easydns.com/login.php>`__
-2. Click **DNS** next to your domain name:
+2. Click **dns** next to your domain name
 
 	.. class:: screenshot
 
@@ -82,7 +82,7 @@ Set up your subdomain with EasyDNS
 		|easydns-select-a-record-subdomain|
 
 4. In the **subdomain or @** box enter your subdomain prefix, (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-5. In the **IPv4 address** box enter BitBlox's IP ``162.243.77.151``
+5. In the **IPv4 address** box enter BitBlox's IP address ``162.243.77.151``
 
 6. Click **+** icon
 

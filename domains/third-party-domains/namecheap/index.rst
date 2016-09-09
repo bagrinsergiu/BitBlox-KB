@@ -3,7 +3,7 @@ Set up your domain with Namecheap
 ========
 
 
-If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/ subdomain where to point.
+If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -15,7 +15,7 @@ Set up your domain with Namecheap
 ------
 
 1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
-2. Click **Manage** next to your domain name:
+2. Click **Manage** next to your domain name
 
 	.. class:: screenshot
 
@@ -37,27 +37,28 @@ Set up your domain with Namecheap
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter ``@`` in the **Host** text box, and BitBlox's IP ``162.243.77.151``  in the **Value** text box
-7. Click the **Save Changes** icon: 
+6. In the **Host** text box, enter ``@`` 
+7. In the **Value** text box, enter BitBlox's IP address``162.243.77.151``  
+8. Click the **Save Changes** icon: 
 
 	.. class:: screenshot
 
 		|namecheap-a-record-save|
 
-8. In the **Type** column, click **CNAME Record**:
+9. In the **Type** column, click **CNAME Record**:
 
 	.. class:: screenshot
 
 		|namecheap-edit-cname|
 
-9. Enter your domain name (ex: ``my-landing-page.com``) in the **Value** text box
-10. Click the **Save Changes** icon:
+10. In the **Value** text box, enter your domain name (ex: ``my-landing-page.com``) 
+11. Click the **Save Changes** icon
 
 	.. class:: screenshot
 
 		|namecheap-cname-record-save|
 		
-11. Claim your custom domain in BitBlox [LINK]
+12. Claim your custom domain in BitBlox [LINK]
 
 
 Link your domain to BitBlox project
@@ -174,7 +175,7 @@ Set up your subdomain with Namecheap
 ------
 
 1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
-2. Click **Manage** next to your domain name:
+2. Click **Manage** next to your domain name
 
 	.. class:: screenshot
 
@@ -196,15 +197,16 @@ Set up your subdomain with Namecheap
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``) in the **Host** text box, and BitBlox's IP ``162.243.77.151`` in the **Value** text box
-7. Click the **Save Changes** icon: 
+6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)  
+7. In the **Value** text box , enter BitBlox's IP address ``162.243.77.151`` 
+8. Click the **Save Changes** icon: 
 
 	.. class:: screenshot
 
 		|namecheap-a-record-save-subdomain|	
 
 		
-8. Claim your custom domain in BitBlox [LINK]
+9. Claim your custom domain in BitBlox [LINK]
 
 .. note::
 

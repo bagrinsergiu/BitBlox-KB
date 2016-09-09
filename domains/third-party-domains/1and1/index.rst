@@ -4,7 +4,7 @@ Set up your domain with 1and1.com
 
 
 
-If you purchased a domain from 1and1, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your 1and1 account to tell the domain/ subdomain where to point.
+If you purchased a domain from 1and1.com, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your 1and1.com account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -12,10 +12,10 @@ If you purchased a domain from 1and1, you can use it for your BitBlox Landing Pa
     :backlinks: top
 
 	
-Set up your domain with 1and1
+Set up your domain with 1and1.com
 ------
 
-1. `Log in to your 1and1 account <https://www.1and1.com/login?__lf=Static/>`__ 
+1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__ 
 2. In **Your domain** section, click **Manage Domain**
 
 	.. class:: screenshot
@@ -23,20 +23,20 @@ Set up your domain with 1and1
 		|1and1-click-manage-domain|
 		
 
-3. In the **Domains** page, click **Click DNS Settings**
+3. In the **Domains** page, click **Edit DNS Settings**
 
 	.. class:: screenshot
 
 		|1and1-click-manage-dns-settings|
 
 
-4. Scroll down to **A/AAAA** and **CNAME Records**, click **Other IP address (aslo valid for Managed Cloud Hosting)**
+4. Scroll down to **A/AAAA** and **CNAME Records** section, click **Other IP address (also valid for Managed Cloud Hosting)**
 
 	.. class:: screenshot
 
 		|1and1-click-other-ip|
 
-5. In the box to the right of **IPv4 Address**, enter BitBlox's IP ``162.243.77.151``. Leave any other boxes blank	
+5. In the box to the right of **IPv4 Address**, enter BitBlox's IP address ``162.243.77.151``. Leave any other boxes blank	
 
 
     .. class:: screenshot
@@ -50,7 +50,7 @@ Set up your domain with 1and1
 		|1and1-save-a-record|
 
 
-7. In the **Domains** page, click **Create subdomain**
+7. In the **Domains** page, click **Create Subdomain**
 	
 	.. class:: screenshot
 
@@ -73,10 +73,10 @@ Set up your domain with 1and1
 
 		
 
-Set up your subdomain with 1and1
+Set up your subdomain with 1and1.com
 ------
 
-1. `Log in to your 1and1 account <https://www.1and1.com/login?__lf=Static/>`__ 
+1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__ 
 2. In **Your domain** section, click **Manage Domain**
 
 	.. class:: screenshot
@@ -85,7 +85,7 @@ Set up your subdomain with 1and1
 		
 		
 		
-3. In the **Domains** page, click **Create subdomain**  
+3. In the **Domains** page, click **Create Subdomain**  
 	
 	.. class:: screenshot
 
@@ -102,21 +102,21 @@ Set up your subdomain with 1and1
 		|1and1-save-create-subdomain|
 
 	
-6. In the **Domains** page, click **Click DNS Settings**
+6. In the **Domains** page, click **Edit DNS Settings**
 
 	.. class:: screenshot
 
 		|1and1-click-edit-settings-subdomain|
 
 
-7. Scroll down to **A/AAAA** and **CNAME Records**, click **Other IP address (aslo valid for Managed Cloud Hosting)**
+7. Scroll down to **A/AAAA** and **CNAME Records**, click **Other IP address (also valid for Managed Cloud Hosting)**
 
 	.. class:: screenshot
 
 		|1and1-click-other-ip|
 
 		
-8. In the box to the right of **IPv4 Address**, enter BitBlox's IP ``162.243.77.151``. Leave any other boxes blank	
+8. In the box to the right of **IPv4 Address**, enter BitBlox's IP address ``162.243.77.151``. Leave any other boxes blank	
 
 
     .. class:: screenshot
@@ -142,7 +142,7 @@ Set up your subdomain with 1and1
 Getting more help
 ------
 
-For more help with settings in your 1and1 account, contact their `support team <http://help.1and1.com/?hc=website>`__ . 
+For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ . 
 
 .. |1and1-click-manage-domain| image:: _images/1and1-click-manage-domain.png
 .. |1and1-click-manage-dns-settings| image:: _images/1and1-click-manage-dns-settings.png

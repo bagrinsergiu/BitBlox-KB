@@ -5,7 +5,7 @@ Set up your domain with DreamHost
 
 
 
-If you purchased a domain from DreamHost, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your DreamHost account to tell the domain/ subdomain where to point.
+If you purchased a domain from DreamHost, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your DreamHost account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -31,7 +31,7 @@ Set up your domain with DreamHost
 		|dreamhost-click-manage-domains|
 
 
-4. Under your domain , click **DNS**
+4. Under your domain, click **DNS**
 
     .. class:: screenshot
 
@@ -40,7 +40,7 @@ Set up your domain with DreamHost
 		
 5. In the **Name** box, leave the white blank 
 6. In the **Type** drop down menu, select **A** Record
-7. In the **Value** box, enter BitBlox's IP ``162.243.77.151``  
+7. In the **Value** box, enter BitBlox's IP address ``162.243.77.151``  
 8. Click **Add Record Now!**  
 
     .. class:: screenshot
@@ -49,7 +49,7 @@ Set up your domain with DreamHost
 
 9. In the **Name** box, enter **www**
 10. In the **Type** drop down menu, select **CNAME** Record
-11. In the **Value** box, enter @
+11. In the **Value** box, enter your domain name (ex: ``mylandingpage.com``)
 
     .. class:: screenshot
 
@@ -82,15 +82,15 @@ Set up your subdomain with DreamHost
 
 
 
-4. Under your domain , click **DNS**
+4. Under your domain, click **DNS**
 
     .. class:: screenshot
 
 		|dreamhost-click-dns-subdomain|
 
-5. In the **Name** box, Enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
+5. In the **Name** box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
 6. In the **Type** drop down menu, select **A** Record
-7. In the **Value** text box enter BitBlox's IP ``162.243.77.151`` 
+7. In the **Value** text box, enter BitBlox's IP address ``162.243.77.151`` 
 8. Click  **Add Record Now!**  
 
     .. class:: screenshot
@@ -98,7 +98,7 @@ Set up your subdomain with DreamHost
 		|dreamhost-add-ip-subdomain|	
 
 		
-8. Claim your custom domain in BitBlox [LINK]
+9. Claim your custom domain in BitBlox [LINK]
 
     .. note::
 

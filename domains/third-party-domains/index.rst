@@ -2,8 +2,11 @@
 Third-party domains
 ===================
 
-If you're using a third-party domain, then you need to change its settings before it can connect to your Shopify store.
 
+General Instructions
+
+If you're using a third-party domain, then you need to change its settings before it can connect to your BitBlox Landing Page.
+You will find step-by-step guides for the most popular domain providers, but you need to read these general instructions before your begin:
 
 .. toctree::
     :hidden:

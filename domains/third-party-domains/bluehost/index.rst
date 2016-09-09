@@ -1,12 +1,12 @@
 
 
 =====================
-Set up your domain with BlueHost.com
+Set up your domain with BlueHost
 =====================
 
 
 
-If you purchased a domain from BlueHost, you can use it for your BitBlox Landing Page by following a process called domain/ subdomain mapping. In this process, you'll change a few settings in your BlueHost account to tell the domain/ subdomain where to point.
+If you purchased a domain from BlueHost, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your BlueHost account to tell the domain/subdomain where to point.
 
 		
 .. contents::
@@ -18,14 +18,14 @@ Set up your domain with BlueHost
 ------
 
 1. `Log in to your BlueHost account <https://www.bluehost.com/>`__ 
-2. In **Main Menu** click **zone editor**
+2. In the **domains** section, click **zone editor**
 
 	.. class:: screenshot
 
 		|bluehost-click-zone-editor|
 		
 
-3. In the **Select a Domain** section,from the drop down menu click on the domain you want to update
+3. In the **Select a Domain** section, from the drop down menu click on the domain you want to update
 
 	.. class:: screenshot
 
@@ -33,13 +33,13 @@ Set up your domain with BlueHost
 
 4. Click **reload** button
 
-5. In the **A (Host)** table, click **edit** in the **@** row 
+5. In the **A (Host)** table, click **edit** in the ``@`` row 
 
     .. class:: screenshot
 
 		|bluehost-edit-a-record|
 
-6. Change the **points to** field to BitBlox's IP ``162.243.77.151`` 
+6. Change the **points to** field to BitBlox's IP address ``162.243.77.151`` 
 7. Click **save**
 
     .. class:: screenshot
@@ -53,7 +53,7 @@ Set up your domain with BlueHost
 
 		|bluehost-edit-cname-record|
 
-9. In the **points to** field enter your domain name(ex: ``my-landing-page.com``)
+9. In the **points to** field, enter your domain name (ex: ``mylandingpage.com``)
 10. Click **save**
 
 	.. class:: screenshot
@@ -72,20 +72,20 @@ Set up your subdomain with BlueHost
 ------
 
 1. `Log in to your BlueHost account <https://www.bluehost.com>`__ 
-2. In **Main Menu** click **zone editor**
+2. In the **domains** section, click **zone editor**
 
 	.. class:: screenshot
 
 		|bluehost-click-zone-editor|
 
-3. In the **Select a Domain** section,from the drop down menu click on the domain you want to update
+3. In the **Select a Domain** section, from the drop down menu click on the domain you want to update
 
 	.. class:: screenshot
 
 		|bluehost-select-subdomain|
 
 
-4. In the **A (Host)** table, click **edit** in the **@** row 
+4. In the **A (Host)** table, click **edit** in the  ``@`` row 
 
 	.. class:: screenshot
 
@@ -93,7 +93,7 @@ Set up your subdomain with BlueHost
 
 		
 5. In the **host record** column, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-6. In the **points to** column enter BitBlox's IP ``162.243.77.151`` 
+6. In the **points to** column, enter BitBlox's IP address ``162.243.77.151`` 
 7. Click **save**
 
 	.. class:: screenshot
