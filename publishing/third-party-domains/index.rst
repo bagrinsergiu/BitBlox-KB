@@ -51,3 +51,27 @@ If you have an email account linked to your custom domain, you can keep using it
 It's not possible to connect a custom domain to a specific page on your site. All connected domains will point to the site itself and resolve to the primary domain.
 You can't connect a custom domain to BitBlox if the domain name has the word "BitBlox" in it.
 Domains with special characters (such as ü, é, ñ) may not display properly on all browsers. If a browser can’t display the character, it will reformat the domain with extra characters and dashes. For example, the domain “übercool.de,” redirects to "xn--bercool-m2a.de” in unsupported browsers.
+
+.. toctree::
+    :hidden:
+
+    introduction
+    1and1.com <1and1.com/index>
+    101domain <101domain/index>
+    BlueHost <bluehost/index>
+    Crazy Domains <crazy-domains/index>
+    Dotster <dotster/index>
+    Dreamhost <dreamhost/index>
+    Dyn or Nettica <dyn-or-nettica/index>
+    Dynadot <dynadot/index>
+    EasyDNS <easydns/index>
+    eNom <enom/index>
+    GoDaddy <godaddy/index>
+    Google Domains <google-domains/index>
+    Hostgator <hostgator/index>
+    Hover <hover/index>
+    IWantMyName <iwantmyname/index>
+    Name.com <name-com/index>
+    Namecheap <namecheap/index>
+    Network Solutions <network-solutions/index>
+    Register.com <register-com/index>
