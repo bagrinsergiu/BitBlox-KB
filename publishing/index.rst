@@ -10,3 +10,4 @@ Publishing
     Publishing on Wordpress <publishing-on-wordpress/index>
     Publishing on Facebook page <publishing-on-facebook-page/index>
     Publishing on Shopify <publishing-on-shopify/index>
+    Publishing on Drupal <publishing-on-drupal/index>
