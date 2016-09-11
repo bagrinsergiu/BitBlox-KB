@@ -1,4 +1,4 @@
-Domains
+Publishing
 ==========
 
 .. toctree::
