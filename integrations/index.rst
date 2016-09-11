@@ -1,4 +1,4 @@
-Domains
+Integration
 ==========
 
 .. toctree::
