@@ -5,7 +5,7 @@ Integrations
     :hidden:
 
     introduction
-    1and1.com <1and1/index>
+    Mailchimp <mailchimp/index>
     101domain <101domain/index>
     BlueHost <bluehost/index>
     Crazy Domains <crazy-domains/index>
