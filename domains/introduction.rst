@@ -1,5 +1,5 @@
 =======
-Introduction to domains
+Introduction
 =======
 
 A domain name is the URL or web address where visitors find your landing page. With a BitBlox landing page, you can replace your built-in BitBlox domain (yourdomain.bitblox.me) with a custom domain.
