@@ -817,7 +817,7 @@ ol#breadcrumbs li + li:before {
 }
 
 #menu li ul {
-    display: none;
+    /*display: none;*/
     margin: 10px 0 10px 20px;
     border-left: 1px solid #EAEAEA;
     padding: 0;
