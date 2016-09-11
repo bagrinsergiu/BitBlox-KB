@@ -828,6 +828,10 @@ ol#breadcrumbs li + li:before {
     display: block;
 }
 
+#menu .toctree-l1.current > ul > ul {
+    display: block;
+}
+
 #menu .toctree-l1.current > a {
     background-color: #00B295;
     color: #FFF;
