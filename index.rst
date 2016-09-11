@@ -76,6 +76,9 @@ The licenses for most software are designed to take away your freedom to share a
 .. toctree::
     :hidden:
 
+    account-and-billing/index
     domains/index
+    forms-storage/index
+    pages-and-content/index
     integrations/index
     deploy/index
