@@ -55,7 +55,6 @@ Domains with special characters (such as ü, é, ñ) may not display properly on
 .. toctree::
     :hidden:
 
-    introduction
     1and1.com <1and1.com/index>
     101domain <101domain/index>
     BlueHost <bluehost/index>
