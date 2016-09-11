@@ -1,5 +1,5 @@
 Integrations
-==========
+=========
 
 .. toctree::
     :hidden:
