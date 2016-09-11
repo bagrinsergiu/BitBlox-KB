@@ -76,8 +76,8 @@ The licenses for most software are designed to take away your freedom to share a
 .. toctree::
     :hidden:
 
-    pages-and-content/index
-    leads-storage/index
-    publishing/index
-    integrations/index
-    account-and-billing/index
+    Pages and Content <pages-and-content/index>
+    Leads storage <leads-storage/index>
+    Publishing <publishing/index>
+    Integration <integrations/index>
+    Account and Billing <account-and-billing/index>
