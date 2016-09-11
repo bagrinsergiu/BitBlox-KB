@@ -824,23 +824,15 @@ ol#breadcrumbs li + li:before {
 }
 #menu li ul li a {font-size: 13px;}
 
-#menu .toctree-l1.current > ul {
+#menu .toctree-l2.current > ul {
     display: block;
     border-left: 0px;
 }
 
-#menu .toctree-l1.current > ul li a {
+#menu .toctree-l2.current li a {
     margin-left: -20px;
     padding-left: 40px;
     background-color: #f5f5f5;
-}
-
-#menu .toctree-l2.current > ul {
-    display: block;
-}
-
-#menu .toctree-l2 {
-  border-left: 0px;
 }
 
 #menu .toctree-l1.current > a {
