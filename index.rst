@@ -77,5 +77,5 @@ The licenses for most software are designed to take away your freedom to share a
     :hidden:
 
     domains/index
-    integration/index
+    integrations/index
     deploy/index
