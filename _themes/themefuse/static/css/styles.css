@@ -826,6 +826,9 @@ ol#breadcrumbs li + li:before {
 
 #menu .toctree-l1.current > ul {
     display: block;
+    border-left: 0px;
+    margin-left: -20px;
+    padding-left: 40px;
 }
 
 #menu .toctree-l2.current > ul {
