@@ -5,22 +5,22 @@ Set up your domain with Namecheap
 
 If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/subdomain where to point.
 
-		
+
 .. contents::
     :local:
     :backlinks: top
 
-	
+
 Set up your domain with Namecheap
 ------
 
-1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
+1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__
 2. Click **Manage** next to your domain name
 
 	.. class:: screenshot
 
 		|namecheap-manage-dns|
-		
+
 
 3. On the domain **Details** page, click **Advanced DNS**
 
@@ -29,17 +29,17 @@ Set up your domain with Namecheap
 		|namecheap-dns-panel|
 
 
-4. Click **Add new record** 
+4. Click **Add new record**
 
 	.. class:: screenshot
 
 		|namecheap-add-new-record|
 
-		
-5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. In the **Host** text box, enter ``@`` 
-7. In the **Value** text box, enter BitBlox's IP address``162.243.77.151``  
-8. Click the **Save Changes** icon: 
+
+5. In the **Type** column, use the drop-down menu to select **A Record**
+6. In the **Host** text box, enter ``@``
+7. In the **Value** text box, enter BitBlox's IP address ``162.243.77.151``  
+8. Click the **Save Changes** icon:
 
 	.. class:: screenshot
 
@@ -51,13 +51,13 @@ Set up your domain with Namecheap
 
 		|namecheap-edit-cname|
 
-10. In the **Value** text box, enter your domain name (ex: ``my-landing-page.com``) 
+10. In the **Value** text box, enter your domain name (ex: ``my-landing-page.com``)
 11. Click the **Save Changes** icon
 
 	.. class:: screenshot
 
 		|namecheap-cname-record-save|
-		
+
 12. Claim your custom domain in BitBlox [LINK]
 
 
@@ -65,8 +65,8 @@ Link your domain to BitBlox project
 
 
 
-1. `Log in to your BitBlox account <https://www.bitblox.me/welcome/>`__ 
-2. Find the project you want to link to your domain, click **Edit Site** 
+1. `Log in to your BitBlox account <https://www.bitblox.me/welcome/>`__
+2. Find the project you want to link to your domain, click **Edit Site**
 
 
     .. class:: screenshot
@@ -169,18 +169,18 @@ Link your domain to BitBlox project
 
 		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
-		
+
 
 Set up your subdomain with Namecheap
 ------
 
-1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__ 
+1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__
 2. Click **Manage** next to your domain name
 
 	.. class:: screenshot
 
 		|namecheap-manage-dns-subdomain|
-		
+
 
 3. On the domain **Details** page, click **Advanced DNS**
 
@@ -189,34 +189,34 @@ Set up your subdomain with Namecheap
 		|namecheap-dns-panel-subdomain|
 
 
-4. Click **Add new record** 
+4. Click **Add new record**
 
 	.. class:: screenshot
 
 		|namecheap-add-new-record|
 
-		
-5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)  
-7. In the **Value** text box , enter BitBlox's IP address ``162.243.77.151`` 
-8. Click the **Save Changes** icon: 
+
+5. In the **Type** column, use the drop-down menu to select **A Record**
+6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
+7. In the **Value** text box , enter BitBlox's IP address ``162.243.77.151``
+8. Click the **Save Changes** icon:
 
 	.. class:: screenshot
 
-		|namecheap-a-record-save-subdomain|	
+		|namecheap-a-record-save-subdomain|
 
-		
+
 9. Claim your custom domain in BitBlox [LINK]
 
 .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
-		
+
 
 Getting more help
 ------
 
-For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ . 
+For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ .
 
 
 .. |edit-landing-page| image:: _images/edit-landing-page.png
@@ -243,4 +243,3 @@ For more help with settings in your Namecheap account, contact their `support te
 .. |namecheap-bitblox-ip| image:: _images/namecheap-bitblox-ip.png
 .. |namcheap-click-refresh| image:: _images/namcheap-click-refresh.png
 .. |namecheap-ip-green| image:: _images/namecheap-ip-green.png
-
