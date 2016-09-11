@@ -5,7 +5,7 @@ Publishing
     :hidden:
 
     introduction
-    BitBlox subdomain <bitblox-subdomain/index>
+    BitBlox Subdomain <bitblox-subdomain/index>
     Third-party domains <thyrd-party-domains/index>
     Publishing on Wordpress <publishing-on-wordpress/index>
     Publishing on Facebook Tab <publishing-on-facebook-tab/index>
