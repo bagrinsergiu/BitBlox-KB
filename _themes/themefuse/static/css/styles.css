@@ -817,7 +817,7 @@ ol#breadcrumbs li + li:before {
 }
 
 #menu li ul {
-    /*display: none;*/
+    display: none;
     margin: 10px 0 10px 20px;
     border-left: 1px solid #EAEAEA;
     padding: 0;
@@ -864,17 +864,6 @@ ol#breadcrumbs li + li:before {
     bottom: 0;
     width: 2px;
     background-color: #00B295;
-}
-
-#menu .toctree-l2 ul {
-    border-left: 0px;
-	margin-top: 0px;
-}
-
-#menu .toctree-l2 ul li a.current {
-    background-color: #f5f5f5;
-	margin-left:-20px;
-	padding-left:40px;
 }
 
 .affix {position: fixed !important; top: 20px; width: 216px;}
