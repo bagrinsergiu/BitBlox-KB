@@ -814,12 +814,6 @@ ol#breadcrumbs li + li:before {
 }
 #menu ul li a:hover {
 	background-color: #f5f5f5;
-	margin-left:-20px;
-	padding-left:40px;
-}
-
-#menu ul li a.current {
-    font-weight: 600;
 }
 
 #menu li ul {
