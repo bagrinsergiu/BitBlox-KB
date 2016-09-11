@@ -1,9 +1,9 @@
 ========
-Introduction to domains
+Introduction
 ========
 
 
-Introduction to domains
+Introduction to integration
 ========
 
 
@@ -56,4 +56,3 @@ If you have an email account linked to your custom domain, you can keep using it
 It's not possible to connect a custom domain to a specific page on your site. All connected domains will point to the site itself and resolve to the primary domain.
 You can't connect a custom domain to BitBlox if the domain name has the word "BitBlox" in it.
 Domains with special characters (such as ü, é, ñ) may not display properly on all browsers. If a browser can’t display the character, it will reformat the domain with extra characters and dashes. For example, the domain “übercool.de,” redirects to "xn--bercool-m2a.de” in unsupported browsers.
-
