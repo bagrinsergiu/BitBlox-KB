@@ -828,7 +828,7 @@ ol#breadcrumbs li + li:before {
     display: block;
 }
 
-#menu .toctree-l1.current > ul > ul {
+#menu .toctree-l2.current > ul {
     display: block;
 }
 
