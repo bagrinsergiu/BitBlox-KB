@@ -872,7 +872,7 @@ ol#breadcrumbs li + li:before {
   margin-left: -20px;
 }
 
-#menu .toctree-l3 > a:hover {
+#menu .toctree-l3.current > a {
   font-weight: 600;
 }
 
