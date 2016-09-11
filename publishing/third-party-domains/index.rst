@@ -3,7 +3,6 @@ Using a third-party domain 00ff
 =======
 
 .. toctree::
-    :hidden:
 
     1and1.com <1and1.com/index>
     101domain <101domain/index>
