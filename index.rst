@@ -77,8 +77,7 @@ The licenses for most software are designed to take away your freedom to share a
     :hidden:
 
     account-and-billing/index
-    domains/index
-    forms-storage/index
     pages-and-content/index
+    forms-storage/index
+    domains/index
     integrations/index
-    deploy/index
