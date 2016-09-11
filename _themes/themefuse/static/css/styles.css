@@ -863,7 +863,8 @@ ol#breadcrumbs li + li:before {
     padding-right: 5px;
     font-weight: 400;
 }
-#menu .toctree-l2.current > a {font-weight: 600;}
+#menu .toctree-l2.current > a,
+#menu .toctree-l3.current > a  {font-weight: 600;}
 #menu .toctree-l2.current > a:before {
     content: '';
     position: absolute;
