@@ -79,5 +79,5 @@ The licenses for most software are designed to take away your freedom to share a
     account-and-billing/index
     pages-and-content/index
     forms-storage/index
-    domains/index
+    publishing/index
     integrations/index
