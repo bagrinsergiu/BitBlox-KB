@@ -1,4 +1,4 @@
-Integrations and Customizations
+Integrations
 ==========
 
 .. toctree::
