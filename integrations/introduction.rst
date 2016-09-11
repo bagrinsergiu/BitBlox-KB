@@ -2,11 +2,6 @@
 Introduction
 ========
 
-
-Introduction to integration
-========
-
-
 A domain name is the URL or web address where visitors find your landing page. With a BitBlox landing page, you can replace your built-in BitBlox domain (yourdomain.bitblox.me) with a custom domain.
 
 Custom domains make it easy for visitors to find you on the web. Manage and connect your domains in the Domains panel. In the Home Menu, click Settings, and then click Domains.
