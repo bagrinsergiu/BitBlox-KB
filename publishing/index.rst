@@ -4,7 +4,7 @@ Publishing
 .. toctree::
     :hidden:
 
-    introduction
+    Introduction <introduction>
     BitBlox subdomain <bitblox-subdomain/index>
     Third-party domains <third-party-domains/index>
     Publishing on Wordpress <publishing-on-wordpress/index>
