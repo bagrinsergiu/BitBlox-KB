@@ -836,7 +836,6 @@ ol#breadcrumbs li + li:before {
 #menu .toctree-l2.current > ul {
     display: block;
     border-left: 0px;
-    
 }
 
 #menu .toctree-l1.current > a {
@@ -867,6 +866,9 @@ ol#breadcrumbs li + li:before {
     font-weight: 400;
 }
 #menu .toctree-l2.current > a {font-weight: 600;}
+
+#menu .toctree-l3.current > a {font-weight: 600;}
+
 #menu .toctree-l2.current > a:before {
     content: '';
     position: absolute;
