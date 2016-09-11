@@ -1,4 +1,4 @@
-Integrations
+Forms Storage
 ==========
 
 .. toctree::

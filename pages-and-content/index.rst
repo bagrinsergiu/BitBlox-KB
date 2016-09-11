@@ -1,4 +1,4 @@
-Integrations
+Pages and Content
 ==========
 
 .. toctree::

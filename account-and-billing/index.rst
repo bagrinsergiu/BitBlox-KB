@@ -1,4 +1,4 @@
-Integrations
+Account and Billing
 ==========
 
 .. toctree::
