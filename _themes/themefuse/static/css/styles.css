@@ -873,6 +873,10 @@ ol#breadcrumbs li + li:before {
   margin-left: -20px;
 }
 
+#menu .toctree-l3 > a:hover {
+  font-weight: 600;
+}
+
 #menu .toctree-l2.current > a:before {
     content: '';
     position: absolute;
