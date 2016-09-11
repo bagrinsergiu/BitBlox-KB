@@ -823,10 +823,6 @@ ol#breadcrumbs li + li:before {
     padding: 0;
 }
 
-#menu .toctree-l2.current ul {
-
-}
-
 #menu li ul li a {font-size: 13px;}
 
 #menu .toctree-l1.current > ul {
@@ -836,6 +832,8 @@ ol#breadcrumbs li + li:before {
 #menu .toctree-l2.current > ul {
     display: block;
     border-left: 0px;
+    margin: 10px 0 10px 0px;
+    padding-left: 20px;
 }
 
 #menu .toctree-l1.current > a {
