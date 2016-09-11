@@ -836,10 +836,6 @@ ol#breadcrumbs li + li:before {
     padding-left: 20px;
 }
 
-#menu .toctree-l2.current a {
-	background-color: #f5f5f5;
-}
-
 #menu .toctree-l1.current > a {
     background-color: #00B295;
     color: #FFF;
@@ -869,7 +865,10 @@ ol#breadcrumbs li + li:before {
 }
 #menu .toctree-l2.current > a {font-weight: 600;}
 
-#menu .toctree-l3.current > a {font-weight: 600;}
+#menu .toctree-l3.current > a {
+  font-weight: 600;
+	background-color: #f5f5f5;
+}
 
 #menu .toctree-l2.current > a:before {
     content: '';
