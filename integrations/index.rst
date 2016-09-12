@@ -4,5 +4,5 @@ Integrations
 .. toctree::
     :hidden:
 
-    Form integrations <form-integrations/index>
+    Form Integrations <form-integrations/index>
     Other Integrations <other-integrations/index>
