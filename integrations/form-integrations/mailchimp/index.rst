@@ -12,9 +12,9 @@ MailChimp is an email marketing service you can use to design and send email cam
 Connect a Form Block
 ------
 
-You can use MailChimp as a storage option in the Form Block and the Newsletter Block. This adds form submissions to a subscriber list in your MailChimp account.
+You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
 
-1. In the **BitBlox Editor**, open left click the Storage tab, then click MailChimp. 
+1. In the **Form Block**, click the **Settings**, then click **Form Integration** button.
 
 1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__
 2. In **Your domain** section, click **Manage Domain**
