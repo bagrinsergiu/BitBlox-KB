@@ -38,7 +38,7 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 		|mailchimp-list|
 
-5. Scroll down and click **Save**
+5. Scroll down and click **Save** 
 
 
 Getting more help
