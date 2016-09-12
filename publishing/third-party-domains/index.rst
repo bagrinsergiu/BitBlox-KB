@@ -5,7 +5,7 @@ Using a third-party domain
 .. toctree::
     :hidden:
 
-    1and1.com <1and1.com/index>
+    1and1.com <1and1/index>
     101domain <101domain/index>
     BlueHost <bluehost/index>
     Crazy Domains <crazy-domains/index>
