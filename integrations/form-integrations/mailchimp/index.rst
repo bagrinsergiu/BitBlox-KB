@@ -14,7 +14,7 @@ Connect a Form Block
 
 You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
 
-1. In the **Form Block**, click the **Settings**, then click **Form Integration** button.
+1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
 
 1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__
 2. In **Your domain** section, click **Manage Domain**
