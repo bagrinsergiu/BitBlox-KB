@@ -16,6 +16,13 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
 
+	.. class:: screenshot
+
+		|bitblox-settings|
+
+
+
+
 1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__
 2. In **Your domain** section, click **Manage Domain**
 
@@ -145,15 +152,4 @@ Getting more help
 
 For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
-.. |1and1-click-manage-domain| image:: _images/1and1-click-manage-domain.png
-.. |1and1-click-manage-dns-settings| image:: _images/1and1-click-manage-dns-settings.png
-.. |1and1-click-other-ip| image:: _images/1and1-click-other-ip.png
-.. |1and1-edit-a-record| image:: _images/1and1-edit-a-record.png
-.. |1and1-save-a-record| image:: _images/1and1-save-a-record.png
-.. |1and1-click-create-subdomain| image:: _images/1and1-click-create-subdomain.png
-.. |1and1-create-subdomain| image:: _images/1and1-create-subdomain.png
-
-.. |1and1-click-manage-subdomain| image:: _images/1and1-click-manage-subdomain.png
-.. |1and1-select-subdomain|	image:: _images/1and1-select-subdomain.png
-.. |1and1-save-create-subdomain| image:: _images/1and1-save-create-subdomain.png
-.. |1and1-click-edit-settings-subdomain| image:: _images/1and1-click-edit-settings-subdomain.png
+.. |bitblox-settings| image:: _images/bitblox-settings.gif
