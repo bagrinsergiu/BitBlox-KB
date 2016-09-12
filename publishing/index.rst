@@ -3,6 +3,7 @@ Publishing
 
 .. toctree::
     :hidden:
+    :maxdepth: 2
 
     Introduction <introduction>
     BitBlox subdomain <bitblox-subdomain/index>
