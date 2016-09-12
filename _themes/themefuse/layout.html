@@ -160,7 +160,7 @@
                                     </li>
                                 </ul>
 
-                                {% set toctree = toctree(maxdepth=3, collapse=False, includehidden=True) %}
+                                {% set toctree = toctree(maxdepth=3, collapse=False, includehidden=False) %}
                                 {% if toctree %}
                                     {{ toctree }}
                                 {% else %}
