@@ -47,6 +47,114 @@ jQuery(function($) {
 });
 
 /**
+ * On first level menu click, open it's first sub-menu
+ */
+jQuery(function($){
+    $('#menu').on('click', 'li.toctree-l1 > a', function(e){
+        e.preventDefault();
+
+        window.location.replace(
+            $(this).closest('li').find('li.toctree-l2:first-child > a').attr('href')
+        );
+    });
+
+    /**
+     * Make breadcrumbs work the same way
+     */
+    $('#breadcrumbs').on('click', 'li > a', function(e){
+        var href = $(this).attr('href');
+        var $menuItemLink = $('#menu li.toctree-l1 > a[href="'+ href +'"]');
+
+        if ($menuItemLink.length) {
+            e.preventDefault();
+
+            $menuItemLink.trigger('click');
+        }
+    });
+
+    /**
+     * Do not allow menu index to be displayed, redirect to first sub-menu
+     */
+    (function(){
+        var $openMenu = $('#menu > ul:not(#custom-menu-top) li.toctree-l1.current');
+
+        if (!$openMenu.length) {
+            // there is no menu open
+            return;
+        }
+
+        if ($openMenu.find('li.toctree-l2.current').length) {
+            // this page is a sub-menu page, it's ok
+            return;
+        }
+
+        /**
+         * Redirect to first sub-menu
+         *
+         * Click on menu link will be handles by the event above that will do the redirect
+         */
+        $openMenu.find('> a').trigger('click');
+    })();
+
+    /**
+     * On pagination link click
+     * if this link is a fist level menu link
+     * redirect to first sub-menu
+     */
+    $('.pagination').on('click', 'a', function(e){
+        var href = $(this).attr('href');
+        var $menuItemLink = $('#menu li.toctree-l1 > a[href="'+ href +'"]');
+
+        if ($menuItemLink.length) {
+            e.preventDefault();
+
+            $menuItemLink.trigger('click');
+        }
+    });
+
+    /**
+     * Change "prev" pagination link to last sub-menu if it's a link to first level menu
+     */
+    (function(){
+        var $prev = $('.pagination .prev');
+
+        if (!$prev.length) {
+            // this is front page, does not have "prev" link in pagination
+            return;
+        }
+
+        var $menuItemLink = $('#menu li.toctree-l1 > a[href="'+ $prev.attr('href') +'"]');
+
+        if (!$menuItemLink.length) {
+            // "prev" link does not point to first level menu, do nothing
+            return;
+        }
+
+        var $menuItem = $menuItemLink.closest('li.toctree-l1');
+
+        // move to previous menu
+        $menuItem = $menuItem.prev();
+
+        if (!$menuItem.length) {
+            // this is first menu item, get custom added menu
+            $menuItem = $('#menu > ul#custom-menu-top li.toctree-l1');
+        }
+
+        var $menuItemLink = $menuItem.find('> a');
+        var $lastSubMenu = $menuItem.find('li.toctree-l2:last-child > a');
+
+        /**
+         * Set "prev" link text and href as last sub-menu
+         */
+        {
+            $prev
+                .attr('href', $lastSubMenu.attr('href'))
+                .find('span').html($menuItemLink.html());
+        }
+    })();
+});
+
+/**
  * Allow to select external links
  * jQuery('a:external')
  */
