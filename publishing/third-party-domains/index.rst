@@ -28,7 +28,6 @@ Using a third-party domain 9999
     Register.com <register-com/index>
 
 
-
 Using a third-party domain ...
 ========
 
