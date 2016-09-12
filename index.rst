@@ -77,7 +77,6 @@ The licenses for most software are designed to take away your freedom to share a
     :hidden:
 
     Pages and Content <pages-and-content/index>
-    Leads storage <leads-storage/index>
-    Publishing <publishing/index>
     Integrations <integrations/index>
+    Publishing <publishing/index>
     Account and Billing <account-and-billing/index>
