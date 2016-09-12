@@ -3,7 +3,7 @@ Publishing
 
 .. toctree::
     :hidden:
-    :maxdepth: 2
+    :titlesonly:
 
     BitBlox subdomain <bitblox-subdomain/index>
     Third-party domains <third-party-domains/index>

@@ -5,6 +5,7 @@ Using a third-party domain 9999
 
 .. toctree::
     :hidden:
+    :titlesonly:
 
     1and1.com <1and1/index>
     101domain <101domain/index>
