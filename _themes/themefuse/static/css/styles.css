@@ -868,7 +868,7 @@ ol#breadcrumbs li + li:before {
 #menu .toctree-l3.current > a,
 #menu .toctree-l3 > a:hover {
 	background-color: #f5f5f5;
-  padding: 8px 40px;
+  padding: 8px 0px 8px 40px;
   margin-left: -20px;
 }
 
