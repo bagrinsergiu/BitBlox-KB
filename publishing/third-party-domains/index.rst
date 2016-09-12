@@ -1,5 +1,5 @@
 =======
-Using a third-party domain 00ff
+Using a third-party domain
 =======
 
 .. toctree::
