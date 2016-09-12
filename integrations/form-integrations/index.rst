@@ -7,7 +7,13 @@ Form integration
     :hidden:
     :titlesonly:
 
+    Active Campain<active-campain/index>
+    aWeber <aweber/index>
+    Campaign Monitor <campaign-monitor/index>
+    Constant Contact <constant-contact/index>
     Email Address <email-address/index>
+    GetResponse <getresponse/index>
+    Google Spreadsheets <google-spreadsheets/index>
     Mailchimp <mailchimp/index>
 
 
