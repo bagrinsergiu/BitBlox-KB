@@ -20,22 +20,17 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 		|bitblox-settings|
 
-
-
-
-1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__
-2. In **Your domain** section, click **Manage Domain**
+2. In the **Settings** tab, click **MailChimp**.
 
 	.. class:: screenshot
 
-		|1and1-click-manage-domain|
+		|select-mailchimp-app|
 
-
-3. In the **Domains** page, click **Edit DNS Settings**
+3. Log in using your **MailChimp** username and password.
 
 	.. class:: screenshot
 
-		|1and1-click-manage-dns-settings|
+		|mailchimp-login|
 
 
 4. Scroll down to **A/AAAA** and **CNAME Records** section, click **Other IP address (also valid for Managed Cloud Hosting)**
@@ -153,3 +148,5 @@ Getting more help
 For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
 .. |bitblox-settings| image:: _images/bitblox-settings.gif
+.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
+.. |mailchimp-login| image:: _images/mailchimp-login.png
