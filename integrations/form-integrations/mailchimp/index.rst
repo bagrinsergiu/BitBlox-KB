@@ -32,6 +32,11 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 		|mailchimp-login|
 
+4. Select a **MailChimp list** for form submissions from the drop-down menu.
+
+	.. class:: screenshot
+
+		|mailchimp-list|
 
 4. Scroll down to **A/AAAA** and **CNAME Records** section, click **Other IP address (also valid for Managed Cloud Hosting)**
 
@@ -150,3 +155,4 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |bitblox-settings| image:: _images/bitblox-settings.gif
 .. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
 .. |mailchimp-login| image:: _images/mailchimp-login.png
+.. |mailchimp-list| image:: _images/mailchimp-list.png
