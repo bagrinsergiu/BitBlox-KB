@@ -7,7 +7,7 @@ Email Marketing
     :hidden:
     :titlesonly:
 
-    Active Campain<active-campain/index>
+    Active Campaign<active-campaign/index>
     aWeber <aweber/index>
     Campaign Monitor <campaign-monitor/index>
     Constant Contact <constant-contact/index>
