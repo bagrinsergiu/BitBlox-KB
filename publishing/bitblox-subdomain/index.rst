@@ -1,133 +1,50 @@
 ========
-Set up your domain with Crazy Domains
+Set up your BitBlox subdomain
 ========
 
 
-If you purchased a domain from Crazy Domains, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Crazy Domains account to tell the domain/subdomain where to point.
+Registering a subdomain throught BitBlox avoids the need to register a domain with a third-party provider. 
+All built-in domains are free and hosted with BitBlox platform. You can register your subdomain on any trial or paid plan.
 
-		
-.. contents::
-    :local:
-    :backlinks: top
 
+
+Getting Started
+------
 	
-Set up your domain with Crazy Domains 
-------
-
-1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2.  In the **Main Menu**, click **Domains**
-
-    .. class:: screenshot
-
-		|crazydomains-click-domains|
-		
-
-3. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-record|
-
-
-4. Select **A Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-a-record|
-
-5. Leave the **Sub Domain** box blank
-6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
-7. Click **Update**
-
-    .. class:: screenshot
+1. From the **Page Panel**, open **Settings** tab
 	
-	    |crazydomain-save-a-record|
-
-8. In the **DNS Setting** , select **Add Record** 
-
     .. class:: screenshot
 
-		|crazydomain-add-cname-record|
-
-9. Select **CNAME Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-cname|
+		|bitblox-settings|
 
 		
-10. In the **Sub Domain** box, enter **www**
-11. In the **Alias For** box, enter your domain name (ex: ``mylandingpage.com``)
-12. Click **Update**
-
-    .. class:: screenshot
-
-		|crazydomain-save-cname-record|
-
-
-		
-13. Claim your custom domain in BitBlox [LINK]
-
-    .. note::
-
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
-
-		
-
-Set up your subdomain with Crazy Domains
-------
-
-1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2. In the **Main Menu**, click **Domains**:
-
-    .. class:: screenshot
-
-		|crazydomains-click-domains|
-		
-
-3. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-record|
-
-
-4. Select **A Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-a-record|
-
-
-5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
-7. Click **Update**
+2. In the **Settings** tab, open **Subdomain** tab
 		
     .. class:: screenshot
 
-		|crazydomain-save-subdomain|	
+		|click-subdomain|
+		
+3. In the **Your subdomain name** text box, enter your subdomain name.
+4. Click **Save Changes**
+		
+	.. class:: screenshot
+
+		|click-save-changes|	
+		
+		
+
+In Domain List, your subdomain will be seted as **primary domain**. The primary domain is the main address for your landing page.
+
+    .. class:: screenshot
+
+		|domain-list|
 
 		
-8. Claim your custom domain in BitBlox [LINK]
 
-    .. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
-		
 
-Getting more help
-------
 
-For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
-
-.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-a-record| image:: _images/crazydomain-save-a-record.png
-.. |crazydomain-add-cname-record| image:: _images/crazydomain-add-cname-record.png
-.. |crazydomain-add-cname| image:: _images/crazydomain-add-cname.png
-.. |crazydomain-save-cname-record| image:: _images/crazydomain-save-cname-record.png
-.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-subdomain| image:: _images/crazydomain-save-subdomain.png
+.. |bitblox-settings| image:: _images/bitblox-settings.gif
+.. |click-subdomain| image:: _images/click-subdomain.png
+.. |click-save-changes| image:: _images/click-save-changes.png
+.. |domain-list| image:: _images/domain-list.png

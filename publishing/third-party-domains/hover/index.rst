@@ -92,7 +92,7 @@ Set up your subdomain with Hover
 
 	.. class:: screenshot
 
-		|hover-click-save-subdomain|
+		|h v over-click-save-subdomain|
 
 
 8. Claim your custom domain in BitBlox [LINK]
