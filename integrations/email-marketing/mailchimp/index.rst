@@ -14,13 +14,13 @@ Connect a Form Block
 
 You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
 
-1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
+1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button. In this example, we're using a Form Block.
 
 	.. class:: screenshot
 
 		|bitblox-settings|
 
-2. In the **Settings** tab, click **MailChimp**.
+2. In the **Settings** tab, click **MailChimp**, then click **Connect Mailchimp**.
 
 	.. class:: screenshot
 
@@ -38,7 +38,7 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 		|mailchimp-list|
 
-5. Scroll down and click **Save** 
+5. Scroll down and click **Save**
 
 
 Getting more help
