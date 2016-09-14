@@ -24,7 +24,7 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 	.. class:: screenshot
 
-		|select-mailchimp-app|
+		|mailchimp-select-app|
 
 3. Log in using your **MailChimp** username and password.
 
@@ -38,8 +38,11 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
 		|mailchimp-list|
 
-5. Scroll down and click **Save**
+5. Click the **Save Changes** button
 
+  .. class:: screenshot
+
+    |mailchimp-save-list|
 
 Getting more help
 ------
@@ -47,6 +50,7 @@ Getting more help
 For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
 .. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
+.. |mailchimp-select-app| image:: _images/mailchimp-select-app.png
 .. |mailchimp-login| image:: _images/mailchimp-login.png
 .. |mailchimp-list| image:: _images/mailchimp-list.png
+.. |mailchimp-save-list| image:: _images/mailchimp-save-list.png
