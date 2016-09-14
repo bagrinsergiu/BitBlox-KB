@@ -44,6 +44,26 @@ You can use MailChimp as a storage option in the Form Block. This adds form subm
 
     |mailchimp-save-list|
 
+
+Connect multiple blocks to MailChimp
+---------
+
+Connecting multiple Form Blocks to a single MailChimp list can cause several issues, including dropped form submission data and disconnection from MailChimp. We recommend using a separate MailChimp list for each Form or Newsletter Block on your site when possible.
+
+If you choose to connect multiple blocks to a single MailChimp list, each block must be absolutely identical. Any discrepancies between type, name, or arrangement of fields between blocks will create errors.
+
+To troubleshoot errors resulting from multiple blocks connected to a MailChimp list, reset the MailChimp connection for each block, check each block to confirm all fields are identical, and then reconnect MailChimp as a storage option.
+
+
+MailChimp's double opt-in policy
+----------
+
+As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending a final "Welcome" email. Learn more in MailChimp's knowledge base.
+
+
+
+
+
 Getting more help
 ------
 
