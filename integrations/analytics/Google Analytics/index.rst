@@ -2,9 +2,6 @@
 Integrating Landing Pages with Google Analytics
 =====================
 
-You can easily integrate your BitBlox project with Google Analytics accross a domain using a simple dropdown list in **Script Manager**
-
-
 As an alternative from our Script Manager option, it's possible to follow a manual method of integrating with Google Analytics on your landing pages. This comes in handy with use cases that require customization to the Google Analytics script. Some examples of these use cases are:
 
 Display feature tracking
