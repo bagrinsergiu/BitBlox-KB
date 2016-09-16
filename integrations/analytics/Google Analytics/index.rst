@@ -48,7 +48,7 @@ To integrate Google Analytics with your landing page, you'll first have to creat
 		|google-code-injection|
 
 	
-9. 	Select and copy the tracking code from yout Google Analytics Administration Panel
+9. 	Select and copy the tracking code from your Google Analytics Administration Panel
 	
 	.. class:: screenshot
 
