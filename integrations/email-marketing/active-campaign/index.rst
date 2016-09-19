@@ -1,52 +1,36 @@
 =====================
-Using MailChimp with BitBlox
+Integrating Landing Pages with ActiveCampaign 
 =====================
 
-MailChimp is an email marketing service you can use to design and send email campaigns and newsletters. BitBlox offers an integration with MailChimp through the Form Blocks.
-
-.. contents::
-    :local:
-    :backlinks: top
+ActiveCampaign combines all aspects of email marketing into a single and easy to use platform. Seamlessly create beautiful and engaging emails, send them to your segmented subscribers, and see what interactions and reactions occur in real time.
 
 
-Connect a Form Block
-------
+1. Login to your `ActiveCampaign account <http://www.activecampaign.com/>`__ .
+2. In your administration panel, click **My Settings**
+3. Click **Developer** tab 
+4. Copy your **API URL** and **API Key** 
 
-You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
+    .. class:: screenshot
 
-1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
+		|copy-api-keys|
 
-	.. class:: screenshot
-
-		|bitblox-settings|
-
-2. In the **Settings** tab, click **MailChimp**.
-
-	.. class:: screenshot
-
-		|select-mailchimp-app|
-
-3. Log in using your **MailChimp** username and password.
-
-	.. class:: screenshot
-
-		|mailchimp-login|
-
-4. Select a **MailChimp list** for form submissions from the drop-down menu.
-
-	.. class:: screenshot
-
-		|mailchimp-list|
-
-5. Scroll down and click **Save** 
+5. Log into your `BitBlox account <https://www.bitblox.me//>`__ .
+6. In the page panel, click **Settings**
+7. Click **Integration** tab
+8. Click **ActiveCampaign**
+9. Add your API URL and API Key and click **Connect** button
+10. Your BitBlox account is now connected with ActiveCampaign
 
 
-Getting more help
-------
+Once your account is configured, your are ready to start posting your BitBlox leads to your ActiveCampaign list. Further information you can find `here <http://www.activecampaign.com/automation/>`__ .
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
-.. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
-.. |mailchimp-login| image:: _images/mailchimp-login.png
-.. |mailchimp-list| image:: _images/mailchimp-list.png
+.. |copy-api-keys| image:: _images/copy-api-keys.png
+
+
+
+
+
+		
+		
+		

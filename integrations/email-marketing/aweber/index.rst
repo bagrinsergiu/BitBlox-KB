@@ -1,52 +1,25 @@
 =====================
-Using MailChimp with BitBlox
+Integrating Landing Pages with AWeber
 =====================
 
-MailChimp is an email marketing service you can use to design and send email campaigns and newsletters. BitBlox offers an integration with MailChimp through the Form Blocks.
 
-.. contents::
-    :local:
-    :backlinks: top
+AWeber is a powerful email marketing service that makes it easy to connect with the prospects and customers. Use AWeber integration to collect email contacts from any online form and add them to your subscriber list.
 
 
-Connect a Form Block
-------
 
-You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
-
-1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
-
-	.. class:: screenshot
-
-		|bitblox-settings|
-
-2. In the **Settings** tab, click **MailChimp**.
-
-	.. class:: screenshot
-
-		|select-mailchimp-app|
-
-3. Log in using your **MailChimp** username and password.
-
-	.. class:: screenshot
-
-		|mailchimp-login|
-
-4. Select a **MailChimp list** for form submissions from the drop-down menu.
-
-	.. class:: screenshot
-
-		|mailchimp-list|
-
-5. Scroll down and click **Save** 
+1. Log into your `BitBlox account <https://www.bitblox.me//>`__ .
+2. In the page panel, click **Settings**
+3. Click **Integration** tab
+4. Click **AWeber**
+5. In setup manager, enter your AWeber account login and password and click **Allow Access**
+6. Wait AWeber to authorizy your authentification
+7. Choose the list you wish to use and click **Complete**
+8. Wait for AWeber to confirm your selection.
+9. Your page should now be successfully integrated with AWeber
+10. You can map your form fields to your fields in AWeber, by managing **Configure Field Mapping**. Edit the **Name** and **Email** field and click **Continue**
 
 
-Getting more help
-------
+Once your account is configured, your are ready to start posting your BitBlox leads to your AWeber list. Further information you can find `here <http://www.aweber.com/>`__ .
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
-.. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
-.. |mailchimp-login| image:: _images/mailchimp-login.png
-.. |mailchimp-list| image:: _images/mailchimp-list.png
+
