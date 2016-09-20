@@ -1,52 +1,47 @@
 =====================
-Using MailChimp with BitBlox
+Integrating Landing Page with GetResponse
 =====================
 
-MailChimp is an email marketing service you can use to design and send email campaigns and newsletters. BitBlox offers an integration with MailChimp through the Form Blocks.
-
-.. contents::
-    :local:
-    :backlinks: top
+GetResponse is an eas-to-use email marketing service with good third-party contact integration, solid support, and a variety of advanced features that you can try for free.
 
 
-Connect a Form Block
-------
-
-You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
-
-1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
-
-	.. class:: screenshot
-
-		|bitblox-settings|
-
-2. In the **Settings** tab, click **MailChimp**.
-
-	.. class:: screenshot
-
-		|select-mailchimp-app|
-
-3. Log in using your **MailChimp** username and password.
-
-	.. class:: screenshot
-
-		|mailchimp-login|
-
-4. Select a **MailChimp list** for form submissions from the drop-down menu.
-
-	.. class:: screenshot
-
-		|mailchimp-list|
-
-5. Scroll down and click **Save** 
 
 
-Getting more help
-------
+1. Log in to your `BitBlox account <https://www.bitblox.me/welcome/>`__ .
+2. In the page panel, click **Settings**
+3. Click **Integration** tab
+4. Click **GetResponse** 
+5. In appeared tab, you must enter your **api Key**
+6. Log in to your GetResponse account or click **Get your GetResponse API Key Here** link at the end of the tab
+7. In your **Account Details** tab, click **API&OAuth**
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
-.. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
-.. |mailchimp-login| image:: _images/mailchimp-login.png
-.. |mailchimp-list| image:: _images/mailchimp-list.png
+    .. class:: screenshot
+
+		|get-api-key|
+
+		
+8. Copy your API Key
+
+
+    .. class:: screenshot
+
+		|copy-api-key|
+
+
+9. Return to BitBlox, enter the key and click **Login to GetResponse** button		
+10.	Choose which email list your would like to use.
+11. Click **Finish** button
+12. Customize your Field Mapping with Email and Name details
+13. Click **Continue** button
+14. Click **Finish** button 
+		
+
+
+Once your account is configured, your are ready to start capturing the leads on your Landing Page.Further information you can find `support team <https://support.getresponse.com/?_ga=1.134187918.18888577.1474377735>`__ .
+
+
+
+.. |get-api-key| image:: _images/get-api-key.png
+.. |copy-api-key| image:: _images/copy-api-key.png
+
