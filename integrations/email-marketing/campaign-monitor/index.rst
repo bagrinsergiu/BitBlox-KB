@@ -1,52 +1,35 @@
 =====================
-Using MailChimp with BitBlox
+Integrating Landing Page with Campaign Monitor
 =====================
 
-MailChimp is an email marketing service you can use to design and send email campaigns and newsletters. BitBlox offers an integration with MailChimp through the Form Blocks.
 
-.. contents::
-    :local:
-    :backlinks: top
+Campaign Monitor makes it easy to run beautiful, professional email marketing campaigns to grow your buisness. You'll have all tools you need to test and optimize your e-mails for the best results and 24/7 support to ensure your success.
+  
 
+1. Log in to your `BitBlox account <https://www.bitblox.me/welcome/>`__ .
+2. In the page panel, click **Settings**
+3. Click **Integration** tab
+4. Click **Campaign Monitor** 
+5. Enter your Campaign Monitor **API Key** from your Campaign Monitor account  
 
-Connect a Form Block
-------
+    .. class:: screenshot
 
-You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
+       |click-account-settings|
 
-1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
-
-	.. class:: screenshot
-
-		|bitblox-settings|
-
-2. In the **Settings** tab, click **MailChimp**.
-
-	.. class:: screenshot
-
-		|select-mailchimp-app|
-
-3. Log in using your **MailChimp** username and password.
-
-	.. class:: screenshot
-
-		|mailchimp-login|
-
-4. Select a **MailChimp list** for form submissions from the drop-down menu.
-
-	.. class:: screenshot
-
-		|mailchimp-list|
-
-5. Scroll down and click **Save** 
+  
+6. Click **Continue**
+7. Wait for your API key to get authenticated with Campaign Monitor
+8. Select the desired Campaign Monitor client
+9. Wait for Campaign Monitor to send BitBlox the selected client's lists
+10. Select the Campaign Monitor list you wish to use and click **Continue**
+11. Wait for Campaign Monitor to confirm your selection
+12. Your Landing Page is now connected with Campaign Monitor  
+  
 
 
-Getting more help
-------
+Once your account is configured, your are ready to start posting your BitBlox leads to your Campaign Monitor list. Further information you can find `support team <https://help.campaignmonitor.com/support?_ga=1.86273368.1140817287.1474366454>`__ .
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
 
-.. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
-.. |mailchimp-login| image:: _images/mailchimp-login.png
-.. |mailchimp-list| image:: _images/mailchimp-list.png
+
+.. |click-account-settings| image:: _images/click-account-settings.png
+
