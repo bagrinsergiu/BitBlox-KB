@@ -14,7 +14,7 @@ ActiveCampaign combines all aspects of email marketing into a single and easy to
 
 		|copy-api-keys|
 
-5. Log into your `BitBlox account <https://www.bitblox.me//>`__ .
+5. Log in to your `BitBlox account <https://www.bitblox.me//>`__ .
 6. In the page panel, click **Settings**
 7. Click **Integration** tab
 8. Click **ActiveCampaign**

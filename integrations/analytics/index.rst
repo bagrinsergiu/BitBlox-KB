@@ -8,8 +8,8 @@ Form integration
     :titlesonly:
 
     Google Analytics <Google Analytics/index>
-    google analytics2 <google analytics2/index>
-    google analytics3 <google analytics3/index>
+    KISSmetrics <KISSmetrics/index>
+    mixpanel <mixpanel/index>
    
 
 Before you begin

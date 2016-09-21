@@ -67,7 +67,7 @@ As part of MailChimp's double opt-in process, visitors are required to confirm t
 Getting more help
 ------
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
+For more help with settings, contact their `support team <http://kb.mailchimp.com/?_ga=1.11196208.501154330.1472667559>`__ .
 
 .. |bitblox-settings| image:: _images/bitblox-settings.gif
 .. |mailchimp-select-app| image:: _images/mailchimp-select-app.png
