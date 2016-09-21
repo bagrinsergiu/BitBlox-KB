@@ -1,52 +1,19 @@
 =====================
-Using MailChimp with BitBlox
+Integrating Landing Page with Zoho CRM
 =====================
 
-MailChimp is an email marketing service you can use to design and send email campaigns and newsletters. BitBlox offers an integration with MailChimp through the Form Blocks.
-
-.. contents::
-    :local:
-    :backlinks: top
+Zoho CRM automates day-to-day sales tasks, such as: drive leads from web visits, import leads from external sources like direct mail, trade shows, convert prospects into accounts with a single click, and customize sales processes that fit your operations.
 
 
-Connect a Form Block
-------
 
-You can use MailChimp as a storage option in the Form Block. This adds form submissions to a subscriber list in your MailChimp account.
-
-1. In the **Form Block**, click the **Block Settings** icon, then click **Form Integration** button.
-
-	.. class:: screenshot
-
-		|bitblox-settings|
-
-2. In the **Settings** tab, click **MailChimp**.
-
-	.. class:: screenshot
-
-		|select-mailchimp-app|
-
-3. Log in using your **MailChimp** username and password.
-
-	.. class:: screenshot
-
-		|mailchimp-login|
-
-4. Select a **MailChimp list** for form submissions from the drop-down menu.
-
-	.. class:: screenshot
-
-		|mailchimp-list|
-
-5. Scroll down and click **Save** 
+1. Log in to your `BitBlox account <https://www.bitblox.me//>`__ .
+2. In the page panel, click **Settings**
+3. Click **Integration** tab
+4. Click **Zoho CRM**
+5. Enter your **Zoho CRM API Authtoken** and click **Authenticate with Zoho CRM**
+6. Wait for Zoho CRM to authenticate with your landing page
+7. Specify whether new leads should trigger Zoho workflow rules
+8. Click **Complete** to finish the integration
 
 
-Getting more help
-------
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ .
-
-.. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |select-mailchimp-app| image:: _images/select-mailchimp-app.png
-.. |mailchimp-login| image:: _images/mailchimp-login.png
-.. |mailchimp-list| image:: _images/mailchimp-list.png
