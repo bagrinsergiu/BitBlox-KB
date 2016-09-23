@@ -15,34 +15,37 @@ Get your API key from Autopilot
 
 1. Login to your `Autopilot account <https://login.autopilothq.com/login>`__ .
 
-2. In Administration Panel, click **Settings**
+2. In administration panel, click **Settings**
+   
     .. class:: screenshot
 
 		|click-settings|
 		
-
-1. Login to your `ActiveCampaign account <http://www.activecampaign.com/>`__ .
-2. In your administration panel, click **My Settings**
-3. Click **Developer** tab 
-4. Copy your **API URL** and **API Key** 
-
+3. Select the **Autopilot API** and click **Generate**
+		
+	   
     .. class:: screenshot
 
-		|copy-api-keys|
-
-5. Log in to your `BitBlox account <https://www.bitblox.me//>`__ .
-6. In the page panel, click **Settings**
-7. Click **Integration** tab
-8. Click **ActiveCampaign**
-9. Add your API URL and API Key and click **Connect** button
-10. Your BitBlox account is now connected with ActiveCampaign
+		|click-generate|	
+		
+Connect your Autopilat Account with BitBlox
+------
 
 
-Once your account is configured, your are ready to start posting your BitBlox leads to your ActiveCampaign list. Further information you can find `here <http://www.activecampaign.com/automation/>`__ .
+
+4. Log in to your `BitBlox account <https://www.bitblox.me//>`__ .
+5. In the page panel, click **Settings**
+6. Click **Integration** tab
+7. Click **Autopilot**
+8. Enter your API Key and click **Connect** button
+9. Your BitBlox account is now connected with your Autopilot account.
+
+
+Once your account is configured, your are ready to start posting your BitBlox leads to your Autopilot campaign. Further information you can find `here <https://autopilothq.zendesk.com/hc/en-us/>`__ .
 
 
 .. |click-settings| image:: _images/click-settings.png
-
+.. |click-generate| image:: _images/click-generate.png
 
 
 
