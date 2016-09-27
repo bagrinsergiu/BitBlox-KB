@@ -1,74 +1,69 @@
 =====================
-Integrating Landing Pages with Google Analytics
+Integrating Landing Pages with KISSmetrics
 =====================
 
 
+KISSmetrics is a powerful platform that offer you to determine, monitor and enhance the metrics and other elements significant to your business. KISSmerics analyzes and tracks much more than bounce rates. It focuses on customer value, revenue, conversion rates and marketing attribution, and provides businesses with the information to improve their bottom line.
 
-When you integrate Google Analytics with BitBlox, you can get a quick idea of what customers are looking for in your landing page, which information get the most traffic, and where your customers spend their time in your landing page. You can use this information to drive content in your pages.
 
-To integrate Google Analytics with your landing page, you'll first have to create a new property in your Analytics account:
+.. contents::
+    :local:
+    :backlinks: top
 
-1. You can do this from the **Admin** section after you login to Google Analytics
-2. Click on **Create a new property** under any of your existing accounts. If this is the first time you're using Google Analytics, you'll have to set up a new account and the create a new property.
- 
 
-    .. class:: screenshot
+Get your API Key from KISSmetrics
+------
 
-		|google-admin|
 
-3. Under **what would you like to track**, choose **website**
-
-    .. class:: screenshot
-
-		|google-website|
-
-4. Enter your landing page name, also specify your URL.
-
+1. Log in to your  `KISSmetrics account <https://www.kissmetrics.com/signin>`__ .
+2. Click on **Settings** icon from administration panel.
 
     .. class:: screenshot
 
-		|google-enter-name|
+		|click-settings|
 
 
-5. Choose your timezone and click the **Get Tracking ID** button
-		
-
-    .. class:: screenshot
-
-		|google-get-tracking-id|
-		
-		
-6. Login in BitBlox account.
-7. Under your project, click  **Edit Site**
-8. Open the **Page Panel** and then open **Code Injection** Tab
+3. Scroll-down to JavaScript Tracking Code. Insert and Copy the KISSmetris API javascript code.
 
 
     .. class:: screenshot
 
-		|google-code-injection|
+		|copy-api-code|
 
-	
-9. 	Select and copy the tracking code from your Google Analytics Administration Panel
-	
-	.. class:: screenshot
 
-		|google-copy-code|	
+
+
 		
-10. Paste the tracking code into your landing page's **Code Injection** tab		
+Integrating with KISSmetrics
+------
+
+1. Log in to your `BitBlox account <https://www.bitblox.me/welcome/>`__ 
+2. Navigate to **Code Injection** section of your account
+
+    .. class:: screenshot
+
+		|click-code-injection|
+
+
+
+3. Paste the API code into the script dialogue
 		
-	.. class:: screenshot
+    .. class:: screenshot
 
-		|google-paste-code|		
+		|paste-api-code|
+
 		
-
-
-That's it! The stats from your Landing Page should start appearing in your Analytics account in a while. Please note that this information will not show up in your BitBlox account, but only in Google Analytics. You can learn hot to enable site search so that you can track search terms `over here <https://support.google.com/analytics/answer/1012264?hl=en/>`__  
+4. This is it! You have now connected your Landing Page account with KISSmetrics		
 		
+		
+		
+Getting more help
+------
 
-.. |google-admin| image:: _images/google-admin.png
-.. |google-website| image:: _images/google-website.png
-.. |google-enter-name| image:: _images/google-enter-name.png
-.. |google-get-tracking-id| image:: _images/google-get-tracking-id.png
-.. |google-code-injection| image:: _images/google-code-injection.png
-.. |google-copy-code| image:: _images/google-copy-code.png
-.. |google-paste-code| image:: _images/google-paste-code.png
+
+For more help with settings in your KissMetrics account, contact their `support team <http://support.kissmetrics.com//>`__  
+		
+.. |click-settings| image:: _images/click-settings.png
+.. |copy-api-code| image:: _images/copy-api-code.png
+.. |click-code-injection| image:: _images/click-code-injection.png
+.. |paste-api-code| image:: _images/paste-api-code.png

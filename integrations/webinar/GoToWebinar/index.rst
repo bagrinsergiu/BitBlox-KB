@@ -26,7 +26,7 @@ Getting more help
 ------
 
 
-For more help with settings in your 1and1.com account, contact their `support team <https://care.citrixonline.com/gotowebinar?_ga=1.56606699.1318661049.1474626713/>`__ .
+For more help with settings in your GoToWebinar account, contact their `support team <https://care.citrixonline.com/gotowebinar?_ga=1.56606699.1318661049.1474626713/>`__ .
 
  
 
