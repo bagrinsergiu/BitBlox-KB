@@ -10,6 +10,30 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
     :local:
     :backlinks: top
 
+
+Get BitBlox records
+------
+
+1. Open the **Page Panel** in your project. Click **3rd Party Domain** tab
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+2. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-connect-domain|
+    
+3. After you connect your domain, a new panel will open with the recors you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-dns-settings|
+	
 	
 Set up your domain with GoDaddy 
 ------
@@ -58,10 +82,16 @@ Set up your domain with GoDaddy
 		|godaddy-enter-www|
 
 
-		
-10. Claim your custom domain in BitBlox [LINK]
+10. Go back into your BitBlox account, and click **Refresh** button until current data will be on green color.
 
-    .. note::
+    .. class:: screenshot
+
+		|bitblox-click-refresh|
+
+
+
+	
+	.. note::
 
 		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
@@ -123,3 +153,7 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |godaddy-manage-dns-subdomain| image:: _images/godaddy-manage-dns-subdomain.png 
 .. |godaddy-add-new-record-subdomain| image:: _images/godaddy-add-new-record-subdomain.png
 .. |godaddy-enter-subdomain| image:: _images/godaddy-enter-subdomain.png
+.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
+.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
+.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
+.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
