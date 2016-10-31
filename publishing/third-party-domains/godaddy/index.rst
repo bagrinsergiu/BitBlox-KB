@@ -10,30 +10,6 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
     :local:
     :backlinks: top
 
-
-Get BitBlox records
-------
-
-1. Open the **Page Panel** in your project. Click **3rd Party Domain** tab
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-2. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
-
-
-    .. class:: screenshot
-
-		|bitblox-connect-domain|
-    
-3. After you connect your domain, a new panel will open with the recors you need to enter in your provider account so your domain connects to BitBlox.
-
-	
-    .. class:: screenshot
-
-		|bitblox-dns-settings|
-	
 	
 Set up your domain with GoDaddy 
 ------
@@ -82,7 +58,34 @@ Set up your domain with GoDaddy
 		|godaddy-enter-www|
 
 
-10. Go back into your BitBlox account, and click **Refresh** button until current data will be on green color.
+10. In your BitBlox account, click **Edit Page** on your landing page. 
+
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+11. Open the **Page Panel**, click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+12. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-connect-domain|
+    
+13. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-dns-settings|
+	
+14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
 
     .. class:: screenshot
 
@@ -132,13 +135,46 @@ Set up your subdomain with GoDaddy
 		|godaddy-enter-subdomain|	
 
 		
-9. Claim your custom domain in BitBlox [LINK]
 
-    .. note::
+9. In your BitBlox account, click **Edit Page** on your landing page. 
+
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+10. Open the **Page Panel**, click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+11. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-click-connect-domain|
+    
+12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-subdomain-dns-settings|
+	
+13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-refresh|
+
+		
+.. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+				
 		
-
 Getting more help
 ------
 
@@ -154,6 +190,10 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |godaddy-add-new-record-subdomain| image:: _images/godaddy-add-new-record-subdomain.png
 .. |godaddy-enter-subdomain| image:: _images/godaddy-enter-subdomain.png
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
+.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
+.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
 .. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
 .. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
 .. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
