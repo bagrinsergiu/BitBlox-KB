@@ -219,11 +219,3 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |1and1-select-subdomain|	image:: _images/1and1-select-subdomain.png
 .. |1and1-save-create-subdomain| image:: _images/1and1-save-create-subdomain.png
 .. |1and1-click-edit-settings-subdomain| image:: _images/1and1-click-edit-settings-subdomain.png
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
-.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
