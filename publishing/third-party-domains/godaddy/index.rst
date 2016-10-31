@@ -50,7 +50,7 @@ Set up your domain with GoDaddy
 		|godaddy-edit-cname|
 
 		
-8. In the **Points to** text box, enter your domain name (ex: ``my-landing-page.com``) 
+8. In the **Points to** text box, enter your domain name (ex: ``mylandingpage.com``) 
 9. Click **Save**
 
 	.. class:: screenshot
@@ -64,28 +64,37 @@ Set up your domain with GoDaddy
 
 		|bitblox-click-edit-page|
 
-11. Open the **Page Panel**, click **Settings** tab and then click **3rd Party Domain** tab
+		
+		
+11. Open the **Page Panel** and click the **Settings** icon
+
+     .. class:: screenshot
+
+		|bitblox-click-settings|
+
+
+12. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
     .. class:: screenshot
 
 		|bitblox-click-3-rd-party-domain|
 
-12. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+13. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-connect-domain|
     
-13. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
 
     .. class:: screenshot
 
@@ -142,28 +151,34 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-click-edit-page|
 
-10. Open the **Page Panel**, click **Settings** tab and then click **3rd Party Domain** tab
+10. Open the **Page Panel** and click the **Settings** icon
+
+     .. class:: screenshot
+
+		|bitblox-click-settings|		
+		
+11. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
     .. class:: screenshot
 
 		|bitblox-click-3-rd-party-domain|
 
-11. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+12. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-subdomain-click-connect-domain|
     
-12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+13. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
 
     .. class:: screenshot
 
@@ -197,3 +212,4 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
 .. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
 .. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
