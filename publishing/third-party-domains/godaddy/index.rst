@@ -101,7 +101,6 @@ Set up your domain with GoDaddy
 		|bitblox-click-refresh|
 
 
-
 	
 	.. note::
 
