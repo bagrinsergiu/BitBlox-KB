@@ -58,110 +58,54 @@ Set up your domain with Namecheap
 
 		|namecheap-cname-record-save|
 
-12. Claim your custom domain in BitBlox [LINK]
+12. Next to the **URL Redirect Record** click on the trashcan icon		
+		
+		
+    .. class:: screenshot	
+		
+		|namecheap-remove-url-records|
+		
+13. In your BitBlox account, click **Edit Page** on your landing page. 
+
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+		
+		
+14. Open the **Page Panel** and click the **Settings** icon
+
+     .. class:: screenshot
+
+		|bitblox-click-settings|
 
 
-Link your domain to BitBlox project
-
-
-
-1. `Log in to your BitBlox account <https://www.bitblox.me/welcome/>`__
-2. Find the project you want to link to your domain, click **Edit Site**
+15. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
     .. class:: screenshot
 
-		|namecheap-click-edit-site-bitblox|
+		|bitblox-click-3-rd-party-domain|
 
-
-.. note::
-
-	If you're new to BitBlox - click **add new project**. Click a template to learn more or to view a larger preview, then click **start with this design**
-
-
-3. In **Page Panel** click **Settings** icon
+16. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
 
 
     .. class:: screenshot
+ 
+		|bitblox-connect-domain|
+    
+17. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
 
-		|namecheap-in-page-pane-click-settings|
+	
+    .. class:: screenshot
 
-
-
-
-4. Click **Settings**
+		|bitblox-dns-settings|
+	
+18. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
 
     .. class:: screenshot
 
-		|namecheap-click-settings|
-
-
-
-5. Click **3rd Pary Domain**
-
-   .. class:: screenshot
-
-
-		|namecheap-click-3rd-party-domain|
-
-
-6. In **Domain Name** box, enter the full domain name you own from a third-pary domain provider
-7. Click **Connect Domain**
-
-
-   .. class:: screenshot
-
-
-		|namecheap-click-connect-domain|
-
-
-8. After you connect your domain, a new panel will open with your IP address  ``162.243.77.151``
-
-   .. class:: screenshot
-
-
-		|namecheap-bitblox-ip|
-
-9. After changing your records, return to the Domains Panel and click **Refresh** below the records
-
-
-   .. class:: screenshot
-
-
-		|namcheap-click-refresh|
-
-
-
-10. If all records are entered correctly, the **Current Data** will change the color into green
-
-
-   .. class:: screenshot
-
-
-		|namecheap-ip-green|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		|bitblox-click-refresh|
 
 
 
@@ -197,7 +141,7 @@ Set up your subdomain with Namecheap
 
 
 5. In the **Type** column, use the drop-down menu to select **A Record**
-6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
+6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your subdomain, enter ``promo``)
 7. In the **Value** text box , enter BitBlox's IP address ``162.243.77.151``
 8. Click the **Save Changes** icon:
 
@@ -205,8 +149,52 @@ Set up your subdomain with Namecheap
 
 		|namecheap-a-record-save-subdomain|
 
+9. Next to the **URL Redirect Record** click on the trashcan icon		
+		
+		
+    .. class:: screenshot	
+		
+		|namecheap-remove-url-records-subdomain|
+			
+		
+11.In your BitBlox account, click **Edit Page** on your landing page. 
 
-9. Claim your custom domain in BitBlox [LINK]
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+12.Open the **Page Panel** and click the **Settings** icon
+
+     .. class:: screenshot
+
+		|bitblox-click-settings|		
+		
+13. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+14. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-click-connect-domain|
+    
+15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-subdomain-dns-settings|
+	
+16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-refresh|
 
 .. note::
 
@@ -234,12 +222,15 @@ For more help with settings in your Namecheap account, contact their `support te
 .. |namecheap-a-record-save-subdomain| image:: _images/namecheap-a-record-save-subdomain.png
 .. |namecheap-edit-cname| image:: _images/namecheap-edit-cname.png
 .. |namecheap-cname-record-save| image:: _images/namecheap-cname-record-save.png
+.. |namecheap-remove-url-records| image:: _images/namecheap-remove-url-records.png
+.. |namecheap-remove-url-records-subdomain| image:: _images/namecheap-remove-url-records-subdomain.png
 
-.. |namecheap-click-edit-site-bitblox| image:: _images/namecheap-click-edit-site-bitblox.png
-.. |namecheap-in-page-pane-click-settings| image:: _images/namecheap-in-page-pane-click-settings.png
-.. |namecheap-click-settings| image:: _images/namecheap-click-settings.png
-.. |namecheap-click-3rd-party-domain| image:: _images/namecheap-click-3rd-party-domain.png
-.. |namecheap-click-connect-domain| image:: _images/namecheap-click-connect-domain.png
-.. |namecheap-bitblox-ip| image:: _images/namecheap-bitblox-ip.png
-.. |namcheap-click-refresh| image:: _images/namcheap-click-refresh.png
-.. |namecheap-ip-green| image:: _images/namecheap-ip-green.png
+.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
+.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
+.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
+.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
+.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
+.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
