@@ -15,7 +15,7 @@ Set up your domain with Namecheap
 ------
 
 1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__
-2. Click **Manage** next to your domain name
+2. Click **Domain list** tab, and then click **Manage** next to your domain name
 
 	.. class:: screenshot
 
@@ -119,7 +119,7 @@ Set up your subdomain with Namecheap
 ------
 
 1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__
-2. Click **Manage** next to your domain name
+2. Click **Domain list** tab and then click **Manage** next to your domain name
 
 	.. class:: screenshot
 
@@ -137,7 +137,7 @@ Set up your subdomain with Namecheap
 
 	.. class:: screenshot
 
-		|namecheap-add-new-record|
+		|namecheap-add-new-record-subdomain|
 
 
 5. In the **Type** column, use the drop-down menu to select **A Record**
@@ -157,40 +157,40 @@ Set up your subdomain with Namecheap
 		|namecheap-remove-url-records-subdomain|
 			
 		
-11.In your BitBlox account, click **Edit Page** on your landing page. 
+10. In your BitBlox account, click **Edit Page** on your landing page. 
 
-     .. class:: screenshot
+    .. class:: screenshot
 
 		|bitblox-click-edit-page|
 
-12.Open the **Page Panel** and click the **Settings** icon
+11. Open the **Page Panel** and click the **Settings** icon
 
-     .. class:: screenshot
+    .. class:: screenshot
 
 		|bitblox-click-settings|		
 		
-13. Click **Settings** tab and then click **3rd Party Domain** tab
+12. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
     .. class:: screenshot
 
 		|bitblox-click-3-rd-party-domain|
 
-14. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+13. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-subdomain-click-connect-domain|
     
-15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
 
     .. class:: screenshot
 

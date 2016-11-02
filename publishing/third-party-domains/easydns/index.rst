@@ -56,7 +56,48 @@ Set up your domain with EasyDNS
 
 	
 		
-11. Claim your custom domain in BitBlox [LINK]
+11. In your BitBlox account, click **Edit Page** on your landing page. 
+
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+		
+
+12. Open the Page panel and click the **Settings** icon
+
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|
+
+		
+13. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+14. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-connect-domain|
+    
+15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-dns-settings|
+	
+16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-click-refresh|
 
     .. note::
 
@@ -92,9 +133,45 @@ Set up your subdomain with EasyDNS
 
 
 		
-7. Claim your custom domain in BitBlox [LINK]
+7. In your BitBlox account, click **Edit Page** on your landing page. 
 
-.. note::
+    .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+		
+		
+8. Open the Page panel and click the **Settings** icon
+
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|
+		
+9. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+10. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-click-connect-domain|
+    
+11. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-subdomain-dns-settings|
+	
+12. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
@@ -113,7 +190,15 @@ For more help with settings in your EasyDNS account, contact their `support team
 .. |easydns-select-a-record-subdomain| image:: _images/easydns-select-a-record-subdomain.png
 .. |easydns-save-a-record-subdomain| image:: _images/easydns-save-a-record-subdomain.png
 
-
+.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
+.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
+.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
+.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
+.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
+.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
 
 
 

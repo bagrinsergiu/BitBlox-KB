@@ -49,13 +49,56 @@ Set up your domain with DreamHost
 
 9. In the **Name** box, enter **www**
 10. In the **Type** drop down menu, select **CNAME** Record
-11. In the **Value** box, enter your domain name (ex: ``mylandingpage.com``)
+11. In the **Value** box, enter your domain name (ex: ``mylandingpage.com``). 
+12. Click **Add Record Now**
 
     .. class:: screenshot
 
 		|dreamhost-save-cname-record|
 	
-12. Claim your custom domain in BitBlox [LINK]
+13. In your BitBlox account, click **Edit Page** on your landing page. 
+
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+		
+
+14. Open the Page panel and click the **Settings** icon
+
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|
+
+		
+15. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+16. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-connect-domain|
+    
+17. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-dns-settings|
+	
+18. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-click-refresh|
+
 
     .. note::
 
@@ -98,7 +141,43 @@ Set up your subdomain with DreamHost
 		|dreamhost-add-ip-subdomain|	
 
 		
-9. Claim your custom domain in BitBlox [LINK]
+9. In your BitBlox account, click **Edit Page** on your landing page. 
+
+     .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+		
+		
+10.  Open the Page panel and click the **Settings** icon
+
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|
+		
+11. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+12. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-click-connect-domain|
+    
+13. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-subdomain-dns-settings|
+	
+14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
 
     .. note::
 
@@ -119,3 +198,14 @@ For more help with settings in your DreamHost account, contact their `support te
 .. |dreamhost-click-dns-subdomain| image:: _images/dreamhost-click-dns-subdomain.png
 .. |dreamhost-add-ip-subdomain| image:: _images/dreamhost-add-ip-subdomain.png
 
+
+
+.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
+.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
+.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
+.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
+.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
+.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
