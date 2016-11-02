@@ -140,7 +140,44 @@ Set up your subdomain with Name.com
 		|namecom-enter-a-record-subdomain|	
 
 		
-9. Claim your custom domain in BitBlox [LINK]
+9. In your BitBlox account, click **Edit Page** on your landing page. 
+
+    .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+10. Open the **Page Panel** and click the **Settings** icon
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|		
+		
+11. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+12. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-click-connect-domain|
+    
+13. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-subdomain-dns-settings|
+	
+14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-refresh|
 
 .. note::
 
@@ -168,3 +205,6 @@ For more help with settings in your Name.com account, contact their `support tea
 .. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
 .. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
 .. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
+.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png

@@ -77,7 +77,47 @@ Set up your domain with Register.com
 
 		
 	
-15. Claim your custom domain in BitBlox [LINK]
+15. In your BitBlox account, click **Edit Page** on your landing page. 
+
+    .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+		
+		
+16. Open the **Page Panel** and click the **Settings** icon
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|
+
+
+17. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+18. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+ 
+		|bitblox-connect-domain|
+    
+19. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-dns-settings|
+	
+20. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-click-refresh|
 
     .. note::
 
@@ -132,7 +172,44 @@ Set up your subdomain with Register.com
 		|registercom-click-continue-subdomain|		
 		
 		
-10. Claim your custom domain in BitBlox [LINK]
+10. In your BitBlox account, click **Edit Page** on your landing page. 
+
+    .. class:: screenshot
+
+		|bitblox-click-edit-page|
+
+11. Open the **Page Panel** and click the **Settings** icon
+
+    .. class:: screenshot
+
+		|bitblox-click-settings|		
+		
+12. Click **Settings** tab and then click **3rd Party Domain** tab
+
+
+    .. class:: screenshot
+
+		|bitblox-click-3-rd-party-domain|
+
+13. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-click-connect-domain|
+    
+14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+
+	
+    .. class:: screenshot
+
+		|bitblox-subdomain-dns-settings|
+	
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+
+    .. class:: screenshot
+
+		|bitblox-subdomain-refresh|
 
     .. note::
 
@@ -158,3 +235,13 @@ For more help with settings in your Register.com account, contact their `support
 .. |registercom-select-subdomain| image:: _images/registercom-select-subdomain.png
 .. |registercom-enter-a-subdomain|	image:: _images/registercom-enter-a-subdomain.png
 .. |registercom-click-continue-subdomain| image:: _images/registercom-click-continue-subdomain.png
+
+.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
+.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
+.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
+.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
+.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
+.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
