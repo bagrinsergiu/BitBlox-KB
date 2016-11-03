@@ -85,7 +85,7 @@ Set up your domain with Register.com
 
 		
 		
-16. Open the **Page Panel** and click the **Settings** icon
+16. Open the **Sidebar** and click the **Settings** icon
 
     .. class:: screenshot
 
@@ -106,14 +106,14 @@ Set up your domain with Register.com
  
 		|bitblox-connect-domain|
     
-19. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+19. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-20. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+20. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -172,13 +172,13 @@ Set up your subdomain with Register.com
 		|registercom-click-continue-subdomain|		
 		
 		
-10. In your BitBlox account, click **Edit Page** on your landing page. 
+10. In your BitBlox account, click **Edit Page** on your landing page 
 
     .. class:: screenshot
 
 		|bitblox-click-edit-page|
 
-11. Open the **Page Panel** and click the **Settings** icon
+11. Open the **Sidebar** and click the **Settings** icon
 
     .. class:: screenshot
 
@@ -198,14 +198,14 @@ Set up your subdomain with Register.com
 
 		|bitblox-subdomain-click-connect-domain|
     
-14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -213,7 +213,7 @@ Set up your subdomain with Register.com
 
     .. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
 		
 
 Getting more help

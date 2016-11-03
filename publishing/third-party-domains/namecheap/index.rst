@@ -51,7 +51,7 @@ Set up your domain with Namecheap
 
 		|namecheap-edit-cname|
 
-10. In the **Value** text box, enter your domain name (ex: ``my-landing-page.com``)
+10. In the **Value** text box, enter your domain name (ex: ``mylandingpage.com``)
 11. Click the **Save Changes** icon
 
 	.. class:: screenshot
@@ -65,7 +65,7 @@ Set up your domain with Namecheap
 		
 		|namecheap-remove-url-records|
 		
-13. In your BitBlox account, click **Edit Page** on your landing page. 
+13. In your BitBlox account, click **Edit Page** on your landing page 
 
      .. class:: screenshot
 
@@ -73,7 +73,7 @@ Set up your domain with Namecheap
 
 		
 		
-14. Open the **Page Panel** and click the **Settings** icon
+14. Open the **Sidebar** and click the **Settings** icon
 
      .. class:: screenshot
 
@@ -94,14 +94,14 @@ Set up your domain with Namecheap
  
 		|bitblox-connect-domain|
     
-17. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+17. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-18. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+18. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -143,7 +143,7 @@ Set up your subdomain with Namecheap
 5. In the **Type** column, use the drop-down menu to select **A Record**
 6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your subdomain, enter ``promo``)
 7. In the **Value** text box , enter BitBlox's IP address ``162.243.77.151``
-8. Click the **Save Changes** icon:
+8. Click the **Save Changes** icon
 
 	.. class:: screenshot
 
@@ -163,7 +163,7 @@ Set up your subdomain with Namecheap
 
 		|bitblox-click-edit-page|
 
-11. Open the **Page Panel** and click the **Settings** icon
+11. Open the **Sidebar** and click the **Settings** icon
 
     .. class:: screenshot
 
@@ -190,7 +190,7 @@ Set up your subdomain with Namecheap
 
 		|bitblox-subdomain-dns-settings|
 	
-15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
