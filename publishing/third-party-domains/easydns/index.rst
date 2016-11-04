@@ -64,7 +64,7 @@ Set up your domain with EasyDNS
 
 		
 
-12. Open the Page panel and click the **Settings** icon
+12. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -141,7 +141,7 @@ Set up your subdomain with EasyDNS
 
 		
 		
-8. Open the Page panel and click the **Settings** icon
+8. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -169,7 +169,7 @@ Set up your subdomain with EasyDNS
 
 		|bitblox-subdomain-dns-settings|
 	
-12. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+12. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. note::
 

@@ -30,7 +30,7 @@ Set up your domain with Hover
 
 
 4. In **IP Address** text box, enter BitBlox's IP address ``162.243.77.151`` 
-5. Click the **SAVE** button:
+5. Click the **SAVE** button
 
 	.. class:: screenshot
 
@@ -48,7 +48,7 @@ Set up your domain with Hover
 7. In the **Hostname** text box, enter ``www``
 8. In the **Record Type** text box, enter **CNAME**
 9. In the **Target Host** text box, enter your domain name (ex: ``mylandingpage.com``)
-10. Click the **SAVE** button:
+10. Click the **SAVE** button
 
 	.. class:: screenshot
 
@@ -56,7 +56,7 @@ Set up your domain with Hover
 
 
 
-12. In your BitBlox account, click **Edit Page** on your landing page. 
+11. In your BitBlox account, click **Edit Page** on your landing page
 
      .. class:: screenshot
 
@@ -64,7 +64,7 @@ Set up your domain with Hover
 
 		
 
-13. Open the Page panel and click the **Settings** icon
+12. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -72,28 +72,28 @@ Set up your domain with Hover
 		|bitblox-click-settings|
 
 		
-14. Click **Settings** tab and then click **3rd Party Domain** tab
+13. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
     .. class:: screenshot
 
 		|bitblox-click-3-rd-party-domain|
 
-15. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+14. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-connect-domain|
     
-16. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-17. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -102,7 +102,7 @@ Set up your domain with Hover
 
     .. note::
 
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
 
 
 
@@ -128,7 +128,7 @@ Set up your subdomain with Hover
 4. In the **Hostname** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your subdomain, enter ``promo``)
 5. In the **Record Type** text box, enter **A**
 6. In the **IP Address** text box, enter BitBlox's IP address ``162.243.77.151``
-7. Click the **SAVE** button:
+7. Click the **SAVE** button
 
 
 	.. class:: screenshot
@@ -136,7 +136,7 @@ Set up your subdomain with Hover
 		|hover-click-save-subdomain|
 
 
-8. In your BitBlox account, click **Edit Page** on your landing page. 
+8. In your BitBlox account, click **Edit Page** on your landing page
 
      .. class:: screenshot
 
@@ -144,7 +144,7 @@ Set up your subdomain with Hover
 
 		
 		
-9.  Open the Page panel and click the **Settings** icon
+9.  Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -165,14 +165,14 @@ Set up your subdomain with Hover
 
 		|bitblox-subdomain-click-connect-domain|
     
-12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -180,7 +180,7 @@ Set up your subdomain with Hover
 
 .. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
 
 
 Getting more help

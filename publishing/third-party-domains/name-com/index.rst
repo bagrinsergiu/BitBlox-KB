@@ -46,7 +46,7 @@ Set up your domain with Name.com
 
 8. In the **Type** column, use the drop-down menu to select **CNAME** Record
 9. In the **Host** text box, enter **www** 
-10. In the **Answer** text box, enter your domain name (ex: ``my-landing-page.com``) 
+10. In the **Answer** text box, enter your domain name (ex: ``mylandingpage.com``) 
 11. Click **Add Record** 
 
 	.. class:: screenshot
@@ -64,7 +64,7 @@ Set up your domain with Name.com
 
 		
 
-13. Open the Page panel and click the **Settings** icon
+13. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -146,7 +146,7 @@ Set up your subdomain with Name.com
 
 		|bitblox-click-edit-page|
 
-10. Open the **Page Panel** and click the **Settings** icon
+10. Open the **Sidebar** and click the **Settings** icon
 
     .. class:: screenshot
 

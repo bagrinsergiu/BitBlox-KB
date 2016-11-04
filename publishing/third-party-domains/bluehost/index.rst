@@ -61,7 +61,7 @@ Set up your domain with BlueHost
 		|bluehost-save-cname-record|
 		
 
-11. In your BitBlox account, click **Edit Page** on your landing page. 
+11. In your BitBlox account, click **Edit Page** on your landing page 
 
      .. class:: screenshot
 
@@ -69,7 +69,7 @@ Set up your domain with BlueHost
 
 		
 
-12. Open the Page panel and click the **Settings** icon
+12. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -91,14 +91,14 @@ Set up your domain with BlueHost
 
 		|bitblox-connect-domain|
     
-15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -145,7 +145,7 @@ Set up your subdomain with BlueHost
 		|bluehost-a-record-save-subdomain|	
 
 		
-8. In your BitBlox account, click **Edit Page** on your landing page. 
+8. In your BitBlox account, click **Edit Page** on your landing page 
 
      .. class:: screenshot
 
@@ -153,7 +153,7 @@ Set up your subdomain with BlueHost
 
 		
 		
-9.  Open the Page panel and click the **Settings** icon
+9.  Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -174,14 +174,14 @@ Set up your subdomain with BlueHost
 
 		|bitblox-subdomain-click-connect-domain|
     
-12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
