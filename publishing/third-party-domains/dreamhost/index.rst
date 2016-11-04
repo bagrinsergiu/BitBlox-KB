@@ -56,7 +56,7 @@ Set up your domain with DreamHost
 
 		|dreamhost-save-cname-record|
 	
-13. In your BitBlox account, click **Edit Page** on your landing page. 
+13. In your BitBlox account, click **Edit Page** on your landing page 
 
      .. class:: screenshot
 
@@ -64,7 +64,7 @@ Set up your domain with DreamHost
 
 		
 
-14. Open the Page panel and click the **Settings** icon
+14. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -86,14 +86,14 @@ Set up your domain with DreamHost
 
 		|bitblox-connect-domain|
     
-17. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+17. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-18. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+18. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -149,7 +149,7 @@ Set up your subdomain with DreamHost
 
 		
 		
-10.  Open the Page panel and click the **Settings** icon
+10. Open the **Sidebar**  and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -177,11 +177,11 @@ Set up your subdomain with DreamHost
 
 		|bitblox-subdomain-dns-settings|
 	
-14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
 		
 
 Getting more help

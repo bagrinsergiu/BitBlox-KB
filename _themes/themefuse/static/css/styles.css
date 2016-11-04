@@ -50,7 +50,7 @@ a, a span {
     -ms-transition: color 0.2s ease;
     transition: color 0.2s ease;
 }
-a:hover, a:focus {color: #ff7105; text-decoration: none; outline: none;}
+a:hover, a:focus {color: #1ea4cf; text-decoration: none; outline: none;}
 a:active {background-color: transparent;}
 
 .link-black a,
@@ -63,8 +63,8 @@ a:active {background-color: transparent;}
     text-transform: uppercase;
 }
 .link-white a, .link-white span {color: #fff;}
-.link-black a:hover, .link-white a:hover {color: #ff7105;}
-.link-green {color: #00b295;}
+.link-black a:hover, .link-white a:hover {color: #1ea4cf;}
+.link-green {color: #8767bc;}
 
 .alpha {margin-left:0 !important;}
 .omega {margin-right:0 !important;}
@@ -143,7 +143,7 @@ p {
 /*li p, dl p {margin-bottom: 10px;}*/
 p a,
 a.reference {
-	color: #ff7105;
+	color: #1ea4cf;
 }
 p.rubric {
     font-weight: normal;
@@ -190,9 +190,9 @@ p.rubric {
     color: #fff;
     text-transform: uppercase;
     white-space: nowrap;
-    border: 2px solid #00b295;
+    border: 2px solid #8767bc;
     border-radius: 3px;
-    background-color: #00b295;
+    background-color: #8767bc;
     opacity: 1;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -212,7 +212,7 @@ p.rubric {
 }
 .btn.btn-transparent span,
 .btn.btn-transparent input {
-    color: #00b295;
+    color: #8767bc;
 }
 .btn:hover span,
 .btn:hover input,
@@ -229,12 +229,12 @@ p.rubric {
 }
 .btn-orange span,
 .btn-orange input {
-    background-color: #ff7105;
-    border-color: #ff7105;
+    background-color: #1ea4cf;
+    border-color: #1ea4cf;
 }
 .btn-orange.btn-transparent span,
 .btn-orange.btn-transparent input {
-    color: #ff7105;
+    color: #1ea4cf;
 }
 .btn-orange:hover span,
 .btn-orange:hover input,
@@ -501,8 +501,8 @@ p.rubric {
 
 /* Form Elements */
 
-::-webkit-input-placeholder {font-size: 12px; color: #00b295; letter-spacing: 0.5px; text-transform: uppercase;}
-::-moz-placeholder {font-size: 12px; color: #00b295; letter-spacing: 0.5px; text-transform: uppercase;}
+::-webkit-input-placeholder {font-size: 12px; color: #8767bc; letter-spacing: 0.5px; text-transform: uppercase;}
+::-moz-placeholder {font-size: 12px; color: #8767bc; letter-spacing: 0.5px; text-transform: uppercase;}
 input:focus::-webkit-input-placeholder {color: transparent !important;}
 input:focus:-moz-placeholder {color: transparent !important;}
 input:focus::-moz-placeholder {color: transparent !important;}
@@ -539,7 +539,7 @@ textarea {
     border-radius: 3px;
     padding:0 16px;
     font-size: 12px;
-    color: #00b295;
+    color: #8767bc;
     letter-spacing: 0.5px;
     text-transform: uppercase;
     width: 100%;
@@ -771,11 +771,11 @@ ol#breadcrumbs li {
 }
 
 ol#breadcrumbs li a {
-    color: #ff7105;
+    color: #1ea4cf;
 }
 
 ol#breadcrumbs li + li:before {
-    color: #ff7105;
+    color: #1ea4cf;
     content: "> ";
 }
 
@@ -837,7 +837,7 @@ ol#breadcrumbs li + li:before {
 }
 
 #menu .toctree-l1.current > a {
-    background-color: #00B295;
+    background-color: #8767bc;
     color: #FFF;
 }
 
@@ -883,7 +883,7 @@ ol#breadcrumbs li + li:before {
     left: 0;
     bottom: 0;
     width: 2px;
-    background-color: #00B295;
+    background-color: #8767bc;
 }
 
 .affix {position: fixed !important; top: 20px; width: 216px;}
@@ -1073,7 +1073,7 @@ dl.docutils dd {
 }
 .contents ul,
 .toctree-wrapper ul {
-    color: #ff7105;
+    color: #1ea4cf;
     margin: 6px 0 !important;
 }
 .contents li,
@@ -1085,7 +1085,7 @@ dl.docutils dd {
 .toctree-wrapper li a,
 .toctree-wrapper li a.reference {
     font-size: 14px;
-    color: #ff7105;
+    color: #1ea4cf;
     font-weight: normal;
 }
 .toctree-wrapper:before {
@@ -1126,7 +1126,7 @@ table.docutils .row-odd td {background-color: #fbfbfb;}
 }
 .pagination a,
 .pagination a span {
-    color: #ff7105;
+    color: #1ea4cf;
 }
 .pagination i {font-size: 8px; vertical-align: 12%;}
 .pagination a.next {float: right;}
@@ -1199,7 +1199,7 @@ table.docutils .row-odd td {background-color: #fbfbfb;}
     -ms-transition: color 0.3s ease;
     transition: color 0.3s ease;
 }
-.contact-modal .icon-close-thin:hover {color: #ff7105;}
+.contact-modal .icon-close-thin:hover {color: #1ea4cf;}
 
 /*Contact Form*/
 .contact-form {margin-bottom: 76px;}
@@ -1461,7 +1461,7 @@ table.docutils .row-odd td {background-color: #fbfbfb;}
     margin-top: 5px;
 }
 .nav-menu ul li:first-child  a {border-top: none;}
-.nav-menu ul li > a:hover {color: #00b295;}
+.nav-menu ul li > a:hover {color: #8767bc;}
 .nav-menu ul li > a:hover span {color: #fa7220;}
 
 /* Level 2+ */
@@ -1593,7 +1593,7 @@ table.docutils .row-odd td {background-color: #fbfbfb;}
     font-family: "brandon-grotesque", sans-serif;
     font-weight: 300;
     font-size: 54px;
-    color: #ff7105;
+    color: #1ea4cf;
     text-transform: uppercase;
     letter-spacing: -1.4px;
     margin-bottom: 0.3em;
@@ -1686,7 +1686,7 @@ table.docutils .row-odd td {background-color: #fbfbfb;}
     color: #999;
     letter-spacing: -0.2px;
 }
-.widget-footer-menu a:hover {color: #ff7105;}
+.widget-footer-menu a:hover {color: #1ea4cf;}
 
 .widget-footer-menu .field-text {
     margin-bottom: 23px;
@@ -1701,7 +1701,7 @@ table.docutils .row-odd td {background-color: #fbfbfb;}
 .footer-social li a {display: block; font-size: 16px;}
 
 .footer-social a, .social-buttons a {color: #808080;}
-.footer-social a:hover, .social-buttons a:hover {color: #ff7105;}
+.footer-social a:hover, .social-buttons a:hover {color: #1ea4cf;}
 a.link-facebook:hover {color: #3B5998;}
 a.link-twitter:hover {color: #4099FF;}
 a.link-skype:hover {color: #12A5F4;}
@@ -1711,7 +1711,7 @@ a.link-deviantart:hover {color: #c1d536;}
 
 .copyright {margin-top: 30px;}
 .copyright p {font-size: 13px; color: #737373; text-align: center;}
-.copyright a {color: #ff7105;}
+.copyright a {color: #1ea4cf;}
 
 /*Responsive*/
 @media (max-width: 767px) {
@@ -1728,7 +1728,7 @@ ul.search li {margin-bottom: 40px;}
 ul.search a {
     display: inline-block;
     font-size: 22px;
-    color: #00b295;
+    color: #8767bc;
     font-weight: 600;
     margin-bottom: 8px;
 }
@@ -1786,14 +1786,14 @@ ul.search .context {line-height: 21px;}
     height: 26px;
     padding-right: 14px;
     font-size: 14px;
-    color: #ff7105;
+    color: #1ea4cf;
     text-transform: capitalize;
     margin-bottom: -12px;
     cursor: pointer;
 }
 .current-version:before {
     content: '';
-    border-top: 4px solid #ff7105;
+    border-top: 4px solid #1ea4cf;
     border-left: 4px solid transparent;
     border-right: 4px solid transparent;
     position: absolute;
@@ -1814,7 +1814,7 @@ ul.search .context {line-height: 21px;}
     color: #9ba0a3;
 }
 .other-versions a, .other-versions dd {color: #fff;}
-.other-versions a:hover {color: #00b295;}
+.other-versions a:hover {color: #8767bc;}
 
 .other-versions .sign {
     font-size: 13px;

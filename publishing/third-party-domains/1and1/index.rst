@@ -73,7 +73,7 @@ Set up your domain with 1and1.com
 
 		
 
-11. Open the Page panel and click the **Settings** icon
+11. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
@@ -95,14 +95,14 @@ Set up your domain with 1and1.com
 
 		|bitblox-connect-domain|
     
-14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -182,7 +182,7 @@ Set up your subdomain with 1and1.com
 
 		
 		
-11.  Open the Page panel and click the **Settings** icon
+11. Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
