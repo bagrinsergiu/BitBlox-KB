@@ -1,31 +1,31 @@
 /**
  * Responsive Menu, Animated Dropdown
  */
-jQuery(document).ready(function($) {
-    $('.nav-menu').slicknav();
+// jQuery(document).ready(function($) {
+//     $('.nav-menu').slicknav();
 
-    $(".nav-menu ul").addClass('animated hidden');
+//     $(".nav-menu ul").addClass('animated hidden');
 
-    var menuItemWidth, submenuItemWidth;
+//     var menuItemWidth, submenuItemWidth;
 
-    $(".nav-menu > li").hover(function(){
-        var $this = $(this);
+//     $(".nav-menu > li").hover(function(){
+//         var $this = $(this);
 
-        $this.children('ul').removeClass().addClass('animated');
+//         $this.children('ul').removeClass().addClass('animated');
 
-        menuItemWidth = $this.innerWidth();
-        submenuItemWidth = $this.children("ul").innerWidth();
-        $this.children("ul").css('left' , (menuItemWidth-submenuItemWidth)/2);
+//         menuItemWidth = $this.innerWidth();
+//         submenuItemWidth = $this.children("ul").innerWidth();
+//         $this.children("ul").css('left' , (menuItemWidth-submenuItemWidth)/2);
 
-        $this.children('ul').addClass('fadeInDownSmall').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-            $this.children('ul').removeClass().addClass('animated')
-        });
-    }, function(){
-        $(this).children('ul').addClass('fadeOutUpSmall').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-            $(this).removeClass().addClass('hidden')
-        })
-    })
-});
+//         $this.children('ul').addClass('fadeInDownSmall').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+//             $this.children('ul').removeClass().addClass('animated')
+//         });
+//     }, function(){
+//         $(this).children('ul').addClass('fadeOutUpSmall').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+//             $(this).removeClass().addClass('hidden')
+//         })
+//     })
+// });
 
 /**
  * Animated Header
