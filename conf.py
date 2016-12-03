@@ -12,7 +12,7 @@ copyright = `date.today().year` + ' BitBlox | Easiest Way To Build Landing Pages
 #release = ''
 #exclude_patterns = []
 
-html_favicon = 'favicon.ico'
+html_favicon = 'favicon.png'
 html_theme_path = ["_themes"]
 html_theme = 'bitblox'
 
