@@ -15,7 +15,7 @@ copyright = `date.today().year` + ' Unyson | Theming Fast & Easy ' + \
 
 html_favicon = 'favicon.ico'
 html_theme_path = ["_themes"]
-html_theme = 'themefuse'
+html_theme = 'bitblox'
 
 man_pages = [
     ('index', 1)
