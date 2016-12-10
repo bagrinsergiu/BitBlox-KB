@@ -7,7 +7,7 @@ from datetime import date
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Intro to BitBlox'
-copyright = `date.today().year` + ' BitBlox | Easiest Way To Build Landing Pages '
+copyright = `date.today().year` + 'BitBlox - Easiest Way To Build Landing Pages'
 #version = ''
 #release = ''
 #exclude_patterns = []
