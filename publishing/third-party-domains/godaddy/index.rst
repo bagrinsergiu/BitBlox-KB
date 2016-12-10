@@ -163,7 +163,7 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-click-3-rd-party-domain|
 
-12. In the **Domain Name** box enter the full domain name you want to link (ex: ``my-landing-page.com``), and then click **Connect Domain** button
+12. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
