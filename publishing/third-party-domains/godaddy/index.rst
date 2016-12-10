@@ -141,7 +141,6 @@ Set up your subdomain with GoDaddy
     .. class:: screenshot
 
 		|godaddy-enter-subdomain|	
-
 		
 
 9. In your BitBlox account, click **Edit Page** on your landing page. 
