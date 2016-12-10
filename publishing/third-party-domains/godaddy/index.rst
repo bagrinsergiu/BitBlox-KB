@@ -29,7 +29,7 @@ Set up your domain with GoDaddy
 		|godaddy-manage-dns|
 
 
-4. In the **Record** section, click the **Edit Record** icon for the **A** record  
+4. In the **Records** section, click the **Edit Record** icon for the **A** record  
 
 	.. class:: screenshot
 
@@ -94,7 +94,7 @@ Set up your domain with GoDaddy
 
 		|bitblox-dns-settings|
 	
-15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
+15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
@@ -126,7 +126,7 @@ Set up your subdomain with GoDaddy
 		|godaddy-manage-dns-subdomain|
 
 
-4. Click the **ADD** icon
+4. In the **Records** section, click the **ADD** icon
 
 	.. class:: screenshot
 
@@ -134,7 +134,7 @@ Set up your subdomain with GoDaddy
 
 		
 5. In the **Type** column, use the drop-down menu to select **A Record** 
-6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)   
+6. In the **Host** text box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your subdomain, enter ``promo``)   
 7. In the **Points To** text box, enter BitBlox's IP address ``162.243.77.151``
 8. Click **Save**
 
@@ -177,7 +177,7 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-subdomain-dns-settings|
 	
-14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
+14. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
