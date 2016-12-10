@@ -94,7 +94,7 @@ Set up your domain with GoDaddy
 
 		|bitblox-dns-settings|
 
-15. After changing the records in your domain provider, return to BitBlox **DNS  Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
+15. After changing the records in your domain provider, return to BitBlox **Domain DNS  Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
 
 
     .. class:: screenshot
@@ -177,7 +177,7 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-subdomain-dns-settings|
 
-14. After changing the records in your domain provider, return to BitBlox **DNS  Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
+14. After changing the records in your domain provider, return to BitBlox **Domain DNS Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
