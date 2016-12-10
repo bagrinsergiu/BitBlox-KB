@@ -80,7 +80,7 @@ Set up your domain with GoDaddy
 
 		|bitblox-click-3-rd-party-domain|
 
-13. In the **Domain Name** box, enter the full domain name you want to link, and then click **Connect Domain** button
+13. In the **Domain Name** box, enter the full domain name you want to link (ex: ``my-landing-page.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
