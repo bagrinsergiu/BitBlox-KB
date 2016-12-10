@@ -7,15 +7,14 @@ from datetime import date
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Intro to BitBlox'
-copyright = `date.today().year` + ' Unyson | Theming Fast & Easy ' + \
-    '<br>Developed by: <a target="_blank" href="http://themefuse.com">ThemeFuse</a>	Icons by: <a target="_blank" href="http://pixelkit.com">PixelKit</a>'
+copyright = `date.today().year` + 'BitBlox - Easiest Way To Build Landing Pages'
 #version = ''
 #release = ''
 #exclude_patterns = []
 
-html_favicon = 'favicon.ico'
+html_favicon = 'favicon.png'
 html_theme_path = ["_themes"]
-html_theme = 'themefuse'
+html_theme = 'bitblox'
 
 man_pages = [
     ('index', 1)
