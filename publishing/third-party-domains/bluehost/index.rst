@@ -122,14 +122,14 @@ Set up your subdomain with BlueHost
 
 		|bluehost-click-zone-editor|
 
-3. In the **Select a Domain** section, from the drop down menu click on the domain you want to update
+3. In the **Select a Domain** section, select domain you want to update from the drop-down
 
 	.. class:: screenshot
 
 		|bluehost-select-subdomain|
 
 
-4. In the **A (Host)** table, click **edit** in the  ``@`` row
+4. In the **A (Host)** table, click **edit** on the  ``@`` row
 
 	.. class:: screenshot
 
