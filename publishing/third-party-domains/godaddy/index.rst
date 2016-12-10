@@ -86,7 +86,7 @@ Set up your domain with GoDaddy
 
 		|bitblox-connect-domain|
 
-14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect). 
+14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect).
 
     .. class:: screenshot
 
@@ -99,9 +99,9 @@ Set up your domain with GoDaddy
 		|bitblox-click-refresh|
 
 
-.. note::
+		.. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 
 
@@ -180,9 +180,9 @@ Set up your subdomain with GoDaddy
 		|bitblox-subdomain-refresh|
 
 
-.. note::
+		.. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 
 Getting more help
