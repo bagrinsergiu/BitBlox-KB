@@ -86,7 +86,7 @@ Set up your domain with GoDaddy
 
 		|bitblox-connect-domain|
 
-14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect). If your records are entered incorrectly, the **Current Data** will be red (click on **Refresh** button to update **DNS Records**)
+14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect). 
 
     .. class:: screenshot
 
@@ -166,7 +166,7 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-subdomain-click-connect-domain|
 
-13. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect). If your records are entered incorrectly, the **Current Data** will be red (click on **Refresh** button to update **DNS Records**)
+13. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect).
 
 
     .. class:: screenshot
