@@ -96,16 +96,14 @@ Set up your domain with GoDaddy
 
 15. After changing the records in your domain provider, return to BitBlox **Domain DNS  Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
 
-
     .. class:: screenshot
 
 		|bitblox-click-refresh|
 
 
+.. note::
 
-	.. note::
-
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 
 
