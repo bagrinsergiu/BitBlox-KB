@@ -82,19 +82,17 @@ Set up your domain with GoDaddy
 
 13. In the **Domain Name** box, enter the full domain name you want to link (ex: ``my-landing-page.com``), and then click **Connect Domain** button
 
-
     .. class:: screenshot
 
 		|bitblox-connect-domain|
 
-14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
-
+14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect). If your records are entered incorrectly, the **Current Data** will be red (click on **Refresh** button to update **DNS Records**)
 
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 
-15. After changing the records in your domain provider, return to BitBlox **Domain DNS  Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
+15. If your records are entered correctly, the **Current Data** will be green.
 
     .. class:: screenshot
 
@@ -168,14 +166,14 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-subdomain-click-connect-domain|
 
-13. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
+13. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect). If your records are entered incorrectly, the **Current Data** will be red (click on **Refresh** button to update **DNS Records**)
 
 
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 
-14. After changing the records in your domain provider, return to BitBlox **Domain DNS Settings** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
+14. If your records are entered correctly, the **Current Data** will be green.
 
     .. class:: screenshot
 
