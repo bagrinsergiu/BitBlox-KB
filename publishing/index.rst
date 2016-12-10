@@ -10,8 +10,8 @@ Publishing
     Third-party Domains <third-party-domains/index>
     /*Publishing on Wordpress <publishing-on-wordpress/index>*/
     Publishing on Facebook tab <publishing-on-facebook-tab/index>
-    Publishing on Shopify <publishing-on-shopify/index>
-    Publishing on Drupal <publishing-on-drupal/index>
+    /*Publishing on Shopify <publishing-on-shopify/index>*/
+    /*Publishing on Drupal <publishing-on-drupal/index>*/
 
 
 aaaaa
