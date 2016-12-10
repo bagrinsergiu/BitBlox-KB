@@ -105,7 +105,7 @@ Set up your domain with GoDaddy
 
 	.. note::
 
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
+		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 
 
@@ -163,7 +163,7 @@ Set up your subdomain with GoDaddy
 
 		|bitblox-click-3-rd-party-domain|
 
-12. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+12. In the **Domain Name** box enter the full domain name you want to link (ex: ``my-landing-page.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
