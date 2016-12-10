@@ -8,24 +8,24 @@ Set up your domain with BlueHost
 
 If you purchased a domain from BlueHost, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your BlueHost account to tell the domain/subdomain where to point.
 
-		
+
 .. contents::
     :local:
     :backlinks: top
 
-	
+
 Set up your domain with BlueHost
 ------
 
-1. `Log in to your BlueHost account <https://www.bluehost.com/>`__ 
+1. `Log in to your BlueHost account <https://www.bluehost.com/>`__
 2. In the **domains** section, click **zone editor**
 
 	.. class:: screenshot
 
 		|bluehost-click-zone-editor|
-		
 
-3. In the **Select a Domain** section, from the drop down menu click on the domain you want to update
+
+3. In the **Select a Domain** section, select domain you want to update from the drop-down
 
 	.. class:: screenshot
 
@@ -33,21 +33,21 @@ Set up your domain with BlueHost
 
 4. Click **reload** button
 
-5. In the **A (Host)** table, click **edit** in the ``@`` row 
+5. In the **A (Host)** table, click **edit** on the ``@`` row
 
     .. class:: screenshot
 
 		|bluehost-edit-a-record|
 
-6. Change the **points to** field to BitBlox's IP address ``162.243.77.151`` 
+6. Change the **points to** field to BitBlox's IP address ``162.243.77.151``
 7. Click **save**
 
     .. class:: screenshot
 
 		|bluehost-save-a-record|
-		
 
-8. In the **CNAME (Alias)** table, click **edit** in the **www** row:
+
+8. In the **CNAME (Alias)** table, click **edit** on the **www** row:
 
 	.. class:: screenshot
 
@@ -59,15 +59,15 @@ Set up your domain with BlueHost
 	.. class:: screenshot
 
 		|bluehost-save-cname-record|
-		
 
-11. In your BitBlox account, click **Edit Page** on your landing page 
+
+11. In your BitBlox account, click **Edit Page** on your landing page
 
      .. class:: screenshot
 
 		|bitblox-click-edit-page|
 
-		
+
 
 12. Open the **Sidebar** and click the **Settings** icon
 
@@ -76,7 +76,7 @@ Set up your domain with BlueHost
 
 		|bitblox-click-settings|
 
-		
+
 13. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
@@ -90,32 +90,32 @@ Set up your domain with BlueHost
     .. class:: screenshot
 
 		|bitblox-connect-domain|
-    
+
 15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
-	
+
     .. class:: screenshot
 
 		|bitblox-dns-settings|
-	
+
 16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
 
 		|bitblox-click-refresh|
-	
-		
+
+
 
     .. note::
 
 		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
-		
+
 
 Set up your subdomain with BlueHost
 ------
 
-1. `Log in to your BlueHost account <https://www.bluehost.com>`__ 
+1. `Log in to your BlueHost account <https://www.bluehost.com>`__
 2. In the **domains** section, click **zone editor**
 
 	.. class:: screenshot
@@ -129,37 +129,37 @@ Set up your subdomain with BlueHost
 		|bluehost-select-subdomain|
 
 
-4. In the **A (Host)** table, click **edit** in the  ``@`` row 
+4. In the **A (Host)** table, click **edit** in the  ``@`` row
 
 	.. class:: screenshot
 
 		|bluehost-edit-a-subdomain|
 
-		
+
 5. In the **host record** column, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-6. In the **points to** column, enter BitBlox's IP address ``162.243.77.151`` 
+6. In the **points to** column, enter BitBlox's IP address ``162.243.77.151``
 7. Click **save**
 
 	.. class:: screenshot
 
-		|bluehost-a-record-save-subdomain|	
+		|bluehost-a-record-save-subdomain|
 
-		
-8. In your BitBlox account, click **Edit Page** on your landing page 
+
+8. In your BitBlox account, click **Edit Page** on your landing page
 
      .. class:: screenshot
 
 		|bitblox-click-edit-page|
 
-		
-		
+
+
 9.  Open the **Sidebar** and click the **Settings** icon
 
 
     .. class:: screenshot
 
 		|bitblox-click-settings|
-		
+
 10. Click **Settings** tab and then click **3rd Party Domain** tab
 
 
@@ -173,14 +173,14 @@ Set up your subdomain with BlueHost
     .. class:: screenshot
 
 		|bitblox-subdomain-click-connect-domain|
-    
+
 12. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
 
-	
+
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
-	
+
 13. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
 
     .. class:: screenshot
@@ -190,12 +190,12 @@ Set up your subdomain with BlueHost
     .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
-		
+
 
 Getting more help
 ------
 
-For more help with settings in your Bluehost account, contact their `support team <https://my.bluehost.com/hosting/help>`__ . 
+For more help with settings in your Bluehost account, contact their `support team <https://my.bluehost.com/hosting/help>`__ .
 
 
 .. |bluehost-click-zone-editor| image:: _images/bluehost-click-zone-editor.png
@@ -210,7 +210,7 @@ For more help with settings in your Bluehost account, contact their `support tea
 
 
 
-		
+
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
 .. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
 .. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
