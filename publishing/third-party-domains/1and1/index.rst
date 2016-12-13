@@ -95,7 +95,7 @@ Set up your domain with 1and1.com
 
 		|bitblox-connect-domain|
     
-14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect).
+14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect)
 
 	
     .. class:: screenshot
@@ -196,7 +196,7 @@ Set up your subdomain with 1and1.com
 
 		|bitblox-click-3-rd-party-domain|
 
-13. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com), and then click **Connect Domain** button
+13. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
