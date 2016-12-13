@@ -65,7 +65,7 @@ Set up your domain with 1and1.com
 		|1and1-create-subdomain|
 	
 
-10. In your BitBlox account, click **Edit Page** on your landing page. 
+10. In your BitBlox account, click **Edit Page** on your landing page 
 
      .. class:: screenshot
 
@@ -88,21 +88,21 @@ Set up your domain with 1and1.com
 
 		|bitblox-click-3-rd-party-domain|
 
-13. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+13. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-connect-domain|
     
-14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
+14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect).
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are entered correctly, the **Current Data** will be in green color
+15. If your records are entered correctly, the **Current Data** will be green
 
     .. class:: screenshot
 
@@ -112,7 +112,7 @@ Set up your domain with 1and1.com
 
     .. note::
 
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
+		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 		
 
@@ -196,21 +196,21 @@ Set up your subdomain with 1and1.com
 
 		|bitblox-click-3-rd-party-domain|
 
-13. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+13. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com), and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-subdomain-click-connect-domain|
     
-14. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox
+14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect)
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-15. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
+15. If your records are entered correctly, the **Current Data** will be green
 
     .. class:: screenshot
 
@@ -218,7 +218,7 @@ Set up your subdomain with 1and1.com
 
 .. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
+	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
 Getting more help
