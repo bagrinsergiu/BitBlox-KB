@@ -167,7 +167,7 @@ Set up your subdomain with BlueHost
 
 		|bitblox-click-3-rd-party-domain|
 
-11. In the **Domain Name** box enter the full domain name you want to link (ex:``promo.my-landing-page.com``), and then click **Connect Domain** button
+11. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.my-landing-page.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
@@ -181,7 +181,7 @@ Set up your subdomain with BlueHost
 
 		|bitblox-subdomain-dns-settings|
 
-13. If your records are enetered correctly, the **Current Data** will be green
+13. If your records are entered correctly, the **Current Data** will be green
 
     .. class:: screenshot
 
