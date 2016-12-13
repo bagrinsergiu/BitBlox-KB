@@ -79,21 +79,21 @@ Set up your domain with EasyDNS
 
 		|bitblox-click-3-rd-party-domain|
 
-14. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
+14. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
 
 
     .. class:: screenshot
 
 		|bitblox-connect-domain|
     
-15. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+15. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
 
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 	
-16. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color.
+16. If your records are entered correctly, the **Current Data** will be green
 
     .. class:: screenshot
 
@@ -155,21 +155,20 @@ Set up your subdomain with EasyDNS
 
 		|bitblox-click-3-rd-party-domain|
 
-10. In the **Domain Name** box enter the full domain name you want to link, and then click **Connect Domain** button
-
+10. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mylandingpage.com``), and then click **Connect Domain** button
 
     .. class:: screenshot
 
 		|bitblox-subdomain-click-connect-domain|
     
-11. After you connect your domain, a new panel will open with the records you need to enter in your provider account so your domain connects to BitBlox.
+11. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
 
 	
     .. class:: screenshot
 
 		|bitblox-subdomain-dns-settings|
 	
-12. After changing the records in your domain provider, return to BitBlox **Domain List** and click **Refresh** button. If your records are enetered correctly, the **Current Data** will be in green color
+12. If your records are entered correctly, the **Current Data** will be green
 
     .. note::
 
