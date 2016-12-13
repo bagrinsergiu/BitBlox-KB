@@ -84,7 +84,7 @@ Set up your domain with BlueHost
 
 		|bitblox-click-3-rd-party-domain|
 
-14. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
+14. In the **Domain Name** box enter the full domain name you want to link (ex: ``my-landing-page.com``) and then click **Connect Domain** button
 
 
     .. class:: screenshot
@@ -98,7 +98,7 @@ Set up your domain with BlueHost
 
 		|bitblox-dns-settings|
 
-16. If your records are enetered correctly, the **Current Data** will be green 
+16. If your records are entered correctly, the **Current Data** will be green 
 
     .. class:: screenshot
 
