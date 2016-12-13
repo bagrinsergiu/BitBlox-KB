@@ -89,7 +89,7 @@ Set up your domain with Crazy Domains
 
 		|bitblox-click-3-rd-party-domain|
 
-16. In the **Domain Name** box enter the full domain name you want to link ``mylandingpage.com``, and then click **Connect Domain** button
+16. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``), and then click **Connect Domain** button
 
 
     .. class:: screenshot
@@ -103,7 +103,7 @@ Set up your domain with Crazy Domains
 
 		|bitblox-dns-settings|
 	
-18. If your records are enetered correctly, the **Current Data** will be green
+18. If your records are entered correctly, the **Current Data** will be green
 
     .. class:: screenshot
 
@@ -171,7 +171,7 @@ Set up your subdomain with Crazy Domains
 
 		|bitblox-click-3-rd-party-domain|
 
-11. In the **Domain Name** box enter the full domain name you want to link ``promo.mylandingpage.com``, and then click **Connect Domain** button
+11. In the **Domain Name** box enter the full domain name you want to link  (ex: ``promo.mylandingpage.com``), and then click **Connect Domain** button
 
     .. class:: screenshot
 
@@ -184,7 +184,7 @@ Set up your subdomain with Crazy Domains
 
 		|bitblox-subdomain-dns-settings|
 	
-13. If your records are enetered correctly, the **Current Data** will be green
+13. If your records are entered correctly, the **Current Data** will be green
 
     .. class:: screenshot
 
