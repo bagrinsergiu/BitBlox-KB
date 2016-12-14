@@ -77,7 +77,6 @@ Glossary
 * Built-in domain - Your BitBlox landing page comes with a built-in domain (with .bitblox.me at the end) using the name you gave on our signup page. You can change this built-in domain at any time.
 * CNAME Record - CNAME Records are used to alias one name to another. When mapping a domain to BitBlox, you’ll create one CNAME Records in your provider’s DNS Settings.
 * DNS - DNS are web servers that translate a website IP address into a legible domain name. When using a third-party domain with BitBlox, you’ll need to change DNS settings in your domain registrar’s account. Short for Domain Name Server (or System).
-* Domain privacy - Domain privacy is included with Squarespace domains at no additional cost. To protect your personal information, we can hide your name and contact details from WHOIS. With most registrars, domain privacy is a paid service that is added on to your subscription.
 * IP address - Your IP address is a unique number that represents your device on the Internet.
 * Nameserver - A nameserver is a specialized server that tells a browser where to go when your domain name is entered in the address bar. If you purchased a domain from a third party, you should keep your nameservers set to your provider's default settings.
 * Primary domain - Your primary domain is the main domain name always appears in a browser address bar no matter which domain a visitor used to open your site. You can change your primary domain at any time.
