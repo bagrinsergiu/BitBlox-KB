@@ -24,7 +24,7 @@ Getting Started
 
 		|bitblox-click-settings|
 		
-3. In the **Your subdomain name** text box, enter the full subdomain name you want to link (ex: ``mylandingpage) and then click **Save Changes** button.
+3. In the **Your subdomain name** text box, enter the full subdomain name you want to link (ex: ``mylandingpage``) and then click **Save Changes** button.
 		
 	.. class:: screenshot
 
@@ -43,7 +43,7 @@ In Domain List, your subdomain will be seted as **primary domain**. The primary 
 
 
 
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.com
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
 .. |bitblox-click-settings| image:: _images/bitblox-click-settings.png
 .. |click-save-changes| image:: _images/click-save-changes.png
 .. |domain-list| image:: _images/domain-list.png
