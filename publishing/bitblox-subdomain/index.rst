@@ -44,6 +44,6 @@ In Domain List, your subdomain will be seted as **primary domain**. The primary 
 
 
 .. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
 .. |click-save-changes| image:: _images/click-save-changes.png
 .. |domain-list| image:: _images/domain-list.png
