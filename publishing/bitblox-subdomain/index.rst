@@ -11,18 +11,18 @@ All built-in domains are free and hosted with BitBlox platform. You can register
 Getting Started
 ------
 	
-1. From the **Page Panel**, open **Settings** tab
+1. In your BitBlox account, click **Edit Page** on your landing page
 	
     .. class:: screenshot
 
-		|bitblox-settings|
+		|bitblox-click-edit-page|
 
 		
-2. In the **Settings** tab, open **Subdomain** tab
+2. Open the **Sidebar** and click the **Settings** icon
 		
     .. class:: screenshot
 
-		|click-subdomain|
+		|bitblox-click-settings|
 		
 3. In the **Your subdomain name** text box, enter your subdomain name.
 4. Click **Save Changes**
@@ -44,7 +44,7 @@ In Domain List, your subdomain will be seted as **primary domain**. The primary 
 
 
 
-.. |bitblox-settings| image:: _images/bitblox-settings.gif
-.. |click-subdomain| image:: _images/click-subdomain.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.com
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.png
 .. |click-save-changes| image:: _images/click-save-changes.png
 .. |domain-list| image:: _images/domain-list.png
