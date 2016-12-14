@@ -72,7 +72,6 @@ Set up your domain with 1and1.com
 		|bitblox-click-edit-page|
 
 		
-
 11. Open the **Sidebar** and click the **Settings** icon
 
 
