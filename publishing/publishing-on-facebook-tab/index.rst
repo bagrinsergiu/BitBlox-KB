@@ -3,8 +3,10 @@ Publishing on Facebook Tab
 ========
 
 
+By connecting your Facebook account to your BitBlox Landing Page, you can display social icons or share content from BitBlox to Facebook. You can also add BitBlox tabs to any Facebook page to your BitBlox account.
 
-###########################################
+
+
 
 
 
