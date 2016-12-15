@@ -25,8 +25,11 @@ Publishing on Facebook Tab
 
 		|bitblox-click-facebook|
 		
+3. Select the preferred page from the drop-down menu 
 
-
+    class:: screenshot
+	
+		|bitblox-choose-your-page|
 
 Getting more help
 ------
@@ -35,3 +38,4 @@ For more help with settings in your Crazy Domain account, contact their `support
 
 .. |bitblox-click-facebook-icon| image:: _images/bitblox-click-facebook-icon.png
 .. |bitblox-click-facebook| image:: _images/bitblox-click-facebook.png
+.. |bitblox-choose-your-page| image:: _images/bitblox-choose-your-page.png
