@@ -25,11 +25,14 @@ Publishing on Facebook Tab
 
 		|bitblox-click-facebook|
 		
-3. Select the preferred page from the drop-down menu 
+3. Select the preferred page from the drop-down menu. Click **Add Page Tab** 
 
     class:: screenshot
 	
 		|bitblox-choose-your-page|
+		
+
+4. Your Landing Page will be automatically published in your Facebook Tabs
 
 Getting more help
 ------
