@@ -29,6 +29,10 @@ Publishing on Facebook Tab
 
 4. Your Landing Page will be automatically published in your Facebook Tabs
 
+    .. class:: screenshot
+		
+		|bitblox-facebook-tab|
+
 
 
 
@@ -37,3 +41,4 @@ For more help with settings in your Crazy Domain account, contact their `support
 .. |bitblox-click-facebook-icon| image:: _images/bitblox-click-facebook-icon.png
 .. |bitblox-click-facebook| image:: _images/bitblox-click-facebook.png
 .. |bitblox-choose-your-page| image:: _images/bitblox-choose-your-page.png
+.. |bitblox-facebook-tab| image:: _images/bitblox-facebook-tab.png
