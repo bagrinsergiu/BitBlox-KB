@@ -4,16 +4,11 @@ Publishing on Facebook Tab
 
 
 
-
-		
-.. contents::
-    :local:
-    :backlinks: top
-
-	
+###########################################
 
 
-1. In your BitBlox account, click the *Facebook* icon
+
+1. In your BitBlox account, click the **Facebook** icon
 
     .. class:: screenshot
 
@@ -27,15 +22,15 @@ Publishing on Facebook Tab
 		
 3. Select the preferred page from the drop-down menu. Click **Add Page Tab** 
 
-    class:: screenshot
+    .. class:: screenshot
 	
 		|bitblox-choose-your-page|
 		
 
 4. Your Landing Page will be automatically published in your Facebook Tabs
 
-Getting more help
-------
+
+
 
 For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
 
