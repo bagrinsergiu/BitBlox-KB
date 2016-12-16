@@ -35,9 +35,7 @@ By connecting your Facebook account to your BitBlox Landing Page, you can displa
 		
 		|bitblox-facebook-tab|
 
-5. Rearrange your Facebook Tabs (Optional) 
-
- You can rearrange the order of your tabs so your new custom tab appears more prominently in the main navigation of your page. To rearrange your tabs, click **Manage Tabs**
+5. Rearrange your Facebook Tabs (Optional). You can rearrange the order of your tabs so your new custom tab appears more prominently in the main navigation of your page. To rearrange your tabs, click **Manage Tabs**
  
 
     .. class:: screenshot
