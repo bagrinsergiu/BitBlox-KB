@@ -35,12 +35,27 @@ By connecting your Facebook account to your BitBlox Landing Page, you can displa
 		
 		|bitblox-facebook-tab|
 
+5. (Optional) Rearrange your Facebook Tabs
+
+You can rearrange the order of your tabs so your new custom tab appears more prominently in the main navigation of your page.
+To rearrange your tabs, click **Manage Tabs**
+
+    .. class:: screenshot
+	
+		|bitblox-click-manage-tabs|
+
+6. In the **Settings** drop down menu, drag and drop your tabs in the order you want them to appear. 
+
+    .. class:: screenshot
+	
+		|drag-and-drop|
 
 
-
-For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
+For Facebook's official documentation about customizing your Facebook Page tabs, click `here <https://developers.facebook.com/docs/pages/tabs/>`__ . 
 
 .. |bitblox-click-facebook-icon| image:: _images/bitblox-click-facebook-icon.png
 .. |bitblox-click-facebook| image:: _images/bitblox-click-facebook.png
 .. |bitblox-choose-your-page| image:: _images/bitblox-choose-your-page.png
 .. |bitblox-facebook-tab| image:: _images/bitblox-facebook-tab.png
+.. |bitblox-click-manage-tabs| image:: _images/bitblox-click-manage-tabs.png
+.. |drag-and-drop| image:: _images/drag-and-drop.png
