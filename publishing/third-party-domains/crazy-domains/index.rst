@@ -140,7 +140,7 @@ Set up your subdomain with Crazy Domains
 		|crazydomain-add-a-record|
 
 
-5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
+5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mylandingpage.com`` as your sudomain, enter ``promo``)
 6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
 7. Click **Update**
 		
