@@ -47,7 +47,7 @@ Set up your domain with BlueHost
 		|bluehost-save-a-record|
 
 
-8. In the **CNAME (Alias)** table, click **edit** on the **www** row:
+8. In the **CNAME (Alias)** table, click **edit** on the **www** row
 
 	.. class:: screenshot
 
