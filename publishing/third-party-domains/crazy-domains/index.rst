@@ -140,7 +140,7 @@ Set up your subdomain with Crazy Domains
 		|crazydomain-add-a-record|
 
 
-5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mylandingpage.com`` as your sudomain, enter ``promo``)
+5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
 6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
 7. Click **Update**
 		
@@ -171,7 +171,7 @@ Set up your subdomain with Crazy Domains
 
 		|bitblox-click-3-rd-party-domain|
 
-11. In the **Domain Name** box enter the full domain name you want to link  (ex: ``promo.mylandingpage.com``), and then click **Connect Domain** button
+11. In the **Domain Name** box enter the full domain name you want to link  (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
 
     .. class:: screenshot
 
