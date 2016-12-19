@@ -179,7 +179,14 @@ Set up your subdomain with DreamHost
 	
 14. If your records are entered correctly, the **Current Data** will be green
 
+    .. class:: screenshot
+
+		|bitblox-subdomain-refresh|
+
+
+
     .. note::
+
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
 		
@@ -209,3 +216,4 @@ For more help with settings in your DreamHost account, contact their `support te
 .. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
 .. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
 .. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
