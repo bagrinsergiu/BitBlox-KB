@@ -155,7 +155,7 @@ Set up your subdomain with EasyDNS
 
 		|bitblox-click-3-rd-party-domain|
 
-10. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mylandingpage.com``), and then click **Connect Domain** button
+10. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
 
     .. class:: screenshot
 
