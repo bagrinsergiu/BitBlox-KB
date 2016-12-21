@@ -1061,10 +1061,6 @@ li > a.reference.internal em {
     counter-reset: list;
 }
 
-.section ol:first-of-type {
-  counter-reset: list;
-}
-
 .section ol > li {padding-left: 25px;}
 .section ol > li:before {
     counter-increment: list;
@@ -1074,6 +1070,11 @@ li > a.reference.internal em {
     left: 0;
 	font-weight:700;
 }
+
+.section ol:first-of-type {
+  counter-reset: list;
+}
+
 .section li.item-unordered {list-style: none;}
 .section ol > li.item-unordered:before {
     counter-increment: none;
