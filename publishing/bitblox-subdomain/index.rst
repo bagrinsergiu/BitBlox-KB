@@ -32,7 +32,7 @@ Getting Started
 		
 		
 
-In **Domain List** tab, your subdomain will be seted as **primary domain**. The primary domain is the main address for your landing page.
+4. In **Domain List** tab, your subdomain will be seted as **Primary Domain**. The primary domain is the main address for your landing page.
 
     .. class:: screenshot
 
