@@ -5,7 +5,7 @@ from pygments.lexers.web import PhpLexer
 from datetime import date
 
 source_suffix = '.rst'
-master_doc = 'index'
+master_doc = 'publishing/bitblox-subdomain/index'
 project = 'Using BitBlox'
 copyright = `date.today().year` + 'BitBlox - Easiest Way To Build Landing Pages'
 #version = ''
