@@ -55,11 +55,10 @@ Before you begin
 To follow this guide, you should already have registered a domain with a third-party provider. Once you connect your domain by following the steps in this guide, you must leave it registered with your provider to keep it connected to your BitBlox Landing Page.
 
 1. Your domain provider must offer full DNS access. If they don't, you’ll need to transfer the domain to a new provider before connecting it to BitBlox.
-2. You'll need to use your domain provider's default nameservers to successfully connect your domain to your BitBlox Landing Page .
+2. You'll need to use your domain provider's default nameservers to successfully connect your domain to your BitBlox Landing Page.
 3. If you have an email account linked to your custom domain, you can keep using it after connecting to BitBlox.
-4. It's not possible to connect a custom domain to a specific page on your site. All connected domains will point to the site itself and resolve to the primary domain.
-5. You can't connect a custom domain to BitBlox if the domain name has the word "BitBlox" in it.
-6. Domains with special characters (such as ü, é, ñ) may not display properly on all browsers. If a browser can’t display the character, it will reformat the domain with extra characters and dashes. For example, the domain “übercool.de,” redirects to "xn--bercool-m2a.de” in unsupported browsers.
+4. You can't connect a custom domain to BitBlox if the domain name has the word "BitBlox" in it.
+5. Domains with special characters (such as ü, é, ñ) may not display properly on all browsers. If a browser can’t display the character, it will reformat the domain with extra characters and dashes. For example, the domain “übercool.de,” redirects to "xn--bercool-m2a.de” in unsupported browsers.
 
 
 
