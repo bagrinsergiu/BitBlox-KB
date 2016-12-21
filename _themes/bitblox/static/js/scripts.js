@@ -1,9 +1,9 @@
 var pathname = window.location.pathname; // Returns path only
 if (pathname == '/en/latest/index.html' || pathname == '/en/latest/publishing/index.html') {
 
-  window.location.href = "http://bitblox-kb.readthedocs.io/en/latest/publishing/bitblox-subdomain/index.html";
+  window.location.href = "http://help.bitblox.me/en/latest/publishing/bitblox-subdomain/index.html";
 }
- 
+
 /**
  * Responsive Menu, Animated Dropdown
  */
