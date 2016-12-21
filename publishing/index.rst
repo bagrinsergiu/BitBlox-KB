@@ -12,15 +12,3 @@ Publishing
     Publishing on Facebook Tab <publishing-on-facebook-tab/index>
     /*Publishing on Shopify <publishing-on-shopify/index>*/
     /*Publishing on Drupal <publishing-on-drupal/index>*/
-
-
-aaaaa
-===
-
-
-b
-=====
-
-
-c
-====
