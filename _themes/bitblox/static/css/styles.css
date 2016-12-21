@@ -1060,6 +1060,11 @@ li > a.reference.internal em {
     list-style-type: none;
     counter-reset: list;
 }
+
+.section ol:first-of-type {
+  counter-reset: mycounter;
+}
+
 .section ol > li {padding-left: 25px;}
 .section ol > li:before {
     counter-increment: list;
