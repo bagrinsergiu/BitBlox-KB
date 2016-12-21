@@ -33,19 +33,10 @@ Using a third-party domain
 
 Understanding domains
 -----
-A domain or domain name is the location of a website. Your domain name is a key part of your online address and is what your visitors will use to find you easily. Your domain name is unique to you, once you have registered it, nobody else can register the same one for as long as you continue to renew it. 
-Your BitBlox Landing Page may have a built-in BitBlox domain (mylandingpage.bitblox.me) or you can replace with a custom domain from a third-party provider
+A domain or domain name is the location of a Landing Page. Your domain name is a key part of your online address and is what your visitors will use to find you easily. Your domain name is unique to you, once you have registered it, nobody else can register the same one for as long as you continue to renew it. 
+Your BitBlox Landing Page may have a built-in BitBlox subdomain (mylandingpage.bitblox.me) or you can replace with a custom domain from a third-party provider.
 	
 	
-
-Web Hosting
------
-
-
-Web hosting is a service that allows users to post a landing page on to the Internet. A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or landing page to be viewed in the internet.
-Websites are hosted, or stored, on special computers called servers.
-
-When you build a landing page with BitBlox, BitBlox is your web host. We provide a place on the Internet to display your content, in addition to tools for creating and managing that content.
 
 
 Using a third-party domain 
@@ -53,7 +44,7 @@ Using a third-party domain
 
 
 
-If you purchased a domain from a third-pary provider (like GoDaddy, Namecheap or BlueHost), you can connect it to your landing page throught the process called domain mapping. Domain mapping is the process of pointing a registered domain name, like www.mynewproject.com to your new project on BitBlox platform.
+If you purchased a domain from a third-pary provider (like GoDaddy, Namecheap or BlueHost), you can connect it to your landing page throught the process called domain mapping. Domain mapping is the process of pointing a registered domain name, like www.mylandingpage.com to your new project on BitBlox platform.
 In order to use Domain Mapping, your registrar must support Custom DNS services. Custom DNS gives you control over the DNS records that describe your domain, including the CNAME. For Domain Mapping you  must have the ability to create and modify CNAME records.
 
 
