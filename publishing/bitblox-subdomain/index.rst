@@ -2,18 +2,6 @@
 Set up your BitBlox subdomain
 ========
 
-.. toctree::
-    :hidden:
-    :titlesonly:
-
-    BitBlox Subdomain <bitblox-subdomain/index>
-    Third-party Domains <third-party-domains/index>
-    /*Publishing on Wordpress <publishing-on-wordpress/index>*/
-    Publishing on Facebook Tab <publishing-on-facebook-tab/index>
-    /*Publishing on Shopify <publishing-on-shopify/index>*/
-    /*Publishing on Drupal <publishing-on-drupal/index>*/
-
-
 Registering a subdomain throught BitBlox avoids the need to register a domain with a third-party provider.
 All built-in domains are free and hosted with BitBlox platform. You can register your subdomain on any trial or paid plan.
 
