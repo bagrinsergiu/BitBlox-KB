@@ -1,6 +1,6 @@
 var pathname = window.location.pathname; // Returns path only
 if (pathname == '/en/latest/index.html' ||
-    pathname == '' || 
+    pathname == '/en/latest/' || 
     pathname == '/en/latest/publishing/index.html') {
 
   window.location.href = "http://help.bitblox.me/en/latest/publishing/bitblox-subdomain/index.html";
