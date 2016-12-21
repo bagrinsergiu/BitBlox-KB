@@ -3,7 +3,7 @@ if (pathname == '/en/latest/index.html' || pathname == '/en/latest/publishing/in
 
   window.location.href = "http://bitblox-kb.readthedocs.io/en/latest/publishing/bitblox-subdomain/index.html";
 }
-
+ 
 /**
  * Responsive Menu, Animated Dropdown
  */
