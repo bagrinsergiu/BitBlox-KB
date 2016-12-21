@@ -31,15 +31,12 @@
 jQuery(function($) {
 
     var pathname = window.location.pathname; // Returns path only
+    if (pathname = '/en/latest/index.html') {
 
-    if (pathname = '/en/latest/index.html' ) {
+      alert(pathname);
 
       window.location.href = "http://bitblox-kb.readthedocs.io/en/latest/publishing/bitblox-subdomain/index.html";
     }
-
-    alert(pathname);
-
-
 });
 
 /**
