@@ -58,50 +58,7 @@ Set up your domain with GoDaddy
 		|godaddy-enter-www|
 
 
-10. In your BitBlox account, click **Edit Page** on your landing page
-
-     .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-
-
-11. Open the **Sidebar** and click the **Settings** icon
-
-     .. class:: screenshot
-
-		|bitblox-click-settings|
-
-
-12. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-13. In the **Domain Name** box, enter the full domain name you want to link (ex: ``my-landing-page.com``), and then click **Connect Domain** button
-
-    .. class:: screenshot
-
-		|bitblox-connect-domain|
-
-14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect).
-
-    .. class:: screenshot
-
-		|bitblox-dns-settings|
-
-15. If your records are entered correctly, the **Current Data** will be green.
-
-    .. class:: screenshot
-
-		|bitblox-click-refresh|
-
-
-		.. note::
-
-			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+    .. include:: ../general/bitblox-thirt-party-domain.rst
 
 
 
@@ -140,50 +97,7 @@ Set up your subdomain with GoDaddy
 		|godaddy-enter-subdomain|
 
 
-9. In your BitBlox account, click **Edit Page** on your landing page.
-
-     .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-10. Open the **Sidebar** and click the **Settings** icon
-
-     .. class:: screenshot
-
-		|bitblox-click-settings|
-
-11. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-12. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
-
-
-    .. class:: screenshot
-
-		|bitblox-subdomain-click-connect-domain|
-
-13. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take up to 48 hours for changes to take effect).
-
-
-    .. class:: screenshot
-
-		|bitblox-subdomain-dns-settings|
-
-14. If your records are entered correctly, the **Current Data** will be green.
-
-    .. class:: screenshot
-
-		|bitblox-subdomain-refresh|
-
-
-		.. note::
-
-			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
-
+    .. include:: ../general/bitblox-thirt-party-subdomain.rst
 
 Getting more help
 ------
