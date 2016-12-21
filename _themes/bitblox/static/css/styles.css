@@ -1058,7 +1058,7 @@ li > a.reference.internal em {
 
 .section ol {
     list-style-type: none;
-    counter-reset: list;
+    /*counter-reset: list;*/
 }
 
 .section ol > li {padding-left: 25px;}
