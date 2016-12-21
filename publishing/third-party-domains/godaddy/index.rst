@@ -58,8 +58,7 @@ Set up your domain with GoDaddy
 		|godaddy-enter-www|
 
 
-    .. include:: ../general/bitblox-thirt-party-domain.rst
-
+.. include:: ../general/bitblox-thirt-party-domain.rst
 
 
 Set up your subdomain with GoDaddy
@@ -97,7 +96,8 @@ Set up your subdomain with GoDaddy
 		|godaddy-enter-subdomain|
 
 
-    .. include:: ../general/bitblox-thirt-party-subdomain.rst
+.. include:: ../general/bitblox-thirt-party-subdomain.rst
+
 
 Getting more help
 ------
