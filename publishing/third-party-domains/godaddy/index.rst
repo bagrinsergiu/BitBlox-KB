@@ -50,7 +50,7 @@ Set up your domain with GoDaddy
 		|godaddy-edit-cname|
 
 
-8. In the **Points to** text box, enter your domain name (ex: ``my-landing-page.com``)
+8. In the **Points to** text box, enter your domain name (ex: ``mylandingpage.com``)
 9. Click **Save**
 
 	.. class:: screenshot
