@@ -31,7 +31,7 @@
 jQuery(function($) {
 
     var pathname = window.location.pathname; // Returns path only
-    if (pathname = '/en/latest/index.html') {
+    if (pathname === '/en/latest/index.html') {
 
       alert(pathname);
 
