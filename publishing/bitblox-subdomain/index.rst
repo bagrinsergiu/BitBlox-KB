@@ -6,7 +6,6 @@ Registering a subdomain throught BitBlox avoids the need to register a domain wi
 All built-in domains are free and hosted with BitBlox platform. You can register your subdomain on any trial or paid plan.
 
 
-
 Getting Started
 ------
 
