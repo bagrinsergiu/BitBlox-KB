@@ -24,7 +24,7 @@ Getting Started
 
 		|bitblox-click-settings|
 		
-3. In the **Your subdomain name** text box, enter the full subdomain name you want to link (ex: ``mylandingpage``) and then click **Save Changes** button.
+3. In the **Your Subdomain Name** text box, enter the full subdomain name you want to link (ex: ``mylandingpage``) and then click **Save Changes** button.
 		
 	.. class:: screenshot
 
