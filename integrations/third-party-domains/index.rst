@@ -1,5 +1,5 @@
 =======
-Using a third-party domain 
+Integrations
 =======
 
 
@@ -7,59 +7,76 @@ Using a third-party domain
     :hidden:
     :titlesonly:
 
-    1and1.com <1and1/index>
-    101domain <101domain/index>
-    BlueHost <bluehost/index>
-    Crazy Domains <crazy-domains/index>
-    Dotster <dotster/index>
-    Dreamhost <dreamhost/index>
-    Dyn or Nettica <dyn-or-nettica/index>
-    Dynadot <dynadot/index>
-    EasyDNS <easydns/index>
-    eNom <enom/index>
-    GoDaddy <godaddy/index>
-    Google Domains <google-domains/index>
-    Hostgator <hostgator/index>
-    Hover <hover/index>
-    IWantMyName <iwantmyname/index>
-    Name.com <name-com/index>
-    Namecheap <namecheap/index>
-    Network Solutions <network-solutions/index>
-    Register.com <register-com/index>
+    Active Campaign <Active Campaign/index>
+    Autopilot <Autopilot/index>
+    aWeber <aWeber/index>
+    Constant Contact <Constant Contact/index>
+    ConvertKit <ConvertKit/index>
+    E-goi <E-goi/index>
+    Get Response <Get Response/index>
+    GoToWeb <GoToWeb/index>
+    MadMini <MadMini/index>
+    MailChimp <MailChimp/index>
+    Monitor Campaign <Monitor Campaign/index>
+    Sales Force <Sales Force/index>
+    Zapier <Zapier/index>
+    Zoho <Zoho/index>
+   
 
 
 
 
-
-Understanding domains
+What are Integrations?
 -----
-A domain or domain name is the location of a Landing Page. Your domain name is a key part of your online address and is what your visitors will use to find you easily. Your domain name is unique to you, once you have registered it, nobody else can register the same one for as long as you continue to renew it. 
-Your BitBlox Landing Page may have a built-in BitBlox subdomain (mylandingpage.bitblox.me) or you can replace with a custom domain from a third-party provider.
-	
+The integration of form is any app or business tool that allows to collect and transfer all information about new leads or potential customers to your email. They help your business understand the best approaches to managing your customers, contacts, leads and opportunities. The key benefit of any integration is the ability to create a customer profile: who are they, interactions with your organisation, from initial enquiry to sales, communications and eventual feedback. 
+ 
+
 	
 
 
-Using a third-party domain 
+Why I need an integration?
 ----
 
 
 
-If you purchased a domain from a third-pary provider (like GoDaddy, Namecheap or BlueHost), you can connect it to your landing page throught the process called domain mapping. Domain mapping is the process of pointing a registered domain name, like www.mylandingpage.com to your new project on BitBlox platform.
-In order to use Domain Mapping, your registrar must support Custom DNS services. Custom DNS gives you control over the DNS records that describe your domain, including the CNAME. For Domain Mapping you  must have the ability to create and modify CNAME records.
+1. The benefits of using an integration are more stramlined sales process, increased customer and prospect interaction. All integration have the same types of goals:
+2. Improve customer communication and retention
+3. Increase company profitability
+4. More targeted marketing
+5. Increase business focus
+6. Enhance customer and prospect tracking
 
 
 
-Before you begin
+What type of integration are there?
 -----
 
-To follow this guide, you should already have registered a domain with a third-party provider. Once you connect your domain by following the steps in this guide, you must leave it registered with your provider to keep it connected to your BitBlox Landing Page.
+To get started with a specific integration, check the lists below:
 
-1. Your domain provider must offer full DNS access. If they don't, you’ll need to transfer the domain to a new provider before connecting it to BitBlox.
-2. You'll need to use your domain provider's default nameservers to successfully connect your domain to your BitBlox Landing Page.
-3. If you have an email account linked to your custom domain, you can keep using it after connecting to BitBlox.
-4. You can't connect a custom domain to BitBlox if the domain name has the word "BitBlox" in it.
-5. Domains with special characters (such as ü, é, ñ) may not display properly on all browsers. If a browser can’t display the character, it will reformat the domain with extra characters and dashes. For example, the domain “übercool.de,” redirects to "xn--bercool-m2a.de” in unsupported browsers.
-
+- Email Marketing
+	- MailChimp
+	- AWeber
+	- ConvertKit
+	- Campaign Monitor
+	- Constant Contact
+	- GetResponse
+	- MadMimi
+	- E-goi
+	- ActiveCampaign
+	- CRM
+- SalesForce
+	- ActiveCampaign
+	- ZOHO crm
+- Marketing Automation
+	- Active Campaign
+	- autopilot
+- Webinar
+	- GoToWebiner
+- Other
+	- Facebook
+	- Zapier
+ 
+Integrations are available inside the form options. Each integration has different requirements: login or api key. All leads are also collected in your BitBlox account in the **Analytics** application, in the **Leads** tab
 
 
 
