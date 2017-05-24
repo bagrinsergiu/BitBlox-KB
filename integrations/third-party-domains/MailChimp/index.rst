@@ -64,61 +64,15 @@ Connect a form to MailChimp
 	    |mailchimp-continue-fields|
 		
 
-11. Click **Add Record** 
+9. Click **Close** 
 
 	.. class:: screenshot
 
 		
-		|namecom-enter-cname-record2|
+		|mailchimp-close|
 
 		
 	
-12. In your BitBlox account, click **Edit Page** on your landing page. 
-
-     .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-		
-
-13. Open the **Sidebar** and click the **Settings** icon
-
-
-    .. class:: screenshot
-
-		|bitblox-click-settings|
-
-		
-14. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-15. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
-
-
-    .. class:: screenshot
-
-		|bitblox-connect-domain|
-    
-16. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
-
-	
-    .. class:: screenshot
-
-		|bitblox-dns-settings|
-	
-17. If your records are entered correctly, the **Current Data** will be green 
-
-    .. class:: screenshot
-
-		|bitblox-click-refresh|
-
-    .. note::
-
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 		
 
