@@ -150,10 +150,35 @@ MailChimp's double opt-in policy
 	For help with creating and sending MailChimp campaigns, contact MailChimp at customersupport@mailchimp.com or visit their `Knowledge Base <http://www.kb.mailchimp.com/>`__ 
 		
 
-Getting more help
+Disconnect the MailChimp integration
 ------
 
+1. Open your landing page and go to the **Form** 
+2. On the form button, hover over **Edit** and click on **Integration List**
 
+	.. class:: screenshot
+
+		|mailchimp-open-integration|
+		
+
+3. Select **MailChimp** from the list. 
+
+	.. class:: screenshot
+
+		|mailchimp-choose-mailchimp|
+
+4. Select the remove **x** sign to the right of your account
+
+
+	.. class:: screenshot
+
+		|mailchimp-remove|
+
+5. Your account has been removed and you have been disconnected from MailChimp	
+		
+	.. class:: screenshot
+
+		|mailchimp-account-removed|	
 
 .. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.png
 .. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.png
@@ -176,6 +201,6 @@ Getting more help
 .. |mailchimp-close| image:: _images/mailchimp-close.png
 
 
-
-
+.. |mailchimp-remove| image:: _images/mailchimp-remove.png
+.. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.png	
 
