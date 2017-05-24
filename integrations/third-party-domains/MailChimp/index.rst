@@ -76,10 +76,12 @@ Connect a form to MailChimp
 
 		
 
-Set up your subdomain with Name.com
+Connect Multiplies forms to Mailchimp
 ------
 
-1. `Log in to your Name.com account <https://name.com>`__ 
+You can connect different accounts and lists from MailChimp to your landing page under different forms
+
+1. Open your landing page and go to the **Form** 
 2. In the **Domains** section, click **my domains**
 
 	.. class:: screenshot
