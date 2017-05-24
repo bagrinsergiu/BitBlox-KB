@@ -1,5 +1,5 @@
 ==========
-Publishing
+Integrations
 ==========
 
 .. toctree::
