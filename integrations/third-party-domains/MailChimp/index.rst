@@ -79,7 +79,8 @@ Connect a form to MailChimp
 Connect Multiplies forms to Mailchimp
 ------
 
-You can connect different accounts and lists from MailChimp to your landing page under different forms
+You can connect different accounts and lists from MailChimp to your landing page under different forms.
+
 
 1. Open your landing page and go to the **Form** 
 2. On the form button, hover over **Edit** and click on **Integration List**
@@ -142,7 +143,7 @@ You can connect different accounts and lists from MailChimp to your landing page
 MailChimp's double opt-in policy
 ------
 
-    As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending final “Welcome” email. Find more about this process in `Knowledge Base <http://www.kb.mailchimp.com/>`__ 
+As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending final “Welcome” email. Find more about this process in `Knowledge Base <http://www.kb.mailchimp.com/>`__ 
 
 	
 .. note::
