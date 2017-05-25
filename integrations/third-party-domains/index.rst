@@ -20,7 +20,7 @@ Integrations
     Monitor Campaign <Monitor Campaign/index>
     Sales Force <Sales Force/index>
     Zapier <Zapier/index>
-    Zoho <Zoho/index>
+    Zoho <Zoho/index> 
    
 
 
