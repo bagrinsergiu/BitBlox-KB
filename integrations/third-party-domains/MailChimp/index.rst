@@ -190,8 +190,6 @@ Disconnect the MailChimp integration
 .. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
 .. |mailchimp-close| image:: _images/mailchimp-close.jpg
 
-
-
 .. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
 .. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
 .. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.jpg
@@ -200,7 +198,6 @@ Disconnect the MailChimp integration
 .. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.jpg
 .. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
 .. |mailchimp-close| image:: _images/mailchimp-close.jpg
-
 
 .. |mailchimp-remove| image:: _images/mailchimp-remove.jpg
 .. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
