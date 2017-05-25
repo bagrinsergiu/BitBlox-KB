@@ -180,27 +180,27 @@ Disconnect the MailChimp integration
 
 		|mailchimp-account-removed|	
 
-.. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.png
-.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.png
-.. |mailchimp-connect-new-account| image:: _images/mailchimp-connect-new-account.png
-.. |mailchimp-login-in| image:: _images/mailchimp-login-in.png
-.. |mailchimp-continue-account| image:: _images/mailchimp-continue-account.png
-.. |mailchimp-continue-lists| image:: _images/mailchimp-continue-lists.png
-.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.png
-.. |mailchimp-close| image:: _images/mailchimp-close.png
+.. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
+.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
+.. |mailchimp-connect-new-account| image:: _images/mailchimp-connect-new-account.jpg
+.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
+.. |mailchimp-continue-account| image:: _images/mailchimp-continue-account.jpg
+.. |mailchimp-continue-lists| image:: _images/mailchimp-continue-lists.jpg
+.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+.. |mailchimp-close| image:: _images/mailchimp-close.jpg
 
 
 
-.. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.png
-.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.png
-.. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.png
-.. |mailchimp-login-in| image:: _images/mailchimp-login-in.png
-.. |mailchimp-continue-account2| image:: _images/mailchimp-continue-account2.png	
-.. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.png
-.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.png
-.. |mailchimp-close| image:: _images/mailchimp-close.png
+.. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
+.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
+.. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.jpg
+.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
+.. |mailchimp-continue-account2| image:: _images/mailchimp-continue-account2.jpg	
+.. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.jpg
+.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+.. |mailchimp-close| image:: _images/mailchimp-close.jpg
 
 
-.. |mailchimp-remove| image:: _images/mailchimp-remove.png
-.. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.png	
+.. |mailchimp-remove| image:: _images/mailchimp-remove.jpg
+.. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
 
