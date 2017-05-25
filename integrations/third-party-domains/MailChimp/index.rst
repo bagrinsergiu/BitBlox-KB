@@ -180,7 +180,7 @@ Disconnect the MailChimp integration
 
 		|mailchimp-account-removed|	
 
-.. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
+.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
 .. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
 .. |mailchimp-connect-new-account| image:: _images/mailchimp-connect-new-account.jpg
 .. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
@@ -191,7 +191,7 @@ Disconnect the MailChimp integration
 
 
 
-.. |nmailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
+.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
 .. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
 .. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.jpg
 .. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
