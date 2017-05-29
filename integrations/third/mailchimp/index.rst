@@ -180,6 +180,13 @@ Disconnect the MailChimp integration
 	.. class:: screenshot
 
 		|mailchimp-account-removed|	
+		
+
+Getting more help
+------
+If you have more questions or requests, `submit a ticket <https://www.bitblox.me/support/>`__ to BitBlox Customer Department
+
+
 
 .. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
 .. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
