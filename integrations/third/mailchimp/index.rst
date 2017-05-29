@@ -173,7 +173,7 @@ Disconnect the MailChimp integration
 
 	.. class:: screenshot
 
-		|mailchimp-remove|
+		|mailchimp-remove-account|
 
 5. Your account has been removed and you have been disconnected from MailChimp	
 		
@@ -199,6 +199,6 @@ Disconnect the MailChimp integration
 .. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
 .. |mailchimp-close| image:: _images/mailchimp-close.jpg
 
-.. |mailchimp-remove| image:: _images/mailchimp-remove.jpg
+.. |mailchimp-remove-account| image:: _images/mailchimp-remove-account.jpg
 .. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
 
