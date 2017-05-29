@@ -16,7 +16,7 @@ Integrations
     Get Response <Get Response/index>
     GoToWeb <GoToWeb/index>
     MadMini <MadMini/index>
-    MailChimp <mailchimp/index>
+    MailChimp <mmmmailchimp/index>
     Monitor Campaign <Monitor Campaign/index>
     Sales Force <Sales Force/index>
     Zapier <Zapier/index>
