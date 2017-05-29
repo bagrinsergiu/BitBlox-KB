@@ -35,7 +35,7 @@ Connect a form to MailChimp
 		|mailchimp-connect-new-account|
 
 		
-5. Log into your MailChimp account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox. 
+5. Log into your MailChimp account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox 
 
  
     .. class:: screenshot
