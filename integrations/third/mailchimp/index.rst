@@ -14,7 +14,7 @@ Connect a form to MailChimp
 ------
 
 1.  Open your landing page and go to the **Form**. 
-2.  On the form button, hove over **Edit** and click on **Integration List**.
+2.  On the form button, hove over **Edit** and click on **Integration List**
 
 	.. class:: screenshot
 
@@ -28,7 +28,7 @@ Connect a form to MailChimp
 		|mailchimp-choose-mailchimp|
 
 
-4. In the new box that appears, click **New Account**.
+4. In the new box that appears, click **New Account**
 
 	.. class:: screenshot
 
