@@ -28,7 +28,7 @@ Connect a form to MailChimp
 		|mailchimp-choose-mailchimp|
 
 
-4. In the new box that appears, click **New Account**
+4. In the new box that appears and click **New Account**
 
 	.. class:: screenshot
 
@@ -49,7 +49,7 @@ Connect a form to MailChimp
 	    |mailchimp-continue-account|
 		
 		
-7. Select the MailChimp list you want to send to, click **Continue** 
+7. Select the MailChimp list you want to send to and click **Continue** 
 
 
 	.. class:: screenshot
@@ -57,7 +57,7 @@ Connect a form to MailChimp
 	    |mailchimp-continue-lists|
 		
 		
-8. Edit your form's fields, click **Continue**
+8. Edit your form's fields and click **Continue**
 
 	.. class:: screenshot
 	
@@ -97,7 +97,7 @@ You can connect different accounts and lists from MailChimp to your landing page
 		|mailchimp-choose-mailchimp|
 
 
-4. In the new box that appears, click  **Connect New Account** 
+4. In the new box that appears and click  **Connect New Account** 
 
 	.. class:: screenshot
 
@@ -118,13 +118,13 @@ You can connect different accounts and lists from MailChimp to your landing page
 		|mailchimp-continue-account2|	
 
 		
-7. Select the MailChimp list you want to send to. Click **Continue** 
+7. Select the MailChimp list you want to send to and click **Continue** 
 
     .. class:: screenshot
 
 		|mailchimp-continue-lists2|
 
-8. Edit your form's fields. Click **Continue** 
+8. Edit your form's fields and click **Continue** 
 
     .. class:: screenshot
 
