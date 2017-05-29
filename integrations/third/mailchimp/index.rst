@@ -143,12 +143,12 @@ You can connect different accounts and lists from MailChimp to your landing page
 MailChimp's double opt-in policy
 ------
 
-As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending final “Welcome” email. Find more about this process in `Knowledge Base <http://www.kb.mailchimp.com/>`__ 
+As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending final “Welcome” email. Find more about this process in `MailChimp Knowledge Base <http://kb.mailchimp.com/getting-started/getting-started-with-mailchimp/>`__ 
 
 	
 .. note::
 
-	For help with creating and sending MailChimp campaigns, contact MailChimp at customersupport@mailchimp.com or visit their `Knowledge Base <http://www.kb.mailchimp.com/>`__ 
+	For help with creating and sending MailChimp campaigns, contact MailChimp at customersupport@mailchimp.com or visit their `Knowledge Base <http://kb.mailchimp.com/getting-started/getting-started-with-mailchimp/>`__ 
 		
 
 Disconnect the MailChimp integration
