@@ -14,7 +14,7 @@ Connect a form to MailChimp
 ------
 
 1.  Open your landing page and go to the **Form Block**. 
-2.  On the CTA button click on **Integration List**
+2.  On the CTA button click on **Integration** icon
 
 	.. class:: screenshot
 
@@ -147,7 +147,10 @@ You can connect different accounts and lists from MailChimp to your landing page
 MailChimp's double opt-in policy
 ------
 
-As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending final “Welcome” email. Find more about this process in the `MailChimp Knowledge Base <http://kb.mailchimp.com/getting-started/getting-started-with-mailchimp/>`__ 
+As part of MailChimp's double opt-in process, visitors are required to confirm their subscription. This includes sending final “Welcome” email. To send final welcome emails, you need to:
+
+ -  `Double Op-In must be enable for your campaign <http://kb.mailchimp.com/getting-started/getting-started-with-mailchimp/>`__ and `the Welcome Email option must be enabled in your MailChimp account <http://kb.mailchimp.com/lists/signup-forms/enable-or-disable-final-welcome-email/>`__
+ -   If you choose not to enable the Welcome Email option or have disabled Double Opn-In for your campaign, you need to `setup an automation workflow in MailChimp <http://kb.mailchimp.com/automation/add-an-automation/>`__ that sends an email once someone subscribes to your list.
 
 	
 .. note::
