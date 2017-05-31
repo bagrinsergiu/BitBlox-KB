@@ -13,22 +13,22 @@ MailChimp is an email marketing platform that delivers millions of emails a day.
 Connect a form to MailChimp
 ------
 
-1.  Open your landing page and go to the **Form**. 
-2.  On the form button, hove over **Edit** and click on **Integration List**
+1.  Open your landing page and go to the **Form Block**. 
+2.  On the CTA button click on **Integration List**
 
 	.. class:: screenshot
 
 		|mailchimp-open-integration|
 		
 
-3. Select **Mailchimp** from the list.
+3. Select **Mailchimp** integration from the list.
 
 	.. class:: screenshot
 
 		|mailchimp-choose-mailchimp|
 
 
-4. In the new box that appears and click **New Account**
+4. In the pop-up click **New Account**
 
 	.. class:: screenshot
 
@@ -57,13 +57,17 @@ Connect a form to MailChimp
 	    |mailchimp-continue-lists|
 		
 		
-8. Edit your form's fields and click **Continue**
+8. Match your form's fields and click **Continue**
 
 	.. class:: screenshot
 	
 	    |mailchimp-continue-fields|
 		
+.. note::
 
+	Match your field
+		
+		
 9. Click **Close** 
 
 	.. class:: screenshot
