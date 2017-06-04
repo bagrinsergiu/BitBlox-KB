@@ -13,7 +13,7 @@ MailChimp is an email marketing platform that delivers millions of emails a day.
 Connect a form to MailChimp
 ------
 
-1.  Open your landing page and go to the **Form Block** 
+1.  Open your landing page and go to the **Form Block**  
 2.  On the form button click on **Integration** icon
 
 	.. class:: screenshot
