@@ -13,7 +13,7 @@ MailChimp is an email marketing platform that delivers millions of emails a day.
 Connect a form to MailChimp
 ------
 
-1.  Open your landing page and go to the **Form Block**. 
+1.  Open your landing page and go to the **Form Block** 
 2.  On the form button click on **Integration** icon
 
 	.. class:: screenshot
@@ -21,7 +21,7 @@ Connect a form to MailChimp
 		|mailchimp-open-integration|
 		
 
-3. Select **Mailchimp** integration from the list.
+3. Select **Mailchimp** integration from the list
 
 	.. class:: screenshot
 
@@ -79,8 +79,8 @@ Connect Multiplies forms to Mailchimp
 You can connect different accounts and lists from MailChimp to your landing page under different forms.
 
 
-1. Open your landing page and go to the **Form** 
-2. On the form button, hover over **Edit** and click on **Integration List**
+1. Open your landing page and go to the **Form Block** 
+2. On the form button click on **Integration** icon
 
 	.. class:: screenshot
 
@@ -94,7 +94,7 @@ You can connect different accounts and lists from MailChimp to your landing page
 		|mailchimp-choose-mailchimp|
 
 
-4. In the new box that appears and click  **Connect New Account** 
+4. Click **Connect New Account** 
 
 	.. class:: screenshot
 
@@ -115,13 +115,13 @@ You can connect different accounts and lists from MailChimp to your landing page
 		|mailchimp-continue-account2|	
 
 		
-7. Select the MailChimp list you want to send to and click **Continue** 
+7. Select a MailChimp list for form submission and click **Continue** 
 
     .. class:: screenshot
 
 		|mailchimp-continue-lists2|
 
-8. Edit your form's fields and click **Continue** 
+8. Match your form's fields and click **Continue**
 
     .. class:: screenshot
 
@@ -150,8 +150,8 @@ As part of MailChimp's double opt-in process, visitors are required to confirm t
 Disconnect the MailChimp integration
 ------
 
-1. Open your landing page and go to the **Form** 
-2. On the form button, hover over **Edit** and click on **Integration List**
+1. Open your landing page and go to the **Form Block** 
+2. On the form button click on **Integration** icon
 
 	.. class:: screenshot
 
@@ -164,7 +164,7 @@ Disconnect the MailChimp integration
 
 		|mailchimp-choose-mailchimp|
 
-4. Select the remove **x** sign to the right of your account
+4. Click on the remove **x** sign to the right of your account
 
 
 	.. class:: screenshot
