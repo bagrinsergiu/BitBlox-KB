@@ -14,7 +14,7 @@ Connect a form to MailChimp
 ------
 
 1.  Open your landing page and go to the **Form Block**. 
-2.  On the CTA button click on **Integration** icon
+2.  On the form button click on **Integration** icon
 
 	.. class:: screenshot
 
@@ -28,14 +28,14 @@ Connect a form to MailChimp
 		|mailchimp-choose-mailchimp|
 
 
-4. In the pop-up click **New Account**
+4. Click **Connect New Account**
 
 	.. class:: screenshot
 
 		|mailchimp-connect-new-account|
 
 		
-5. Log into your MailChimp account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox 
+5. Log in to your MailChimp account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox 
 
  
     .. class:: screenshot
@@ -49,7 +49,7 @@ Connect a form to MailChimp
 	    |mailchimp-continue-account|
 		
 		
-7. Select the MailChimp list you want to send to and click **Continue** 
+7. Select a MailChimp list for form submission and click **Continue** 
 
 
 	.. class:: screenshot
@@ -65,19 +65,12 @@ Connect a form to MailChimp
 		
 .. note::
 
-	Match your field
+	Map the fields in your form to the fields in your MailChimp list. If there are fields in your form that you haven't added to MailChimp yet, select "Auto Generate" from the dropdown and they will generate for you. 
 		
 		
 9. Click **Close** 
 
-	.. class:: screenshot
-
 		
-		|mailchimp-close|
-
-		
-	
-
 		
 
 Connect Multiplies forms to Mailchimp
@@ -137,10 +130,6 @@ You can connect different accounts and lists from MailChimp to your landing page
 
 9. Click **Close** 
 
-	.. class:: screenshot
-
-		
-		|mailchimp-close|
 		
 
 
@@ -202,7 +191,7 @@ If you have more questions or requests, `submit a ticket <https://www.bitblox.me
 .. |mailchimp-continue-account| image:: _images/mailchimp-continue-account.jpg
 .. |mailchimp-continue-lists| image:: _images/mailchimp-continue-lists.jpg
 .. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
-.. |mailchimp-close| image:: _images/mailchimp-close.jpg
+
 
 .. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
 .. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
@@ -211,7 +200,7 @@ If you have more questions or requests, `submit a ticket <https://www.bitblox.me
 .. |mailchimp-continue-account2| image:: _images/mailchimp-continue-account2.jpg	
 .. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.jpg
 .. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
-.. |mailchimp-close| image:: _images/mailchimp-close.jpg
+
 
 .. |mailchimp-remove-account| image:: _images/mailchimp-remove-account.jpg
 .. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
