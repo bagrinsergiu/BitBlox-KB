@@ -3,8 +3,10 @@ MailChimp Integration
 ========
 
 
-MailChimp is an email marketing platform that delivers millions of emails a day. You can use the integration to send your subscribers product updates, event invitations, announcements or editorial content. Use MailChimp’s reports to improve your campaigns and learn more about your subscribers.
-		
+MailChimp is an email marketing platform that delivers millions of emails a day. With MailChimp you can send personalized product recommendations to individual customers, you can create targeted campaigns, automate helpful product follow-ups and recommend your products to differents customers.
+
+
+	
 .. contents::
     :local:
     :backlinks: top
