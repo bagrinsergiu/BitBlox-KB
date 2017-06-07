@@ -167,24 +167,24 @@ If you have more questions or requests, `submit a ticket <https://www.bitblox.me
 
 
 
-.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
-.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
-.. |mailchimp-connect-new-account| image:: _images/mailchimp-connect-new-account.jpg
-.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
-.. |mailchimp-continue-account| image:: _images/mailchimp-continue-account.jpg
-.. |mailchimp-continue-lists| image:: _images/mailchimp-continue-lists.jpg
-.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+.. |aweber-open-integration| image:: _images/aweber-open-integration.jpg
+.. |aweber-choose-aweber| image:: _images/aweber-choose-aweber.jpg
+.. |aweber-connect-new-account| image:: _images/aweber-connect-new-account.jpg
+.. |aweber-login-in| image:: _images/aweber-login-in.jpg
+.. |aweber-continue-account| image:: _images/aweber-continue-account.jpg
+.. |aweber-continue-lists| image:: _images/aweber-continue-lists.jpg
+.. |aweber-continue-fields| image:: _images/aweber-continue-fields.jpg
 
 
-.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
-.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
-.. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.jpg
-.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
-.. |mailchimp-continue-account2| image:: _images/mailchimp-continue-account2.jpg	
-.. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.jpg
-.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+.. |aweber-open-integration| image:: _images/aweber-open-integration.jpg
+.. |aweber-choose-mailchimp| image:: _images/aweber-choose-mailchimp.jpg
+.. |aweber-choose-new-account| image:: _images/aweber-choose-mailchimp.jpg
+.. |aweber-login-in| image:: _images/aweber-login-in.jpg
+.. |aweber-continue-account2| image:: _images/aweber-continue-account2.jpg	
+.. |aweber-continue-lists2| image:: _images/aweber-continue-lists2.jpg
+.. |aweber-continue-fields| image:: _images/aweber-continue-fields.jpg
 
 
-.. |mailchimp-remove-account| image:: _images/mailchimp-remove-account.jpg
-.. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
+.. |aweber-remove-account| image:: _images/aweber-remove-account.jpg
+.. |aweber-account-removed| image:: _images/aweber-account-removed.jpg	
 
