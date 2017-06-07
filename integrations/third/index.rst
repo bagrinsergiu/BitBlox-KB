@@ -13,7 +13,7 @@ Integrations
     Constant Contact <Constant Contact/index>
     ConvertKit <ConvertKit/index>
     E-goi <E-goi/index>
-    Get Response <Get Response/index>
+    Get Response <getresponse/index>
     GoToWeb <GoToWeb/index>
     MadMini <MadMini/index>
     MailChimp <mmmmailchimp/index> 
