@@ -1,224 +1,190 @@
 ========
-Set up your domain with Crazy Domains
+aWeber Integration
 ========
 
 
-If you purchased a domain from Crazy Domains, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Crazy Domains account to tell the domain/subdomain where to point.
+aWeber is a powerful email marketing service that makes it easy to connect with prospects and customers.You can use aWeber integration to collect email contactf from any online form and add them to your subscriber list.
 
-		
+
+	
 .. contents::
     :local:
     :backlinks: top
 
 	
-Set up your domain with Crazy Domains 
+Connect a form to aWeber Integration
 ------
 
-1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2.  In the **Main Menu**, click **Domains**
+1.  Open your landing page and go to the **Form Block**  
+2.  On the form button click on **Integration** icon
 
-    .. class:: screenshot
+	.. class:: screenshot
 
-		|crazydomains-click-domains|
+		|aweber-open-integration|
 		
 
-3. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
+3. Select **aWeber** integration from the list
 
-    .. class:: screenshot
+	.. class:: screenshot
 
-		|crazydomain-add-record|
+		|aweber-choose-mailchimp|
 
 
-4. Select **A Record** from the drop-down menu, then click **Add** 
+4. Click **Connect New Account**
 
-    .. class:: screenshot
+	.. class:: screenshot
 
-		|crazydomain-add-a-record|
+		|aweber-connect-new-account|
 
-5. Leave the **Sub Domain** box blank
-6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
-7. Click **Update**
+		
+5. Log in to your aWeber account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox 
 
+ 
     .. class:: screenshot
 	
-	    |crazydomain-save-a-record|
+	    |aweber-login-in|
 
-8. In the **DNS Setting** , select **Add Record** 
+6. Select your account and click **Continue** 
 
-    .. class:: screenshot
-
-		|crazydomain-add-cname-record|
-
-9. Select **CNAME Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-cname|
-
-		
-10. In the **Sub Domain** box, enter **www**
-11. In the **Alias For** box, enter your domain name (ex: ``mylandingpage.com``)
-12. Click **Update**
-
-    .. class:: screenshot
-
-		|crazydomain-save-cname-record|
-
-
-		
-13. In your BitBlox account, click **Edit Page** on your landing page. 
-
-     .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-		
-
-14. Open the **Sidebar** and click the **Settings** icon
-
-
-    .. class:: screenshot
-
-		|bitblox-click-settings|
-
-		
-15. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-16. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``), and then click **Connect Domain** button
-
-
-    .. class:: screenshot
-
-		|bitblox-connect-domain|
-    
-17. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
-
+	.. class:: screenshot
 	
-    .. class:: screenshot
+	    |aweber-continue-account|
+		
+		
+7. Select a aWeber list for form submission and click **Continue** 
 
-		|bitblox-dns-settings|
+
+	.. class:: screenshot
 	
-18. If your records are entered correctly, the **Current Data** will be green
+	    |aweber-continue-lists|
+		
+		
+8. Match your form's fields and click **Continue**
 
-    .. class:: screenshot
-
-		|bitblox-click-refresh|
-
-    .. note::
-
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
+	.. class:: screenshot
+	
+	    |aweber-continue-fields|
+		
+		
+9. Click **Close** 
 
 		
+		
 
-Set up your subdomain with Crazy Domains
+Connect Multiplies forms to aWeber
 ------
 
-1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2. In the **Main Menu**, click **Domains**:
+You can connect different accounts and lists from aWeber to your landing page under different forms.
 
-    .. class:: screenshot
 
-		|crazydomains-click-domains|
+1. Open your landing page and go to the **Form Block** 
+2. On the form button click on **Integration** icon
+
+	.. class:: screenshot
+
+		|aweber-open-integration|
 		
 
-3. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
+3. Select **aWeber** from the list. 
 
-    .. class:: screenshot
+	.. class:: screenshot
 
-		|crazydomain-add-record|
-
-
-4. Select **A Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-a-record|
+		|aweber-choose-mailchimp|
 
 
-5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
-7. Click **Update**
-		
-    .. class:: screenshot
+4. Click **Connect New Account** 
 
-		|crazydomain-save-subdomain|	
+	.. class:: screenshot
+
+		|aweber-choose-new-account|
 
 		
-8. In your BitBlox account, click **Edit Page** on your landing page. 
+5. Log into your new aWeber account. If this window doesn't appear, make sure your browser is not blocksing popups from BitBlox
 
-     .. class:: screenshot
+	.. class:: screenshot
 
-		|bitblox-click-edit-page|
+		|aweber-login-in|
+		
+ 
+6. Select your account and click **Continue**
+
+	.. class:: screenshot
+
+		|aweber-continue-account2|	
 
 		
-		
-9.  Open the **Sidebar** and click the **Settings** icon
-
+7. Select the aWeber list for form submission and click **Continue** 
 
     .. class:: screenshot
 
-		|bitblox-click-settings|
+		|aweber-continue-lists2|
+
+8. Match your form's fields and click **Continue**
+
+    .. class:: screenshot
+
+		|aweber-continue-fields|
 		
-10. Click **Settings** tab and then click **3rd Party Domain** tab
 
+9. Click **Close** 
 
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-11. In the **Domain Name** box enter the full domain name you want to link  (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
-
-    .. class:: screenshot
-
-		|bitblox-subdomain-click-connect-domain|
-    
-12. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
-
+		
 	
-    .. class:: screenshot
+Disconnect the aWeber integration
+------
 
-		|bitblox-subdomain-dns-settings|
-	
-13. If your records are entered correctly, the **Current Data** will be green
+1. Open your landing page and go to the **Form Block** 
+2. On the form button click on **Integration** icon
 
-    .. class:: screenshot
+	.. class:: screenshot
 
-		|bitblox-subdomain-refresh|
+		|aweber-open-integration|
+		
+
+3. Select **aWeber** from the list. 
+
+	.. class:: screenshot
+
+		|aweber-choose-aweber|
+
+4. Click on the delete **x** sign to the right of your account
 
 
-    .. note::
+	.. class:: screenshot
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+		|aweber-remove-account|
+
+5. Your account has been removed and you have been disconnected from aWeber	
+		
+	.. class:: screenshot
+
+		|aweber-account-removed|	
 		
 
 Getting more help
 ------
+If you have more questions or requests, `submit a ticket <https://www.bitblox.me/support/>`__ to BitBlox Customer Department
 
-For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
 
-.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-a-record| image:: _images/crazydomain-save-a-record.png
-.. |crazydomain-add-cname-record| image:: _images/crazydomain-add-cname-record.png
-.. |crazydomain-add-cname| image:: _images/crazydomain-add-cname.png
-.. |crazydomain-save-cname-record| image:: _images/crazydomain-save-cname-record.png
-.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-subdomain| image:: _images/crazydomain-save-subdomain.png
 
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
-.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
+.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
+.. |mailchimp-connect-new-account| image:: _images/mailchimp-connect-new-account.jpg
+.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
+.. |mailchimp-continue-account| image:: _images/mailchimp-continue-account.jpg
+.. |mailchimp-continue-lists| image:: _images/mailchimp-continue-lists.jpg
+.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+
+
+.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
+.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
+.. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.jpg
+.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
+.. |mailchimp-continue-account2| image:: _images/mailchimp-continue-account2.jpg	
+.. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.jpg
+.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+
+
+.. |mailchimp-remove-account| image:: _images/mailchimp-remove-account.jpg
+.. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
+
