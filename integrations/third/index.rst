@@ -9,7 +9,7 @@ Integrations
 
     Active Campaign <Active Campaign/index>
     Autopilot <Autopilot/index>
-    AWeber <AWeber/index>
+    AWeber <aweber/index>
     Constant Contact <Constant Contact/index>
     ConvertKit <ConvertKit/index>
     E-goi <E-goi/index>
