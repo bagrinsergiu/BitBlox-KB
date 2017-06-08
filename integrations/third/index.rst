@@ -7,20 +7,20 @@ Integrations
     :hidden:
     :titlesonly:
 
-    Active Campaign <Active Campaign/index>
-    Autopilot <Autopilot/index>
+    Active Campaign <activecampaign/index>
+    Autopilot <autopilot/index>
     AWeber <aweber/index>
-    Constant Contact <Constant Contact/index>
-    ConvertKit <ConvertKit/index>
-    E-goi <E-goi/index>
+    Constant Contact <constantcontact/index>
+    ConvertKit <convertkit/index>
+    E-goi <egoi/index>
     Get Response <getresponse/index>
-    GoToWeb <GoToWeb/index>
-    MadMini <MadMini/index>
+    GoToWeb <gogoweb/index>
+    MadMini <madmini/index>
     MailChimp <mmmmailchimp/index> 
-    Monitor Campaign <Monitor Campaign/index>
-    Sales Force <Sales Force/index>
-    Zapier <Zapier/index>
-    Zoho <Zoho/index> 
+    Monitor Campaign <monitorcampaign/index>
+    Sales Force <salesforce/index>
+    Zapier <zapier/index>
+    Zoho <zoho/index> 
    
 
 
