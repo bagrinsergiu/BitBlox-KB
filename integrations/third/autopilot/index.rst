@@ -48,7 +48,7 @@ The only thing you will need on the Autopilot part is your API Key value:
 5. Done! You've got your API Key
 		
 
-Connect a form to MailChimp
+Connect a form to Autopilot
 ------
 
 1.  Open your landing page and go to the **Form Block**  
@@ -56,121 +56,116 @@ Connect a form to MailChimp
 
 	.. class:: screenshot
 
-		|mailchimp-open-integration|
+		|autopilot-open-integration|
 		
 
-3. Select **Mailchimp** integration from the list
+3. Select **Autopilot** integration from the list
 
 	.. class:: screenshot
 
-		|mailchimp-choose-mailchimp|
+		|autopilot-choose-autopilot|
 
 
 4. Click **Connect New Account**
 
 	.. class:: screenshot
 
-		|mailchimp-connect-new-account|
+		|autopilot-connect-new-account|
 
 		
-5. Log in to your MailChimp account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox 
+5. Enter your API Key and then click **Yes, Continue** button 
 
- 
     .. class:: screenshot
 	
-	    |mailchimp-login-in|
+	    |autopilot-enter-key|
+
+6. Select you account and click **Continue** 
+
+	.. class:: screenshot
+	
+	    |autopilot-continue-account|
+		
+		
+7. Select the title and click **Continue** 
+
+
+	.. class:: screenshot
+	
+	    |autopilot-select-title|
+		
+		
+8. Match your form's fields and click **Continue**
+
+	.. class:: screenshot
+	
+	    |autopilot-continue-fields|
+		
+			
+9. Click **Close** 	
+		
+		
+
+Connect Multiplies forms to Autopilot
+------
+
+You can connect different accounts and lists from Autopilot to your landing page under different forms.
+
+
+1.  Open your landing page and go to the **Form Block**  
+2.  On the form button click on **Integration** icon
+
+	.. class:: screenshot
+
+		|autopilot-open-integration|
+		
+
+3. Select **Autopilot** integration from the list
+
+	.. class:: screenshot
+
+		|autopilot-choose-autopilot|
+
+
+4. Click **Connect New Account**
+
+	.. class:: screenshot
+
+		|autopilot-connect-new-account|
+
+		
+5. Enter your API Key and then click **Yes, Continue** button 
+
+    .. class:: screenshot
+	
+	    |autopilot-enter-key|
 
 6. Select your account and click **Continue** 
 
 	.. class:: screenshot
 	
-	    |mailchimp-continue-account|
+	    |autopilot-continue-account|
 		
 		
-7. Select a MailChimp list for form submission and click **Continue** 
+7. Select the title and click **Continue** 
 
 
 	.. class:: screenshot
 	
-	    |mailchimp-continue-lists|
+	    |autopilot-select-title|
 		
 		
 8. Match your form's fields and click **Continue**
 
 	.. class:: screenshot
 	
-	    |mailchimp-continue-fields|
+	    |autopilot-continue-fields|
 		
-.. note::
-
-	Map the fields in your form to the fields in your MailChimp list. If there are fields in your form that you haven't added to MailChimp yet, select "Auto Generate" from the dropdown and they will generate for you. 
-		
-		
+			
 9. Click **Close** 	
-		
-		
-
-Connect Multiplies forms to Mailchimp
-------
-
-You can connect different accounts and lists from MailChimp to your landing page under different forms.
-
-
-1. Open your landing page and go to the **Form Block** 
-2. On the form button click on **Integration** icon
-
-	.. class:: screenshot
-
-		|mailchimp-open-integration|
-		
-
-3. Select **MailChimp** from the list. 
-
-	.. class:: screenshot
-
-		|mailchimp-choose-mailchimp|
-
-
-4. Click **Connect New Account** 
-
-	.. class:: screenshot
-
-		|mailchimp-choose-new-account|
-
-		
-5. Log into your new MailChimp account. If this window doesn't appear, make sure your browser is not blocksing popups from BitBlox
-
-	.. class:: screenshot
-
-		|mailchimp-login-in|
-		
- 
-6. Select your account and click **Continue**
-
-	.. class:: screenshot
-
-		|mailchimp-continue-account2|	
-
-		
-7. Select a MailChimp list for form submission and click **Continue** 
-
-    .. class:: screenshot
-
-		|mailchimp-continue-lists2|
-
-8. Match your form's fields and click **Continue**
-
-    .. class:: screenshot
-
-		|mailchimp-continue-fields|
-		
-
-9. Click **Close** 
 
 		
 
-
-Disconnect the MailChimp integration
+Disconnect the Autopilot integration
 ------
 
 1. Open your landing page and go to the **Form Block** 
@@ -178,27 +173,27 @@ Disconnect the MailChimp integration
 
 	.. class:: screenshot
 
-		|mailchimp-open-integration|
+		|autopilot-open-integration|
 		
 
-3. Select **MailChimp** from the list. 
+3. Select **Autopilot** from the list. 
 
 	.. class:: screenshot
 
-		|mailchimp-choose-mailchimp|
+		|autopilot-choose-autopilot|
 
 4. Click on the delete **x** sign to the right of your account
 
 
 	.. class:: screenshot
 
-		|mailchimp-remove-account|
+		|autopilot-remove-account|
 
-5. Your account has been removed and you have been disconnected from MailChimp	
+5. Your account has been removed and you have been disconnected from Autopilot	
 		
 	.. class:: screenshot
 
-		|mailchimp-account-removed|	
+		|autopilot-account-removed|	
 		
 
 Getting more help
@@ -210,24 +205,26 @@ If you have more questions or requests, `submit a ticket <https://www.bitblox.me
 .. |autopilot-click-settings-tab| image:: _images/autopilot-click-settings-tab.jpg
 
 
-.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
-.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
-.. |mailchimp-connect-new-account| image:: _images/mailchimp-connect-new-account.jpg
-.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
-.. |mailchimp-continue-account| image:: _images/mailchimp-continue-account.jpg
-.. |mailchimp-continue-lists| image:: _images/mailchimp-continue-lists.jpg
-.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+
+.. |autopilot-open-integration| image:: _images/autopilot-open-integration.jpg
+.. |autopilot-choose-autopilot| image:: _images/autopilot-choose-autopilot.jpg
+.. |autopilot-connect-new-account| image:: _images/autopilot-connect-new-account.jpg
+.. |autopilot-enter-key| image:: _images/autopilot-enter-key.jpg
+.. |autopilot-login-in| image:: _images/autopilot-login-in.jpg
+.. |autopilot-continue-account| image:: _images/autopilot-continue-account.jpg
+.. |autopilot-continue-lists| image:: _images/autopilot-continue-lists.jpg
+.. |autopilot-continue-fields| image:: _images/autopilot-continue-fields.jpg
 
 
-.. |mailchimp-open-integration| image:: _images/mailchimp-open-integration.jpg
-.. |mailchimp-choose-mailchimp| image:: _images/mailchimp-choose-mailchimp.jpg
-.. |mailchimp-choose-new-account| image:: _images/mailchimp-choose-mailchimp.jpg
-.. |mailchimp-login-in| image:: _images/mailchimp-login-in.jpg
-.. |mailchimp-continue-account2| image:: _images/mailchimp-continue-account2.jpg	
-.. |mailchimp-continue-lists2| image:: _images/mailchimp-continue-lists2.jpg
-.. |mailchimp-continue-fields| image:: _images/mailchimp-continue-fields.jpg
+.. |autopilot-open-integration| image:: _images/autopilot-open-integration.jpg
+.. |autopilot-choose-autopilot| image:: _images/autopilot-choose-autopilot.jpg
+.. |autopilot-choose-new-account| image:: _images/autopilot-choose-autopilot.jpg
+.. |autopilot-login-in| image:: _images/autopilot-login-in.jpg
+.. |autopilot-continue-account2| image:: _images/autopilot-continue-account2.jpg	
+.. |autopilot-continue-lists2| image:: _images/autopilot-continue-lists2.jpg
+.. |autopilot-continue-fields| image:: _images/autopilot-continue-fields.jpg
 
 
-.. |mailchimp-remove-account| image:: _images/mailchimp-remove-account.jpg
-.. |mailchimp-account-removed| image:: _images/mailchimp-account-removed.jpg	
+.. |autopilot-remove-account| image:: _images/autopilot-remove-account.jpg
+.. |autopilot-account-removed| image:: _images/autopilot-account-removed.jpg	
 
