@@ -1,247 +1,190 @@
 ========
-Set up your domain with Register.com
+Zoho Integration
 ========
 
+Zoho Mail is a free email service with unlimited online storage (and quotas for mail sent and received per day) for personal use. Zoho is a great solution for organizations that are serious about establishing a comprehensive process for tracking and managing all contact / client communications. It also includes ample storage and offers POP and IMAP access.
 
-If you purchased a domain from Register.com, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Register.com account to tell the domain/subdomain where to point.
 
-		
+	
 .. contents::
     :local:
     :backlinks: top
 
 	
-Set up your domain with Register.com 
+Connect a form to Zoho
 ------
 
-1. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 
-2.  Click **Account Manager**, then click **Domains** 
-
-    .. class:: screenshot
-
-		|registercom-select-domain|
-		
-3. From the drop-down menu, select **Manage**
-
-    .. class:: screenshot
-
-		|registercom-select-manage|
-		
-4. Click **Manage** for the domain your want to use
-
-    .. class:: screenshot
-
-		|registercom-select-manage-domain|
-
-
-5. Scroll down to **Advanced Technical Settings**, click **Edit IP Address Records** 
+1.  Open your landing page and go to the **Form Block**  
+2.  On the form button click on **Integration** icon
 
 	.. class:: screenshot
 
-		|registercom-edit-a-record|
-
-6. In the first row, add ``@`` to the left of your domain
-7. In the right of **points to** , enter BitBlox's IP address ``162.243.77.151`` 
-8. Click **Continue**
-
-    .. class:: screenshot
-	
-	    |registercom-enter-a-record|
-		
-9. Click **Continue**
-   
-    .. class:: screenshot
-	
-	    |registercom-enter-continue|
+		|zoho-open-integration|
 		
 
-10. Scroll down to **Advanced Technical Settings**, click **Edit Domain Aliases Records**
-
-    .. class:: screenshot
-	
-	    |registercom-select-cname|
-
-11. In the box to left of your domain name, enter **www** 
-12. In the box to right of **points to**, enter you domain name (ex: ``mylandingpage.com``) 
-13. Click **Continue**
-
-    .. class:: screenshot
-
-		|registercom-enter-cname-record|
-
-14. Click **Continue**
+3. Select **Zoho** integration from the list
 
 	.. class:: screenshot
 
-		|registercom-click-continue-cnam|
+		|zoho-choose-zoho|
+
+
+4. Click **Connect New Account**
+
+	.. class:: screenshot
+
+		|zoho-connect-new-account|
 
 		
-	
-15. In your BitBlox account, click **Edit Page** on your landing page. 
+5. Log in to your Zoho account. If this window doesn't appear, make sure your browser is not blocking popups from BitBlox 
 
-    .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-		
-		
-16. Open the **Sidebar** and click the **Settings** icon
-
-    .. class:: screenshot
-
-		|bitblox-click-settings|
-
-
-17. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-18. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
-
-
-    .. class:: screenshot
  
-		|bitblox-connect-domain|
-    
-19. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
-
-	
     .. class:: screenshot
-
-		|bitblox-dns-settings|
 	
-20. If your records are entered correctly, the **Current Data** will be green
+	    |zoho-login-in|
 
-    .. class:: screenshot
+6. Select your account and click **Continue** 
 
-		|bitblox-click-refresh|
+	.. class:: screenshot
+	
+	    |zoho-continue-account|
+		
+		
+7. Select a Zoho list for form submission and click **Continue** 
 
-    .. note::
 
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+	.. class:: screenshot
+	
+	    |zoho-continue-lists|
+		
+		
+8. Match your form's fields and click **Continue**
+
+	.. class:: screenshot
+	
+	    |zoho-continue-fields|
+				
+		
+9. Click **Close** 
 
 		
+		
 
-Set up your subdomain with Register.com
+Connect Multiplies forms to Zoho
 ------
 
-1. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 
-2.  Click **Account Manager**, then click **Domains** 
+You can connect different accounts and lists from Zoho to your landing page under different forms.
+
+
+1. Open your landing page and go to the **Form Block** 
+2. On the form button click on **Integration** icon
 
 	.. class:: screenshot
 
-		|registercom-select-domain|
+		|zoho-open-integration|
 		
 
-3. From the drop-down menu, select **Manage**
+3. Select **Zoho** from the list. 
 
-    .. class:: screenshot
-
-		|registercom-select-manage|
-
-
-4. Click **Manage** for the domain your want to use
-
-    .. class:: screenshot
-
-		|registercom-select-subdomain|
-
-
-5. Scroll down to **Advanced Technical Settings**. click **Edit IP Address Records**
-
-    .. class:: screenshot
-
-		|registercom-edit-a-record|
-
-6. In the first row,  enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-7. In the right of **points to** box, add BitBlox's IP address ``162.243.77.151`` 
-8. Click **Continue**
-	
 	.. class:: screenshot
 
-		|registercom-enter-a-subdomain|	
+		|zoho-choose-zoho|
 
 
-9. Click **Continue**
-	
+4. Click **Connect New Account** 
+
 	.. class:: screenshot
 
-		|registercom-click-continue-subdomain|		
+		|zoho-choose-new-account|
+
 		
+5. Log into your new Zoho account. If this window doesn't appear, make sure your browser is not blocksing popups from BitBlox
+
+	.. class:: screenshot
+
+		|zoho-login-in|
 		
-10. In your BitBlox account, click **Edit Page** on your landing page 
+ 
+6. Select your account and click **Continue**
 
-    .. class:: screenshot
+	.. class:: screenshot
 
-		|bitblox-click-edit-page|
+		|zoho-continue-account2|	
 
-11. Open the **Sidebar** and click the **Settings** icon
-
-    .. class:: screenshot
-
-		|bitblox-click-settings|		
 		
-12. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-13. In the **Domain Name** box enter the full domain name you want to link (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
-
+7. Select a Zoho list for form submission and click **Continue** 
 
     .. class:: screenshot
 
-		|bitblox-subdomain-click-connect-domain|
-    
-14. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
+		|zoho-continue-lists2|
 
-	
-    .. class:: screenshot
-
-		|bitblox-subdomain-dns-settings|
-	
-15. If your records are entered correctly, the **Current Data** will be green
+8. Match your form's fields and click **Continue**
 
     .. class:: screenshot
 
-		|bitblox-subdomain-refresh|
+		|zoho-continue-fields|
+		
 
-    .. note::
+9. Click **Close** 
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
+		
+
+
+Disconnect the Zoho integration
+------
+
+1. Open your landing page and go to the **Form Block** 
+2. On the form button click on **Integration** icon
+
+	.. class:: screenshot
+
+		|zoho-open-integration|
+		
+
+3. Select **Zoho** from the list. 
+
+	.. class:: screenshot
+
+		|zoho-choose-zoho|
+
+4. Click on the delete **x** sign to the right of your account
+
+
+	.. class:: screenshot
+
+		|zoho-remove-account|
+
+5. Your account has been removed and you have been disconnected from MailChimp	
+		
+	.. class:: screenshot
+
+		|zoho-account-removed|	
 		
 
 Getting more help
 ------
+If you have more questions or requests, `submit a ticket <https://www.bitblox.me/support/>`__ to BitBlox Customer Department
 
-For more help with settings in your Register.com account, contact their `support team <https://www.register.com/customersupport/index.rcmx>`__ . 
 
 
-.. |registercom-select-domain| image:: _images/registercom-select-domain.png
-.. |registercom-select-manage| image:: _images/registercom-select-manage.png
-.. |registercom-select-manage-domain| image:: _images/registercom-select-manage-domain.png
-.. |registercom-edit-a-record| image:: _images/registercom-edit-a-record.png
-.. |registercom-enter-a-record| image:: _images/registercom-enter-a-record.png
-.. |registercom-enter-continue| image:: _images/registercom-enter-continue.png
-.. |registercom-select-cname| image:: _images/registercom-select-cname.png
-.. |registercom-edit-cname-record| image:: _images/registercom-edit-cname-record.png
-.. |registercom-enter-cname-record| image:: _images/registercom-enter-cname-record.png
-.. |registercom-click-continue-cnam| image:: _images/registercom-click-continue-cnam.png
-.. |registercom-select-subdomain| image:: _images/registercom-select-subdomain.png
-.. |registercom-enter-a-subdomain|	image:: _images/registercom-enter-a-subdomain.png
-.. |registercom-click-continue-subdomain| image:: _images/registercom-click-continue-subdomain.png
+.. |zoho-open-integration| image:: _images/zoho-open-integration.jpg
+.. |zoho-choose-zoho| image:: _images/zoho-choose-zoho.jpg
+.. |zoho-connect-new-account| image:: _images/zoho-connect-new-account.jpg
+.. |zoho-login-in| image:: _images/zoho-login-in.jpg
+.. |zoho-continue-account| image:: _images/zoho-continue-account.jpg
+.. |zoho-continue-lists| image:: _images/zoho-continue-lists.jpg
+.. |zoho-continue-fields| image:: _images/zoho-continue-fields.jpg
 
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
-.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+
+.. |zoho-open-integration| image:: _images/zoho-open-integration.jpg
+.. |zoho-choose-zoho| image:: _images/zoho-choose-zoho.jpg
+.. |zoho-choose-new-account| image:: _images/zoho-choose-zoho.jpg
+.. |zoho-login-in| image:: _images/zoho-login-in.jpg
+.. |zoho-continue-account2| image:: _images/zoho-continue-account2.jpg	
+.. |zoho-continue-lists2| image:: _images/zoho-continue-lists2.jpg
+.. |zoho-continue-fields| image:: _images/zoho-continue-fields.jpg
+
+
+.. |zoho-remove-account| image:: _images/zoho-remove-account.jpg
+.. |zoho-account-removed| image:: _images/zoho-account-removed.jpg	
+
