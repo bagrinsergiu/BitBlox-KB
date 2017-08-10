@@ -10,6 +10,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
     :local:
     :backlinks: top
 
+	
 Set up your domain with GoDaddy
 
 
@@ -89,11 +90,6 @@ and then click Connect Domain button
 
 
 
-
-
-Getting more help
-------
-
 For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ .
 
 
@@ -102,7 +98,6 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
 .. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
 .. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-
 .. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
 .. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
 .. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.png
