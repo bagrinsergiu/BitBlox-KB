@@ -98,9 +98,9 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
 .. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
 .. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
-.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
-.. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.png
-.. |godaddy-save-cname| image:: _images/godaddy-save-cname.png
-.. |godaddy-bitblox-refresh| image:: _images/godaddy-bitblox-refresh.png
+.. |godaddy-click-manage| image:: _images/godaddy-click-manage.jpg
+.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.jpg
+.. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.jpg
+.. |godaddy-save-cname| image:: _images/godaddy-save-cname.jpg
+.. |godaddy-bitblox-refresh| image:: _images/godaddy-bitblox-refresh.jpg
 .. |bitblox-green| image:: _images/bitblox-green.jpg
