@@ -16,32 +16,32 @@ Set up your domain with GoDaddy
 
 
 1. `Log in to your BitBlox account <https://www.bitblox.me/welcome//>`__ 	
-2. In your dashboard, click Edit Page on your landing page
+2. In your dashboard, click **Edit Page** on your landing page
 
      .. class:: screenshot
 
 		|bitblox-click-edit-page|
 
-3. Open the SideBar and click the Settings icon
+3. Open the **SideBar** and click the **Settings** icon
 
      .. class:: screenshot
 
 		|bitblox-click-settings|
 
-4. Click Settings tab and then click 3rd Party domain tab
+4. Click **Settings** tab and then click **3rd Party Domain** tab
 
     .. class:: screenshot
 
 		|bitblox-click-3-rd-party-domain|
 
-5. In the Domain Name box, enter the full domain name you want want to link (ex: www.mylandingpage.com)
+5. In the **Domain Name** box, enter the full domain name you want want to link (ex: ``www.mylandingpage.com``)
 and then click Connect Domain button
 
     .. class:: screenshot
 
 		|bitblox-connect-domain| 
 		
-6. A new panel will be opened with the records from your provider domain account. Copy the name of your page, under the REQUIRED row:
+6. A new panel will be opened with the records from your provider domain account. Copy the name of your page, under the **REQUIRED** row:
 
 
     .. class:: screenshot
@@ -49,33 +49,33 @@ and then click Connect Domain button
 		|bitblox-dns-settings|
 		
 7. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__
-8. In the Domains section, click Manage
+8. In the **Domains** section, click **Manage**
 
 	.. class:: screenshot
 
 		|godaddy-click-manage|
 		
-9. Select the domain you would like to connect and click the Settings icon, and select Manage DNS
+9. Select the domain you would like to connect and click the **Settings** icon, and select **Manage DNS**
 	
 	.. class:: screenshot
 
 		|godaddy-manage-dns|
 		
-10. In the Records section, click the Edit Record Icon for the CNAME record, www host
+10. In the **Records** section, click the **Edit** record Icon for the CNAME record, www host
 
 
 	.. class:: screenshot
 
 		|godaddy-manage-cname|
 
-11. In the Points to text box, enter the name of your page (ex: chitoroaganataliav-pzg27.bitblox.online)
+11. In the **Points** to text box, enter the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``)
 12. Click Save
 
 	.. class:: screenshot
 
 		|godaddy-save-cname|
 
-13. In your BitBlox account, click refresh button on the DNS Settings:
+13. In your BitBlox account, click **Refresh** button on the DNS Settings:
 
 	.. class:: screenshot
 
