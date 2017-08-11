@@ -34,8 +34,8 @@ Set up your domain with GoDaddy
 
 		|bitblox-click-3-rd-party-domain|
 
-5. In the **Domain Name** box, enter the full domain name you want want to link (ex: ``www.mylandingpage.com``)
-and then click Connect Domain button
+		
+5. In the **Domain Name** box, enter the full domain name you want want to link (ex: ``www.mylandingpage.com``)and then click Connect Domain button
 
     .. class:: screenshot
 
@@ -93,13 +93,13 @@ and then click Connect Domain button
 For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ .
 
 
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.png
+.. |bitblox-click-edit-pag++e| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
 .. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |godaddy-click-manage| image:: _images/godaddy-click-manage.jpg
-.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.jpg
+.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.jpg
+.. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
+.. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
 .. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.jpg
 .. |godaddy-save-cname| image:: _images/godaddy-save-cname.jpg
 .. |godaddy-bitblox-refresh| image:: _images/godaddy-bitblox-refresh.jpg
