@@ -93,7 +93,7 @@ Set up your domain with GoDaddy
 For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ .
 
 
-.. |bitblox-click-edit-pag++e| image:: _images/bitblox-click-edit-page.png
+.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
 .. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
 .. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
