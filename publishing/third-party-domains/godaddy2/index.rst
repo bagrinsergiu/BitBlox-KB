@@ -11,9 +11,6 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
     :backlinks: top
 
 	
-Set up your domain with GoDaddy
-
-
 
 1. `Log in to your BitBlox account <https://www.bitblox.me/welcome//>`__ 	
 2. In your dashboard, click **Edit Page** on your landing page
