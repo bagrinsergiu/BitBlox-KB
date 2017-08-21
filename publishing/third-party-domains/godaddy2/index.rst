@@ -19,7 +19,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
 		|bitblox-click-edit-page|
 
-3. Open the **SideBar** and click the **Settings** icon
+3. Open the **Side bar** and click the **Settings** icon
 
      .. class:: screenshot
 
@@ -38,7 +38,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
 		|bitblox-connect-domain| 
 		
-6. A new panel will be opened with the records from your provider domain account. Copy the name of your page, under the **REQUIRED** row:
+6. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``) under the **required** row
 
 
     .. class:: screenshot
@@ -58,7 +58,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
 		|godaddy-manage-dns|
 		
-10. In the **Records** section, click the **Edit** record Icon for the CNAME record, www host
+10. In the **Records** section, click the **Edit** Icon for the CNAME record
 
 
 	.. class:: screenshot
@@ -88,6 +88,11 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
 
 For more help with settings in your GoDaddy account, contact their `support team <https://uk.godaddy.com/help>`__ .
+
+
+
+
+
 
 
 .. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
