@@ -32,7 +32,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 		|bitblox-click-3-rd-party-domain|
 
 		
-5. In the **Domain Name** box, enter the full domain name you want want to link (ex: ``www.mylandingpage.com``)and then click Connect Domain button
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``www.mylandingpage.com``) and then click **Connect Domain** button
 
     .. class:: screenshot
 
