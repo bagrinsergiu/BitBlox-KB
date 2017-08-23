@@ -42,25 +42,28 @@ If you purchased a domain from Register.com, you can use it for your BitBlox Lan
  
 		|bitblox-connect-domain|		
 	
-6. A new panel will be opened with the records	
+6. A new panel will be opened with the records	from your provider domain account. Copy the name of your page (ex : ----- ) under the required row
+	
+    .. class:: screenshot
+
+		|bitblox-dns-settings|
+
+7. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 		
 	
 	
-	
-	
-1. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 
-2.  Click **Account Manager**, then click **Domains** 
+8.  Click **Account Manager**, then click **Domains** 
 
     .. class:: screenshot
 
 		|registercom-select-domain|
 		
-3. From the drop-down menu, select **Manage**
+9. From the drop-down menu, select **Manage**
 
     .. class:: screenshot
 
 		|registercom-select-manage|
 		
-4. Click **Manage** for the domain your want to use
+10. Click **Manage** for the domain your want to use
 
     .. class:: screenshot
 
