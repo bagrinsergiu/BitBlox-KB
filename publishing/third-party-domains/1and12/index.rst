@@ -46,12 +46,14 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|click-connect-domain-bitblox|	
 		
+7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
 		
 		
 		
 		
-		
+    .. class:: screenshot
 
+		|copy-bitblox-page-name|	
 
 
 	
@@ -273,7 +275,7 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
 .. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
 .. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
-
+.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
 
 
 
