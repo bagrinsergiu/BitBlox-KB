@@ -12,9 +12,18 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
     :backlinks: top
 
 	
-Set up your domain with 1and1.com
-------
 
+	
+1. `Log in to your BitBlox account <https://www.bitblox.me/welcome//>`__ 	
+2. In your dashboard, click **Edit Page** on your Landing Page
+
+    .. class:: screenshot
+
+		|edit-my-landing-page-bitblox|
+	
+	
+	
+	
 1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__ 
 2. In **Your domain** section, click **Manage Domain**
 
@@ -224,6 +233,16 @@ Getting more help
 ------
 
 For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ . 
+
+
+
+
+.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+
+
+
+
+
 
 .. |1and1-click-manage-domain| image:: _images/1and1-click-manage-domain.png
 .. |1and1-click-manage-dns-settings| image:: _images/1and1-click-manage-dns-settings.png
