@@ -42,7 +42,9 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 6. Click **Connect Domain** button		
 		
 		
-		
+    .. class:: screenshot
+
+		|click-connect-domain-bitblox|	
 		
 		
 		
@@ -270,7 +272,7 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
 .. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
 .. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
-		
+.. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
 
 
 
