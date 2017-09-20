@@ -29,6 +29,13 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|click-settings-bitblox|
 
+		
+4. Click **Settings** tab and then click **3rd Party Domain** tab
+
+		
+	.. class:: screenshot
+
+		|click-3rd-party-domain-bitblox|
 
 
 		
@@ -81,7 +88,7 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|1and1-save-a-record|
 
 
-7. In the **Domains** page, click **Create Subdomain**
+7. In the **Domains** page, click **Create rd PaSubdomain**
 	
 	.. class:: screenshot
 
@@ -261,7 +268,7 @@ For more help with settings in your 1and1.com account, contact their `support te
 
 .. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
 .. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
-
+.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
 		
 
 
