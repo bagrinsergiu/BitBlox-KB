@@ -22,6 +22,28 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|edit-my-landing-page-bitblox|
 	
 	
+3. Open the **Side Bar** and click the **Settings** icon
+
+
+	.. class:: screenshot
+
+		|click-settings-bitblox|
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
 	
 	
 1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__ 
@@ -238,7 +260,9 @@ For more help with settings in your 1and1.com account, contact their `support te
 
 
 .. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+.. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
 
+		
 
 
 
