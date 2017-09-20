@@ -48,24 +48,33 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		
 7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
 		
-		
-		
+			
 		
     .. class:: screenshot
 
 		|copy-bitblox-page-name|	
 
-
 	
-	
-1. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__ 
-2. In **Your domain** section, click **Manage Domain**
+8. `Log in to your 1and1.com account <https://www.1and1.com/login?__lf=Static/>`__ 
+9. In **Your domain** section, click **Manage Domain**
 
 	.. class:: screenshot
 
-		|1and1-click-manage-domain|
+		|click-manage-domain-1and1|
 		
 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 3. In the **Domains** page, click **Edit DNS Settings**
 
 	.. class:: screenshot
@@ -278,7 +287,7 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
 
 
-
+.. |click-manage-domain-1and1| image:: _images/click-manage-domain-1and1.jpg
 
 .. |1and1-click-manage-domain| image:: _images/1and1-click-manage-domain.png
 .. |1and1-click-manage-dns-settings| image:: _images/1and1-click-manage-dns-settings.png
