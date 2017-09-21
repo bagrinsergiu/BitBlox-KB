@@ -92,14 +92,25 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|click-dns-settings-1and1|
 
 	
+14. Scroll down to **A/AAA and **CNAME Records** section, click on the **CNAME** record
 
 
+.. class:: screenshot
 
+		|click-cname-record|
+
+
+15. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
+	
+
+.. class:: screenshot
+
+		|enter-the-name-of-bitblox-page|
+	
 
 
 
 	
-		
 .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
@@ -125,10 +136,6 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |click-add-subdomain| image:: _images/click-add-subdomain.jpg
 .. |add-www| image:: _images/add-www.jpg
 .. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
-
-
-
-.. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
-.. |click-add-record-1and1| image:: _images/click-add-record-1and1.jpg
-.. |select-cname-record| image:: _images/select-cname-record.jpg
+.. |click-cname-record| image:: _images/click-cname-record.jpg
+.. |enter-the-name-of-bitblox-page| image:: _images/enter-the-name-of-bitblox-page.jpg
 
