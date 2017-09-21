@@ -83,12 +83,22 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 	
 	.. class:: screenshot
 
-		|add-wwww|
+		|add-www|
 
-		
-		
-		
-		
+13. Click on the **DNS Settings** in the right corner of the page		
+	
+.. class:: screenshot
+
+		|click-dns-settings-1and1|
+
+	
+
+
+
+
+
+
+	
 		
 .. note::
 
@@ -113,8 +123,8 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |click-manage-domain-1and1| image:: _images/click-manage-domain-1and1.jpg
 .. |open-subdomains-tab| image:: _images/open-subdomains-tab.jpg
 .. |click-add-subdomain| image:: _images/click-add-subdomain.jpg
-.. |add-wwww| image:: _images/add-www.jpg
-
+.. |add-www| image:: _images/add-www.jpg
+.. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
 
 
 
