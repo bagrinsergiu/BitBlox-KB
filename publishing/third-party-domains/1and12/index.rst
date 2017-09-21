@@ -107,7 +107,12 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|enter-the-name-of-bitblox-page|
 	
+16. Click **Refresh** button in the BitBlox Settings tab
 
+
+.. class:: screenshot
+
+		|click-refresh-bitblox|
 
 
 	
@@ -138,4 +143,4 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
 .. |click-cname-record| image:: _images/click-cname-record.jpg
 .. |enter-the-name-of-bitblox-page| image:: _images/enter-the-name-of-bitblox-page.jpg
-
+.. |click-refresh-bitblox| image: images/click-refresh-bitblox.jpg
