@@ -77,9 +77,15 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|click-add-record-1and1|
 	
 	
+12. From the drop down menu, select CNAME record
 	
 	
-click-add-record-1and1	
+	.. class:: screenshot
+
+		|select-cname-record|	
+	
+
+	
 	
 
 .. note::
@@ -105,5 +111,5 @@ For more help with settings in your 1and1.com account, contact their `support te
 .. |click-manage-domain-1and1| image:: _images/click-manage-domain-1and1.jpg
 .. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
 .. |click-add-record-1and1| image:: _images/click-add-record-1and1.jpg
-
+.. |select-cname-record| image:: _images/select-cname-record.jpg
 
