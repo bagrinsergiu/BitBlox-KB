@@ -121,10 +121,9 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
-Getting more help
-------
 
-For more help with settings in your 1and1.com account, contact their `support team <http://help.1and1.com/?hc=website>`__ . 
+
+For more help with 3rd party domain connection, contact our `support team <https://www.bitblox.me/support>`__ . 
 
 
 
