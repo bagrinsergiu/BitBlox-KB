@@ -62,7 +62,11 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|click-manage-domain-1and1|
 		
+10. Click on the **DNS Settings** tab in the right corner of the page
 
+	.. class:: screenshot
+
+		|click-dns-settings-1and1|
 		
 		
 	
@@ -93,27 +97,7 @@ For more help with settings in your 1and1.com account, contact their `support te
 
 
 .. |click-manage-domain-1and1| image:: _images/click-manage-domain-1and1.jpg
-
-.. |1and1-click-manage-domain| image:: _images/1and1-click-manage-domain.png
-.. |1and1-click-manage-dns-settings| image:: _images/1and1-click-manage-dns-settings.png
-.. |1and1-click-other-ip| image:: _images/1and1-click-other-ip.png
-.. |1and1-edit-a-record| image:: _images/1and1-edit-a-record.png
-.. |1and1-save-a-record| image:: _images/1and1-save-a-record.png
-.. |1and1-click-create-subdomain| image:: _images/1and1-click-create-subdomain.png
-.. |1and1-create-subdomain| image:: _images/1and1-create-subdomain.png
-
-.. |1and1-click-manage-subdomain| image:: _images/1and1-click-manage-subdomain.png
-.. |1and1-select-subdomain|	image:: _images/1and1-select-subdomain.png
-.. |1and1-save-create-subdomain| image:: _images/1and1-save-create-subdomain.png
-.. |1and1-click-edit-settings-subdomain| image:: _images/1and1-click-edit-settings-subdomain.png
+.. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
 
 
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
-.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+
