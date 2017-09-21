@@ -61,33 +61,35 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 	.. class:: screenshot
 
 		|click-manage-domain-1and1|
+
+
+10. Open the **Subdomains** tab 
+
+	.. class:: screenshot
+
+		|open-subdomains-tab|
+
+
+11. Click **Add Subdomain**
+
+
+	.. class:: screenshot
+
+		|click-add-subdomain|
+
+12. In the **Subdomain Name** box add www and click **Save** button
+
+
+	
+	.. class:: screenshot
+
+		|add-wwww|
+
 		
-10. Click on the **DNS Settings** tab in the right corner of the page
-
-	.. class:: screenshot
-
-		|click-dns-settings-1and1|
 		
-11. Scroll down to **TXT, CNAME and SRV Records** section and click **Add Record**	button	
-	
-	
-	
-	.. class:: screenshot
-
-		|click-add-record-1and1|
-	
-	
-12. From the drop down menu, select CNAME record
-	
-	
-	.. class:: screenshot
-
-		|select-cname-record|	
-	
-
-	
-	
-
+		
+		
+		
 .. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
@@ -109,6 +111,13 @@ For more help with settings in your 1and1.com account, contact their `support te
 
 
 .. |click-manage-domain-1and1| image:: _images/click-manage-domain-1and1.jpg
+.. |open-subdomains-tab| image:: _images/open-subdomains-tab.jpg
+.. |click-add-subdomain| image:: _images/click-add-subdomain.jpg
+.. |add-wwww| image:: _images/add-www.jpg
+
+
+
+
 .. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
 .. |click-add-record-1and1| image:: _images/click-add-record-1and1.jpg
 .. |select-cname-record| image:: _images/select-cname-record.jpg
