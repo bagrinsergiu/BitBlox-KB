@@ -68,12 +68,18 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|click-dns-settings-1and1|
 		
-		
+11. Scroll down to **TXT, CNAME and SRV Records** section and click **Add Record**	button	
+	
+	
+	
+	.. class:: screenshot
+
+		|click-add-record-1and1|
 	
 	
 	
 	
-	
+click-add-record-1and1	
 	
 
 .. note::
@@ -98,6 +104,6 @@ For more help with settings in your 1and1.com account, contact their `support te
 
 .. |click-manage-domain-1and1| image:: _images/click-manage-domain-1and1.jpg
 .. |click-dns-settings-1and1| image:: _images/click-dns-settings-1and1.jpg
-
+.. |click-add-record-1and1| image:: _images/click-add-record-1and1.jpg
 
 
