@@ -105,7 +105,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 15. In your BitBlox account, click **Refresh** button on the DNS Settings:
 
 
-.. class:: screenshot
+	.. class:: screenshot
 
 		|click-refresh-bitblox|
 
@@ -138,7 +138,7 @@ For more help with settings in your Crazy Domain account, contact their `support
 
 .. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
 .. |crazydomains-click-domain-name| image:: _images/crazydomains-click-domain-name.jpg
-.. |crazydomains-delete-a-record| image:: _images/crazydomain-delete-a-record.jpg
+.. |crazydomains-delete-a-record| image:: _images/crazydomains-delete-a-record.jpg
 
 
 .. |crazydomains-add-record| image:: _images/crazydomains-add-record.jpg
