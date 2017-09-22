@@ -114,7 +114,7 @@ For more help with 3rd party domain connection,  contact our `support team <http
 
 
 	
-.. |hover-add-a-record| image:: _images/add-a-record.jpg
+.. |hover-add-a-record| image:: _images/hover-add-a-record.jpg
 .. |hover-save-button|	image:: _images/hover-save-button.jpg
 
 
