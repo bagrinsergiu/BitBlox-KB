@@ -257,24 +257,10 @@ Getting more help
 
 For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
 
-.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-a-record| image:: _images/crazydomain-save-a-record.png
-.. |crazydomain-add-cname-record| image:: _images/crazydomain-add-cname-record.png
-.. |crazydomain-add-cname| image:: _images/crazydomain-add-cname.png
-.. |crazydomain-save-cname-record| image:: _images/crazydomain-save-cname-record.png
-.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
-.. |crazydomain-add-record| image:: _images/crazydomain-add-record.png
-.. |crazydomain-add-a-record| image:: _images/crazydomain-add-a-record.png
-.. |crazydomain-save-subdomain| image:: _images/crazydomain-save-subdomain.png
 
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
-.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+.. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
+.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
+.. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
+.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
+
