@@ -71,7 +71,7 @@ If you purchased a domain from Hover, you can use it for your BitBlox Landing Pa
 		
 12. In the **Type** drop-down menu, select **CNAME** record
 13. In the **Hostname** text box, enter **www** prefix
-14. In the **Target Name** enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)
+14. In the **Target Name** text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)
 15. Click **Add Record** Button
 	
     .. class:: screenshot
@@ -115,7 +115,7 @@ For more help with 3rd party domain connection,  contact our `support team <http
 
 	
 .. |hover-add-a-record| image:: _images/add-a-record.jpg
-.. 	|hover-save-button|	image:: _images/hover-save-button.jpg
+.. |hover-save-button|	image:: _images/hover-save-button.jpg
 
 
 .. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
