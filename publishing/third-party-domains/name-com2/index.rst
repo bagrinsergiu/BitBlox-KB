@@ -82,8 +82,8 @@ If you purchased a domain from Name.com, you can use it for your BitBlox Landing
 		|namecom-select-dns|
 
 
-12.In the **Type** column, use the drop-down menu to select **CNAME** Record
-13. In the **Host** text box, enter **www** 
+12. In the **Type** column, use the drop-down menu to select **CNAME** Record
+13. In the **Host** text box, enter **www** prefix
 14. In the **Answer** text box, enter your page name (ex: ``bitbloxkb-lzj29.bitblox.online``)
 15. Click **Add Record** 
 
