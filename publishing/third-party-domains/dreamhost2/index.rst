@@ -55,23 +55,41 @@ If you purchased a domain from DreamHost, you can use it for your BitBlox Landin
 		|copy-bitblox-page-name|	
 	
 	
+	
+8. `Log in to your DreamHost account <https://panel.dreamhost.com/>`__ 	
+	
+9. In the **Main Menu**, click **Domains**
+
+    .. class:: screenshot
+
+		|dreamhost-open-domains|
+		
+
+10. Click **Manage Domains**
+
+    .. class:: screenshot
+
+		|dreamhost-click-manage-domains|
 
 
+11. Under your domain, click **DNS**
+
+    .. class:: screenshot
+
+		|dreamhost-click-dns|	
 	
 	
+10. In the **Name** box, enter **www**
+10. In the **Type** drop down menu, select **CNAME** Record
+11. In the **Value** box, enter your domain name (ex: ``bitbloxkb-lzj29.bitblox.online``). 
+12. Click **Add Record Now**
+
+    .. class:: screenshot
+
+		|dreamhost-save-cname-record|	
+
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-15. In your BitBlox account, click **Refresh** button in the DNS Settings:
+13. In your BitBlox account, click **Refresh** button in the DNS Settings:
 
 
 	.. class:: screenshot
@@ -108,7 +126,13 @@ For more help with 3rd party domain connection,  contact our `support team <http
 .. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
 .. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
 .. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg	
-	
+
+
+
+.. |dreamhost-open-domains| image:: _images/dreamhost-open-domains.png
+.. |dreamhost-click-manage-domains| image:: _images/dreamhost-click-manage-domains.png
+.. |dreamhost-click-dns| image:: _images/dreamhost-click-dns.png	
+.. |dreamhost-save-cname-record| image:: _images/dreamhost-save-cname-record.jpg		
 	
 	
 	
@@ -129,26 +153,10 @@ For more help with 3rd party domain connection,  contact our `support team <http
 	
 	
 	
-1. `Log in to your DreamHost account <https://panel.dreamhost.com/>`__ 
-2. In the **Main Menu**, click **Domains**
-
-    .. class:: screenshot
-
-		|dreamhost-open-domains|
-		
-
-3. Click **Manage Domains**
-
-    .. class:: screenshot
-
-		|dreamhost-click-manage-domains|
 
 
-4. Under your domain, click **DNS**
 
-    .. class:: screenshot
 
-		|dreamhost-click-dns|
 
 		
 5. In the **Name** box, leave the white blank 
@@ -160,14 +168,7 @@ For more help with 3rd party domain connection,  contact our `support team <http
 
 		|dreamhost-enter-ip|
 
-9. In the **Name** box, enter **www**
-10. In the **Type** drop down menu, select **CNAME** Record
-11. In the **Value** box, enter your domain name (ex: ``mylandingpage.com``). 
-12. Click **Add Record Now**
 
-    .. class:: screenshot
-
-		|dreamhost-save-cname-record|
 	
 13. In your BitBlox account, click **Edit Page** on your landing page 
 
