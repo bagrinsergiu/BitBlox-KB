@@ -38,7 +38,7 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|click-3rd-party-domain-bitblox|
 
 
-5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``www.mylandingpage.com``)
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``)
 6. Click **Connect Domain** button		
 		
 		
@@ -123,7 +123,7 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 
 
-For more help with 3rd party domain connection, contact our `support team <https://www.bitblox.me/support>`__ . 
+For more help with 3rd party domain connection,  contact our `support team <https://www.bitblox.me/support>`__ . 
 
 
 

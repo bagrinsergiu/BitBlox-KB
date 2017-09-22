@@ -36,7 +36,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 		|click-3rd-party-domain-bitblox|
 
 
-5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``www.mylandingpage.com``)
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``)
 6. Click **Connect Domain** button		
 		
 		
