@@ -11,10 +11,66 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
     :backlinks: top
 
 	
-Set up your domain with Crazy Domains 
-------
+	
+1. `Log in to your BitBlox account <https://www.bitblox.me/welcome//>`__ 	
+2. In your dashboard, click **Edit Page** on your Landing Page
 
-1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
+    .. class:: screenshot
+
+		|edit-my-landing-page-bitblox|
+	
+	
+3. Open the **Side Bar** and click the **Settings** icon
+
+
+	.. class:: screenshot
+
+		|click-settings-bitblox|
+
+		
+4. Click **Settings** tab and then click **3rd Party Domain** tab
+
+		
+	.. class:: screenshot
+
+		|click-3rd-party-domain-bitblox|
+
+
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``www.mylandingpage.com``)
+6. Click **Connect Domain** button		
+		
+		
+    .. class:: screenshot
+
+		|click-connect-domain-bitblox|	
+		
+7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+		
+			
+		
+    .. class:: screenshot
+
+		|copy-bitblox-page-name|	
+	
+	
+	
+8. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
 2.  In the **Main Menu**, click **Domains**
 
     .. class:: screenshot
