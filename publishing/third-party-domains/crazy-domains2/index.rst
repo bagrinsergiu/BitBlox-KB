@@ -56,10 +56,12 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 	
 8. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 	
 	
+9. 	In the **Main Menu**, click **Domains**
 	
 	
-	
-	
+    .. class:: screenshot
+
+		|crazydomains-click-domains|	
 	
 	
 	
@@ -264,3 +266,5 @@ For more help with settings in your Crazy Domain account, contact their `support
 .. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
 .. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
 
+
+.. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
