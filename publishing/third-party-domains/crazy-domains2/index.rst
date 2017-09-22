@@ -66,21 +66,16 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 	
 	
 	
-	
-	
-	
-	
-	
-	
+10. Click on your selected Domain Name
 
-2.  In the **Main Menu**, click **Domains**
+	
+	.. class:: screenshot
 
-    .. class:: screenshot
-
-		|crazydomains-click-domains|
-		
-
-3. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
+		|crazydomains-click-domain-name|	
+	
+	
+	
+11. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
 
     .. class:: screenshot
 
@@ -268,3 +263,5 @@ For more help with settings in your Crazy Domain account, contact their `support
 
 
 .. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
+.. |crazydomains-click-domain-name| image:: _images/crazydomains-click-domain-name.jpg
+.. |crazydomains-add-record|	image:: _images/crazydomains-add-record.jpg
