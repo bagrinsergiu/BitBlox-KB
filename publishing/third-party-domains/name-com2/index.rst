@@ -56,18 +56,39 @@ If you purchased a domain from Name.com, you can use it for your BitBlox Landing
 	
 8. 	`Log in to your Name.com account <https://name.com>`__ 
 	
+9. From the **Domains** tab, select **Manage Domains**
+	
+	
+		
+    .. class:: screenshot
+
+		|namecom-select-manage-domains|		
+	
+	
+	
+	
+	
+	
+.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+.. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
+.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
+.. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
+.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg	
+	
+	
+	
+	
+.. |namecom-select-manage-domains| image:: _images/namecom-select-manage-domains.jpg	
+	
+
 
 	
 	
+.. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
+.. |bitblox-green|	image:: _images/bitblox-green.jpg	
 	
 	
-	
-	
-	
-	
-	
-	
-	
+			
 	
 	
 	
