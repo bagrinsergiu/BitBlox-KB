@@ -65,7 +65,6 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 	
 	
 	
-	
 10. Click on your selected Domain Name
 
 	
@@ -74,177 +73,52 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 		|crazydomains-click-domain-name|	
 	
 	
+11. In the main page, scroll down to **DNS Settings** section. Delete **A Record** and then click **Update**
+
+
+	.. class:: screenshot
+
+		|crazydomains-delete-a-record|	
+
 	
-11. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
+12. Click **Add Record** 
 
     .. class:: screenshot
 
 		|crazydomain-add-record|
 
 
-4. Select **A Record** from the drop-down menu, then click **Add** 
+13. Select **CNAME** from the drop-down menu, then click **Add** 
 
     .. class:: screenshot
 
-		|crazydomain-add-a-record|
+		|crazydomains-add-cname|
 
-5. Leave the **Sub Domain** box blank
-6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
-7. Click **Update**
-
-    .. class:: screenshot
+		
+14. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
 	
-	    |crazydomain-save-a-record|
+	.. class:: screenshot
 
-8. In the **DNS Setting** , select **Add Record** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-cname-record|
-
-9. Select **CNAME Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-cname|
-
-		
-10. In the **Sub Domain** box, enter **www**
-11. In the **Alias For** box, enter your domain name (ex: ``mylandingpage.com``)
-12. Click **Update**
-
-    .. class:: screenshot
-
-		|crazydomain-save-cname-record|
+		|crazydomain-enter-bitblox-page|
 
 
-		
-13. In your BitBlox account, click **Edit Page** on your landing page. 
-
-     .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-		
-
-14. Open the **Sidebar** and click the **Settings** icon
+15. In your BitBlox account, click **Refresh** button on the DNS Settings:
 
 
-    .. class:: screenshot
+.. class:: screenshot
 
-		|bitblox-click-settings|
+		|click-refresh-bitblox|
 
-		
-15. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-16. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``), and then click **Connect Domain** button
-
-
-    .. class:: screenshot
-
-		|bitblox-connect-domain|
-    
-17. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
-
+14. If your records are entered correctly, the Current Data will be green   
 	
-    .. class:: screenshot
-
-		|bitblox-dns-settings|
 	
-18. If your records are entered correctly, the **Current Data** will be green
+	.. class:: screenshot
 
-    .. class:: screenshot
-
-		|bitblox-click-refresh|
-
-    .. note::
-
-		After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider
-
-		
-
-Set up your subdomain with Crazy Domains
-------
-
-1. `Log in to your Crazy Domains account <https://www.crazydomains.com/>`__ 
-2. In the **Main Menu**, click **Domains**:
-
-    .. class:: screenshot
-
-		|crazydomains-click-domains|
-		
-
-3. In the main page, scroll down to **DNS Settings** section and click **Add Record** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-record|
-
-
-4. Select **A Record** from the drop-down menu, then click **Add** 
-
-    .. class:: screenshot
-
-		|crazydomain-add-a-record|
-
-
-5. In the **Sub Domain** box, enter your subdomain prefix (if you picked ``promo.mydomain.com`` as your sudomain, enter ``promo``)
-6. In the **Alias For** box, enter	BitBlox's IP address ``162.243.77.151``
-7. Click **Update**
-		
-    .. class:: screenshot
-
-		|crazydomain-save-subdomain|	
-
-		
-8. In your BitBlox account, click **Edit Page** on your landing page. 
-
-     .. class:: screenshot
-
-		|bitblox-click-edit-page|
-
-		
-		
-9.  Open the **Sidebar** and click the **Settings** icon
-
-
-    .. class:: screenshot
-
-		|bitblox-click-settings|
-		
-10. Click **Settings** tab and then click **3rd Party Domain** tab
-
-
-    .. class:: screenshot
-
-		|bitblox-click-3-rd-party-domain|
-
-11. In the **Domain Name** box enter the full domain name you want to link  (ex: ``promo.mydomain.com``), and then click **Connect Domain** button
-
-    .. class:: screenshot
-
-		|bitblox-subdomain-click-connect-domain|
-    
-12. After you've claimed your domain, a new panel will be opened with the records from your provider domain account (it can take upt o 48 hours for changes to take effect)
-
+		|bitblox-green|	
 	
-    .. class:: screenshot
-
-		|bitblox-subdomain-dns-settings|
 	
-13. If your records are entered correctly, the **Current Data** will be green
-
-    .. class:: screenshot
-
-		|bitblox-subdomain-refresh|
-
-
-    .. note::
+	
+	.. note::
 
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
@@ -264,4 +138,11 @@ For more help with settings in your Crazy Domain account, contact their `support
 
 .. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
 .. |crazydomains-click-domain-name| image:: _images/crazydomains-click-domain-name.jpg
+.. |crazydomains-delete-a-record|	image:: _images/detelete-a-record.jpg
+
+
 .. |crazydomains-add-record|	image:: _images/crazydomains-add-record.jpg
+.. |crazydomains-add-cname|  image:: _images/crazydomains-add-cname.jpg
+.. |crazydomain-enter-bitblox-page| image:: _images/crazydomain-enter-bitblox-page.jpg
+.. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
+.. |bitblox-green|	image:: _images/bitblox-green.jpg
