@@ -79,24 +79,24 @@ If you purchased a domain from DreamHost, you can use it for your BitBlox Landin
 		|dreamhost-click-dns|	
 	
 	
-10. In the **Name** box, enter **www**
-10. In the **Type** drop down menu, select **CNAME** Record
-11. In the **Value** box, enter your domain name (ex: ``bitbloxkb-lzj29.bitblox.online``). 
-12. Click **Add Record Now**
+12. In the **Name** box, enter **www**
+13. In the **Type** drop down menu, select **CNAME** Record
+14. In the **Value** box, enter your domain name (ex: ``bitbloxkb-lzj29.bitblox.online``). 
+15. Click **Add Record Now**
 
     .. class:: screenshot
 
 		|dreamhost-save-cname-record|	
 
 	
-13. In your BitBlox account, click **Refresh** button in the DNS Settings:
+16. In your BitBlox account, click **Refresh** button in the DNS Settings:
 
 
 	.. class:: screenshot
 
 		|click-refresh-bitblox|
 
-14. If your records are entered correctly, the Current Data will be green   
+17. If your records are entered correctly, the Current Data will be green   
 	
 	
 	.. class:: screenshot
