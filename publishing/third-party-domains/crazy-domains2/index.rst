@@ -85,7 +85,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 
     .. class:: screenshot
 
-		|crazydomain-add-record|
+		|crazydomains-add-record|
 
 
 13. Select **CNAME** from the drop-down menu, then click **Add** 
@@ -138,10 +138,10 @@ For more help with settings in your Crazy Domain account, contact their `support
 
 .. |crazydomains-click-domains| image:: _images/crazydomains-click-domains.png
 .. |crazydomains-click-domain-name| image:: _images/crazydomains-click-domain-name.jpg
-.. |crazydomains-delete-a-record|	image:: _images/detelete-a-record.jpg
+.. |crazydomains-delete-a-record| image:: _images/crazydomain-delete-a-record.jpg
 
 
-.. |crazydomains-add-record|	image:: _images/crazydomains-add-record.jpg
+.. |crazydomains-add-record| image:: _images/crazydomains-add-record.jpg
 .. |crazydomains-add-cname|  image:: _images/crazydomains-add-cname.jpg
 .. |crazydomain-enter-bitblox-page| image:: _images/crazydomain-enter-bitblox-page.jpg
 .. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
