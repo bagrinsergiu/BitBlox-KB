@@ -73,7 +73,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 		|crazydomains-click-domain-name|	
 	
 	
-11. In the main page, scroll down to **DNS Settings** section. Delete **A Record** and then click **Update**
+11. In the main page, scroll down to **DNS Settings** section. Delete all **A Record** and then click **Update** button
 
 
 	.. class:: screenshot
@@ -88,21 +88,21 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 		|crazydomains-add-record|
 
 
-13. Select **CNAME** from the drop-down menu, then click **Add** 
+13. Select **CNAME** from the drop-down menu, then click **Add** button
 
     .. class:: screenshot
 
 		|crazydomains-add-cname|
 
 		
-14. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
+14. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Update** button
 	
 	.. class:: screenshot
 
 		|crazydomain-enter-bitblox-page|
 
 
-15. In your BitBlox account, click **Refresh** button on the DNS Settings:
+15. In your BitBlox account, click **Refresh** button in the DNS Settings:
 
 
 	.. class:: screenshot
