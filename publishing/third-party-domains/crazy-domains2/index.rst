@@ -123,10 +123,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
-Getting more help
-------
-
-For more help with settings in your Crazy Domain account, contact their `support team <https://www.crazydomains.com/help/>`__ . 
+For more help with 3rd party domain connection,  contact our `support team <https://www.bitblox.me/support>`__ . 
 
 
 .. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
