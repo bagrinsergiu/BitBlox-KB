@@ -11,46 +11,80 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
     :backlinks: top
 
 
-Set up your domain with Namecheap
-------
+1. `Log in to your BitBlox account <https://www.bitblox.me/welcome//>`__ 	
+2. In your dashboard, click **Edit Page** on your Landing Page
 
-1. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__
-2. Click **Domain list** tab, and then click **Manage** next to your domain name
+    .. class:: screenshot
+
+		|edit-my-landing-page-bitblox|
+	
+	
+3. Open the **Side Bar** and click the **Settings** icon
+
 
 	.. class:: screenshot
 
-		|namecheap-manage-dns|
+		|click-settings-bitblox|
+
+		
+4. Click **Settings** tab and then click **3rd Party Domain** tab
+
+		
+	.. class:: screenshot
+
+		|click-3rd-party-domain-bitblox|
 
 
-3. On the domain **Details** page, click **Advanced DNS**
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``)
+6. Click **Connect Domain** button		
+		
+		
+    .. class:: screenshot
+
+		|click-connect-domain-bitblox|	
+		
+7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+		
+			
+		
+    .. class:: screenshot
+
+		|copy-bitblox-page-name|		
+	
+	
+	
+8. `Log in to your Namecheap account <https://namecheap.com/myaccount/login.aspx>`__	
+	
+9. Click **Domain list** tab, and then click **Manage** next to your domain name
+
+	.. class:: screenshot
+
+		|namecheap-manage-dns|	
+	
+
+10. On the domain **Details** page, click **Advanced DNS**
 
 	.. class:: screenshot
 
 		|namecheap-dns-panel|
 
 
-4. Click **Add new record**
+
+11. In the **Type** column, click **CNAME Record**:
 
 	.. class:: screenshot
 
-		|namecheap-add-new-record|
+		|namecheap-click-cname-record|
 
-
-5. In the **Type** column, use the drop-down menu to select **A Record**
-6. In the **Host** text box, enter ``@``
-7. In the **Value** text box, enter BitBlox's IP address ``162.243.77.151``  
-8. Click the **Save Changes** icon:
-
-	.. class:: screenshot
-
-		|namecheap-a-record-save|
-
-9. In the **Type** column, click **CNAME Record**:
-
-	.. class:: screenshot
-
-		|namecheap-edit-cname|
-
+		
+		
+		
+		
+		
+		
+		
+		
+		
 10. In the **Value** text box, enter your domain name (ex: ``mylandingpage.com``)
 11. Click the **Save Changes** icon
 
@@ -201,36 +235,22 @@ Set up your subdomain with Namecheap
 	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 
-Getting more help
-------
+
 
 For more help with settings in your Namecheap account, contact their `support team <https://www.namecheap.com/support.aspx>`__ .
 
 
-.. |edit-landing-page| image:: _images/edit-landing-page.png
-.. |pagepanel| image:: _images/pagepanel.jpg
-.. |open3rdpartdomain| image:: _images/open3rdpartdomain.png
-.. |enter-domain| image:: _images/enter-domain.png
+
+.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+.. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
+.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
+.. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
+.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
 
 .. |namecheap-manage-dns| image:: _images/namecheap-manage-dns.png
-.. |namecheap-manage-dns-subdomain| image:: _images/namecheap-manage-dns-subdomain.png
 .. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
-.. |namecheap-dns-panel-subdomain| image:: _images/namecheap-dns-panel-subdomain.png
-.. |namecheap-add-new-record| image:: _images/namecheap-add-new-record.png
-.. |namecheap-add-new-record-subdomain| image:: _images/namecheap-add-new-record-subdomain.png
-.. |namecheap-a-record-save| image:: _images/namecheap-a-record-save.png
-.. |namecheap-a-record-save-subdomain| image:: _images/namecheap-a-record-save-subdomain.png
-.. |namecheap-edit-cname| image:: _images/namecheap-edit-cname.png
-.. |namecheap-cname-record-save| image:: _images/namecheap-cname-record-save.png
-.. |namecheap-remove-url-records| image:: _images/namecheap-remove-url-records.png
-.. |namecheap-remove-url-records-subdomain| image:: _images/namecheap-remove-url-records-subdomain.png
+.. |namecheap-click-cname-record| image:: _images/namecheap-click-cname-record.jpg
 
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
-.. |bitblox-subdomain-dns-settings| image:: _images/bitblox-subdomain-dns-settings.png
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-subdomain-refresh| image:: _images/bitblox-subdomain-refresh.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.png
-.. |bitblox-click-refresh| image:: _images/bitblox-click-refresh.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
+
+.. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
+.. |bitblox-green|	image:: _images/bitblox-green.jpg	
