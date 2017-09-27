@@ -88,14 +88,14 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
 
 		
 		
-16. In your BitBlox account, click **Refresh** button in the DNS Settings
+15. In your BitBlox account, click **Refresh** button in the DNS Settings
 
 
 	.. class:: screenshot
 
 		|click-refresh-bitblox|
 
-17. If your records are entered correctly, the Current Data will be green   
+16. If your records are entered correctly, the Current Data will be green   
 	
 	
 	.. class:: screenshot
