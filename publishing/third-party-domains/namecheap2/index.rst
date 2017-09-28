@@ -136,7 +136,7 @@ For more help with 3rd party domain connection,  contact our `support team <http
 .. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
 .. |namecheap-click-cname-record| image:: _images/namecheap-click-cname-record.jpg
 .. |namecheap-click-save| image:: _images/namecheap-click-save.jpg
-.. |namecheap-click-save-url| image:: _images/click-save-url.jpg
+.. |namecheap-click-save-url| image:: _images/namecheap-click-save-url.jpg
 
 .. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
 .. |bitblox-green|	image:: _images/bitblox-green.jpg	
