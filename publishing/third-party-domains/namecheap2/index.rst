@@ -86,6 +86,16 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
 
 		|namecheap-click-save|
 
+15. In the **Type** column, click **URL Redirect Record**
+16. In the **Host** text box, enter **@** prefix
+17. In the **Value** text box, enter the url of your page (ex: ``https://mylandingpage.com``)
+18. Click the **Save Changes** icon
+
+	.. class:: screenshot
+
+		|namecheap-click-save-url|
+
+
 		
 		
 15. In your BitBlox account, click **Refresh** button in the DNS Settings
@@ -126,6 +136,7 @@ For more help with 3rd party domain connection,  contact our `support team <http
 .. |namecheap-dns-panel| image:: _images/namecheap-dns-panel.png
 .. |namecheap-click-cname-record| image:: _images/namecheap-click-cname-record.jpg
 .. |namecheap-click-save| image:: _images/namecheap-click-save.jpg
+.. |namecheap-click-save-url| image:: _images/click-save-url.jpg
 
 .. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
 .. |bitblox-green|	image:: _images/bitblox-green.jpg	
