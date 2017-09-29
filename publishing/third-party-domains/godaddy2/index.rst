@@ -97,16 +97,16 @@ For more help with settings in your GoDaddy account, contact their `support team
 
 
 
-.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+.. |bitblox-edit-my-landing-page| image:: _images/bitblox-edit-my-landing-page.jpg
 .. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
-.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
+.. |bitblox-click-3rd-party-domain| image:: _images/bitblox-click-3rd-party-domain.jpg
 .. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
-.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
+.. |bitblox-copy-page-name| image:: _images/bitblox-copy-page-name.jpg
 
 .. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
 .. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
 .. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.jpg
-.. |godaddy-save-cname| image:: _images/godaddy-save-cname.jpg
+.. |bitblox-save-cname| image:: _images/bitblox-save-cname.jpg
 
-.. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
+.. |bitblox-click-refresh-dns-settings| image:: _images/bitblox-click-refresh-dns-settings.jpg
 .. |bitblox-green| image:: _images/bitblox-green.jpg
