@@ -26,7 +26,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 		|bitblox-click-settings|
 
 4. Click **Settings** tab and then click **3rd Party Domain** tab
-
+ 
     .. class:: screenshot
 
 		|bitblox-click-3-rd-party-domain|
@@ -81,9 +81,8 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
 14. If your records are entered correctly, the Current Data will be green
 
-	.. class:: screenshot
 
-		|bitblox-green|
+
 
 
 
@@ -95,14 +94,16 @@ For more help with settings in your GoDaddy account, contact their `support team
 
 
 
-.. |bitblox-click-edit-page| image:: _images/bitblox-click-edit-page.png
-.. |bitblox-click-settings| image:: _images/bitblox-click-settings.jpg
-.. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
-.. |bitblox-connect-domain| image:: _images/bitblox-connect-domain.png
-.. |bitblox-dns-settings| image:: _images/bitblox-dns-settings.jpg
+.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
+.. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
+.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
+.. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
+.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
+
 .. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
 .. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
 .. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.jpg
 .. |godaddy-save-cname| image:: _images/godaddy-save-cname.jpg
-.. |godaddy-bitblox-refresh| image:: _images/godaddy-bitblox-refresh.jpg
+
+.. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
 .. |bitblox-green| image:: _images/bitblox-green.jpg
