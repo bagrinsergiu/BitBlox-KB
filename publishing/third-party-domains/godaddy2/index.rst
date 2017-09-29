@@ -17,7 +17,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
      .. class:: screenshot
 
-		|edit-my-landing-page-bitblox|
+		|bitblox-edit-my-landing-page|
 
 3. Open the **Side bar** and click the **Settings** icon
 
@@ -29,10 +29,10 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
  
     .. class:: screenshot
 
-		|click-3rd-party-domain-bitblox|
+		|bitblox-click-3rd-party-domain|
 
 		
-5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``www.mylandingpage.com``) and then click **Connect Domain** button
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
 
     .. class:: screenshot
 
@@ -43,7 +43,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
     .. class:: screenshot
 
-		|copy-bitblox-page-name|
+		|bitblox-copy-page-name|
 		
 7. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__
 8. In the **Domains** section, click **Manage**
@@ -76,7 +76,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
 	.. class:: screenshot
 
-		|click-refresh-bitblox|
+		|bitblox-click-refresh-dns-settings|
 
 
 14. If your records are entered correctly, the Current Data will be green
