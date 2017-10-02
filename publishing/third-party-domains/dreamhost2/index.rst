@@ -5,7 +5,7 @@ Set up your domain with DreamHost
 
 
 
-If you purchased a domain from DreamHost, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your DreamHost account to tell the domain/subdomain where to point.
+If you purchased a domain from DreamHost, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 		
 .. contents::
