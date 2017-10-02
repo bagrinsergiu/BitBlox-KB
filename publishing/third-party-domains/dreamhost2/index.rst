@@ -89,7 +89,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 		|dreamhost-save-cname-record|	
 
 	
-16. In your BitBlox account, click **Refresh** button in the DNS Settings
+16. In the 3rd Party Domain tab of the BitBlox account, click **Refresh** button
 
 
 	.. class:: screenshot
