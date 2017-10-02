@@ -104,10 +104,9 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 		|bitblox-green|	
 	
 	
-	
-	.. note::
+		.. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
 For more help with 3rd party domain connection,  contact our `support team <https://www.bitblox.me/support>`__ . 	
