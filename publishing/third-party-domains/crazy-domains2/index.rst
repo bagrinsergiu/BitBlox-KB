@@ -3,14 +3,13 @@ Set up your domain with Crazy Domains
 ========
 
 
-If you purchased a domain from Crazy Domains, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Crazy Domains account to tell the domain/subdomain where to point.
+If you purchased a domain from Crazy Domains, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 		
 .. contents::
     :local:
     :backlinks: top
 
-	
 	
 1. `Log in to your BitBlox account <https://www.bitblox.me/welcome//>`__ 	
 2. In your dashboard, click **Edit Page** on your Landing Page
@@ -44,7 +43,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 
 		|click-connect-domain-bitblox|	
 		
-7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)	
 		
 			
 		
@@ -102,7 +101,7 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 		|crazydomain-enter-bitblox-page|
 
 
-15. In your BitBlox account, click **Refresh** button in the DNS Settings:
+15. In the 3rd Party Domain tab, click **Refresh** button
 
 
 	.. class:: screenshot
@@ -118,9 +117,9 @@ If you purchased a domain from Crazy Domains, you can use it for your BitBlox La
 	
 	
 	
-	.. note::
+		.. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
 For more help with 3rd party domain connection,  contact our `support team <https://www.bitblox.me/support>`__ . 
