@@ -4,7 +4,7 @@ Set up your domain with 1and1.com
 
 
 
-If you purchased a domain from DreamHost, then you will have to configure your DNS Settings so that your domain points to your landing page.
+If you purchased a domain from 1and1, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 		
 .. contents::
@@ -46,7 +46,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 
 		|click-connect-domain-bitblox|	
 		
-7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)	
 		
 			
 		
@@ -77,7 +77,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 
 		|click-add-subdomain|
 
-12. In the **Subdomain Name** box add www extension and click **Save** button
+12. In the **Subdomain Name** text box add **www** extension and click **Save** button
 
 
 	
@@ -92,7 +92,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 		|click-dns-settings-1and1|
 
 	
-14. Scroll down to **A/AAA and **CNAME Records** section, click on the **CNAME** record
+14. Scroll down to **A/AAA and CNAME Records** section, click on the **CNAME** record
 
 
 .. class:: screenshot
@@ -100,7 +100,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 		|click-cname-record|
 
 
-15. Paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
+15. In the **Alias** text box, paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
 	
 
 .. class:: screenshot
