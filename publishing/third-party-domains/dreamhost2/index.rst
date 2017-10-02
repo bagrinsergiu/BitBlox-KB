@@ -79,10 +79,10 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 		|dreamhost-click-dns|	
 	
 	
-12. In the **Name** box, enter **www**
+12. In the **Name** text box, enter **www**
 13. In the **Type** drop down menu, select **CNAME** Record
-14. In the **Value** box, enter your domain name (ex: ``bitbloxkb-lzj29.bitblox.online``) 
-15. Click **Add Record Now**
+14. In the **Value** text box, paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
+15. Click **Add Record Now** button
 
     .. class:: screenshot
 
