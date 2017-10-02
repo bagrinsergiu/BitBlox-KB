@@ -4,7 +4,7 @@ Set up your domain with 1and1.com
 
 
 
-If you purchased a domain from 1and1.com, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your 1and1.com account to tell the domain/subdomain where to point.
+If you purchased a domain from DreamHost, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 		
 .. contents::
@@ -46,7 +46,7 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|click-connect-domain-bitblox|	
 		
-7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
 		
 			
 		
@@ -77,7 +77,7 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 
 		|click-add-subdomain|
 
-12. In the **Subdomain Name** box add www and click **Save** button
+12. In the **Subdomain Name** box add www extension and click **Save** button
 
 
 	
@@ -100,14 +100,15 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|click-cname-record|
 
 
-15. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
+15. Paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
 	
 
 .. class:: screenshot
 
 		|enter-the-name-of-bitblox-page|
-	
-16. Click **Refresh** button in the BitBlox Settings tab
+
+
+16. In the 3rd Party Domain tab, click **Refresh** button 
 
 
 .. class:: screenshot
@@ -115,10 +116,18 @@ If you purchased a domain from 1and1.com, you can use it for your BitBlox Landin
 		|click-refresh-bitblox|
 
 
-	
-.. note::
+		
+17. If your records are entered correctly, the Current Data will be green
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+
+.. class:: screenshot
+
+		|click-refresh-bitblox|
+
+
+		.. note::
+
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
 
