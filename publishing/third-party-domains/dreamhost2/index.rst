@@ -72,7 +72,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 		|dreamhost-click-manage-domains|
 
 
-11. Under your domain, click **DNS**
+11. Under your domain, click the **DNS** link
 
     .. class:: screenshot
 
