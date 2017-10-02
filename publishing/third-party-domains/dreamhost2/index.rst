@@ -46,7 +46,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 
 		|click-connect-domain-bitblox|	
 		
-7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
 		
 			
 		
