@@ -100,15 +100,15 @@ If you purchased a domain from 1and1, then you will have to configure your DNS S
 		|click-cname-record|
 
 
-15. In the **Alias** text box, paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Save** button
-	
+15. In the **Alias** text box, paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
+16. Click **Save** button	
 
 .. class:: screenshot
 
 		|enter-the-name-of-bitblox-page|
 
 
-16. In the 3rd Party Domain tab, click **Refresh** button 
+17. In the 3rd Party Domain tab, click **Refresh** button 
 
 
 .. class:: screenshot
@@ -117,7 +117,7 @@ If you purchased a domain from 1and1, then you will have to configure your DNS S
 
 
 		
-17. If your records are entered correctly, the Current Data will be green
+18. If your records are entered correctly, the Current Data will be green
 
 
 .. class:: screenshot
