@@ -67,20 +67,20 @@ If you purchased a domain from GoDaddy, then you will have to configure your DNS
 		|godaddy-manage-cname|
 
 12. In the **Points** to text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)
-13. Click Save
+13. Click **Save** button
 
 	.. class:: screenshot
 
 		|bitblox-save-cname-record|
 
-14. In your BitBlox account, click **Refresh** button on the DNS Settings:
+14. In the 3rd Party Domain, click **Refresh** button
 
 	.. class:: screenshot
 
 		|bitblox-click-refresh-dns-settings|
 
 
-15. If your records are entered correctly, the Current Data will be green
+15. If your records are entered correctly, then Current Data will be green
 
 
 	.. class:: screenshot
