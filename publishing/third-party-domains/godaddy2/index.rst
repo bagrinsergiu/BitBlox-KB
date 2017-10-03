@@ -77,7 +77,7 @@ If you purchased a domain from GoDaddy, then you will have to configure your DNS
 
 	.. class:: screenshot
 
-		|bitblox-click-refresh-dns-settings|
+		|click-refresh-bitblox|
 
 
 15. If your records are entered correctly, then Current Data will be green
@@ -114,5 +114,5 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.jpg
 .. |bitblox-save-cname-record| image:: _images/bitblox-save-cname-record.jpg
 
-.. |bitblox-click-refresh-dns-settings| image:: _images/bitblox-click-refresh-dns-settings.jpg
+.. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
 .. |bitblox-green| image:: _images/bitblox-green.jpg
