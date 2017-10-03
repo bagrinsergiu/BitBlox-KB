@@ -39,7 +39,7 @@ If you purchased a domain from GoDaddy, then you will have to configure your DNS
 
 		|click-connect-domain-bitblox|
 		
-7. Under the **Required** row, copy the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``) 
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
 
 
     .. class:: screenshot
@@ -66,12 +66,12 @@ If you purchased a domain from GoDaddy, then you will have to configure your DNS
 
 		|godaddy-manage-cname|
 
-12. In the **Points** to text box, enter the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``)
+12. In the **Points** to text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)
 13. Click Save
 
 	.. class:: screenshot
 
-		|godaddy-save-cname|
+		|bitblox-save-cname-record|
 
 14. In your BitBlox account, click **Refresh** button on the DNS Settings:
 
@@ -112,7 +112,7 @@ For more help with settings in your GoDaddy account, contact their `support team
 .. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
 .. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
 .. |godaddy-manage-cname| image:: _images/godaddy-manage-cname.jpg
-.. |bitblox-save-cname| image:: _images/bitblox-save-cname.jpg
+.. |bitblox-save-cname-record| image:: _images/bitblox-save-cname-record.jpg
 
 .. |bitblox-click-refresh-dns-settings| image:: _images/bitblox-click-refresh-dns-settings.jpg
 .. |bitblox-green| image:: _images/bitblox-green.jpg
