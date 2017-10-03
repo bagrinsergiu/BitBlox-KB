@@ -87,6 +87,11 @@ If you purchased a domain from GoDaddy, then you will have to configure your DNS
 
 		|bitblox-green|	
 
+		.. note::
+
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+
+
 
 
 
