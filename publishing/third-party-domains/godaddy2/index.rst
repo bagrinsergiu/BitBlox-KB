@@ -3,7 +3,7 @@ Set up your domain with GoDaddy
 ========
 
 
-If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you’ll change a few settings in your GoDaddy account to tell the subdomain where to point.
+If you purchased a domain from GoDaddy, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 
 .. contents::
@@ -29,7 +29,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
  
     .. class:: screenshot
 
-		|bitblox-click-3rd-party-domain|
+		|click-3rd-party-domain-bitblox|
 
 		
 5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
@@ -43,7 +43,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
     .. class:: screenshot
 
-		|bitblox-copy-page-name|
+		|copy-bitblox-page-name|
 		
 7. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__
 8. In the **Domains** section, click **Manage**
@@ -99,9 +99,9 @@ For more help with settings in your GoDaddy account, contact their `support team
 
 .. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
 .. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
-.. |bitblox-click-3rd-party-domain| image:: _images/bitblox-click-3rd-party-domain.jpg
+.. |click-3rd-party-domain-bitblox| image:: _images/click-3rd-party-domain-bitblox.jpg
 .. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg
-.. |bitblox-copy-page-name| image:: _images/bitblox-copy-page-name.jpg
+.. |copy-bitblox-page-name| image:: _images/copy-bitblox-page-name.jpg
 
 .. |godaddy-click-manage| image:: _images/godaddy-click-manage.png
 .. |godaddy-manage-dns| image:: _images/godaddy-manage-dns.png
