@@ -72,7 +72,8 @@ If you purchased a domain from Crazy Domains, then you will have to configure yo
 		|crazydomains-click-domain-name|	
 	
 	
-11. In the main page, scroll down to **DNS Settings** section. Delete all **A Record** and then click **Update** button
+11. In the main page, scroll down to **DNS Settings** section. 
+12. Delete all **A Record** and then click **Update** button
 
 
 	.. class:: screenshot
@@ -80,35 +81,35 @@ If you purchased a domain from Crazy Domains, then you will have to configure yo
 		|crazydomains-delete-a-record|	
 
 	
-12. Click **Add Record** 
+13. Click **Add Record** 
 
     .. class:: screenshot
 
 		|crazydomains-add-record|
 
 
-13. Select **CNAME** from the drop-down menu, then click **Add** button
+14. Select **CNAME** from the drop-down menu, then click **Add** button
 
     .. class:: screenshot
 
 		|crazydomains-add-cname|
 
 		
-14. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Update** button
+15. Enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) and click **Update** button
 	
 	.. class:: screenshot
 
 		|crazydomain-enter-bitblox-page|
 
 
-15. In the 3rd Party Domain tab, click **Refresh** button
+16. In the 3rd Party Domain tab, click **Refresh** button
 
 
 	.. class:: screenshot
 
 		|click-refresh-bitblox|
 
-14. If your records are entered correctly, the Current Data will be green   
+17. If your records are entered correctly, the Current Data will be green   
 	
 	
 	.. class:: screenshot
