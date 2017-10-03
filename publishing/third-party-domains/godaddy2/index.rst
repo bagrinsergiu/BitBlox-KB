@@ -17,7 +17,7 @@ If you purchased a domain from GoDaddy, you can use it for your BitBlox Landing 
 
      .. class:: screenshot
 
-		|bitblox-edit-my-landing-page|
+		|edit-my-landing-page-bitblox|
 
 3. Open the **Side bar** and click the **Settings** icon
 
@@ -97,7 +97,7 @@ For more help with settings in your GoDaddy account, contact their `support team
 
 
 
-.. |bitblox-edit-my-landing-page| image:: _images/bitblox-edit-my-landing-page.jpg
+.. |edit-my-landing-page-bitblox| image:: _images/edit-my-landing-page-bitblox.jpg
 .. |click-settings-bitblox| image:: _images/click-settings-bitblox.jpg
 .. |bitblox-click-3rd-party-domain| image:: _images/bitblox-click-3rd-party-domain.jpg
 .. |click-connect-domain-bitblox| image:: _images/click-connect-domain-bitblox.jpg

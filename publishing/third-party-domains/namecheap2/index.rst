@@ -3,7 +3,7 @@ Set up your domain with Namecheap
 ========
 
 
-If you purchased a domain from Namecheap, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Namecheap account to tell the domain/subdomain where to point.
+If you purchased a domain from Namecheap, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 
 .. contents::
@@ -43,7 +43,7 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
 
 		|click-connect-domain-bitblox|	
 		
-7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)
 		
 			
 		
@@ -78,7 +78,7 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
 
 		
 		
-12. In the **Host** text box, enter **www** prefix		
+12. In the **Host** text box, enter **www** extension		
 13. In the **Value** text box, enter your domain name (ex: ``bitbloxkb-lzj29.bitblox.online``)	
 14. Click the **Save Changes** icon
 
@@ -97,24 +97,23 @@ If you purchased a domain from Namecheap, you can use it for your BitBlox Landin
 
 
 		
-		
-15. In your BitBlox account, click **Refresh** button in the DNS Settings
+19. In the 3rd Party Domain, click **Refresh** button
 
 
 	.. class:: screenshot
 
 		|click-refresh-bitblox|
 
-16. If your records are entered correctly, the Current Data will be green   
+16. If your records are entered correctly, then Current Data will be green   
 	
 	
 	.. class:: screenshot
 
 		|bitblox-green|	
 
-.. note::
+		.. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 
 
 
