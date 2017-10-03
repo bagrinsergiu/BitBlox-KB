@@ -32,54 +32,55 @@ If you purchased a domain from GoDaddy, then you will have to configure your DNS
 		|click-3rd-party-domain-bitblox|
 
 		
-5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
+5. In the **Domain Name** box, enter the full domain name you want to link (ex: ``mylandingpage.com``) 
+6. Click **Connect Domain** button
 
     .. class:: screenshot
 
 		|click-connect-domain-bitblox|
 		
-6. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``) under the **required** row
+7. Under the **Required** row, copy the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``) 
 
 
     .. class:: screenshot
 
 		|copy-bitblox-page-name|
 		
-7. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__
-8. In the **Domains** section, click **Manage**
+8. `Log in to your GoDaddy account <https://sso.godaddy.com/?realm=idp&app=mya&path=?ci=>`__
+9. In the **Domains** section, click **Manage**
 
 	.. class:: screenshot
 
 		|godaddy-click-manage|
 		
-9. Select the domain you would like to connect and click the **Settings** icon, and select **Manage DNS**
+10. Select the domain you want to use, click the **Settings** icon, and select **Manage DNS**
 	
 	.. class:: screenshot
 
 		|godaddy-manage-dns|
 		
-10. In the **Records** section, click the **Edit** Icon for the CNAME record
+11. In the **Records** section, click the **Edit** Icon for the CNAME record
 
 
 	.. class:: screenshot
 
 		|godaddy-manage-cname|
 
-11. In the **Points** to text box, enter the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``)
-12. Click Save
+12. In the **Points** to text box, enter the name of your page (ex: ``chitoroaganataliav-pzg27.bitblox.online``)
+13. Click Save
 
 	.. class:: screenshot
 
 		|godaddy-save-cname|
 
-13. In your BitBlox account, click **Refresh** button on the DNS Settings:
+14. In your BitBlox account, click **Refresh** button on the DNS Settings:
 
 	.. class:: screenshot
 
 		|bitblox-click-refresh-dns-settings|
 
 
-14. If your records are entered correctly, the Current Data will be green
+15. If your records are entered correctly, the Current Data will be green
 
 
 	.. class:: screenshot

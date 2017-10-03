@@ -79,7 +79,6 @@ If you purchased a domain from 1and1, then you will have to configure your DNS S
 
 12. In the **Subdomain Name** text box add **www** extension and click **Save** button
 
-
 	
 	.. class:: screenshot
 
@@ -122,7 +121,7 @@ If you purchased a domain from 1and1, then you will have to configure your DNS S
 
 .. class:: screenshot
 
-		|click-refresh-bitblox|
+		|bitblox-green|
 
 
 		.. note::
@@ -152,3 +151,4 @@ For more help with 3rd party domain connection,  contact our `support team <http
 .. |click-cname-record| image:: _images/click-cname-record.jpg
 .. |enter-the-name-of-bitblox-page| image:: _images/enter-the-name-of-bitblox-page.jpg
 .. |click-refresh-bitblox| image:: _images/click-refresh-bitblox.jpg
+.. |bitblox-green| image:: _images/bitblox-green.jpg

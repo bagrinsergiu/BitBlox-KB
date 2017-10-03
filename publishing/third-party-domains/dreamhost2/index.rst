@@ -81,7 +81,7 @@ If you purchased a domain from DreamHost, then you will have to configure your D
 	
 12. In the **Name** text box, enter the **www** extension
 13. In the **Type** drop down menu, select **CNAME** Record
-14. In the **Value** text box, paste the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
+14. In the **Value** text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
 15. Click **Add Record Now** button
 
     .. class:: screenshot
