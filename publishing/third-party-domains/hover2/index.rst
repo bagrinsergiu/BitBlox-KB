@@ -3,7 +3,7 @@ Set up your domain with Hover
 ========
 
 
-If you purchased a domain from Hover, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Hover account to tell the domain/subdomain where to point.
+If you purchased a domain from Hover, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 
 .. contents::
@@ -46,7 +46,7 @@ If you purchased a domain from Hover, you can use it for your BitBlox Landing Pa
 
 		|click-connect-domain-bitblox|	
 		
-7. A new panel will be opened with the records from your provider domain account. Copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) under the **required** row		
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)		
 		
 			
 		
@@ -70,7 +70,7 @@ If you purchased a domain from Hover, you can use it for your BitBlox Landing Pa
 
 		
 12. In the **Type** drop-down menu, select **CNAME** record
-13. In the **Hostname** text box, enter **www** prefix
+13. In the **Hostname** text box, enter **www** extension
 14. In the **Target Name** text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)
 15. Click **Add Record** Button
 	
@@ -80,7 +80,7 @@ If you purchased a domain from Hover, you can use it for your BitBlox Landing Pa
 	
 	
 	
-16. In your BitBlox account, click **Refresh** button in the DNS Settings
+16. In the 3rd Party Domain tab, click **Refresh** button 
 
 
 	.. class:: screenshot
@@ -96,9 +96,9 @@ If you purchased a domain from Hover, you can use it for your BitBlox Landing Pa
 	
 	
 	
-	.. note::
+		.. note::
 
-	After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
+			After you've claimed your domain, it can take up to 48 hours for changes to take effect. If it takes more than 48 hours, you should contact your custom domain provider.
 		
 
 For more help with 3rd party domain connection,  contact our `support team <https://www.bitblox.me/support>`__ . 	
