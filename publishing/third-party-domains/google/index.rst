@@ -86,6 +86,7 @@ If you purchased a domain from Google, then you will have to configure your DNS 
 17. In the **Type** drop-down menu, select **CNAME** record
 18. In the **Data** text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
 19. Click **Add** button	
+	
 	.. class:: screenshot
 
 		|google-click-add-custom-resource|
