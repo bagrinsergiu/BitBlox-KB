@@ -3,7 +3,7 @@ Set up your domain with Register.com
 ========
 
 
-If you purchased a domain from Register.com, you can use it for your BitBlox Landing Page by following a process called domain/subdomain mapping. In this process, you'll change a few settings in your Register.com account to tell the domain/subdomain where to point.
+If you purchased a domain from Register.com, then you will have to configure your DNS Settings so that your domain points to your landing page.
 
 		
 .. contents::
@@ -35,47 +35,68 @@ If you purchased a domain from Register.com, you can use it for your BitBlox Lan
 		|bitblox-click-3-rd-party-domain|	
 
 
-5. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``) and then click **Connect Domain** button
+5. In the **Domain Name** box enter the full domain name you want to link (ex: ``mylandingpage.com``) 
+6. Click **Connect Domain** button
 
 
     .. class:: screenshot
  
 		|bitblox-connect-domain|		
 	
-6. A new panel will be opened with the records	from your provider domain account. Copy the name of your page (ex : ----- ) under the required row
+7. Under the **Required** row, copy the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``)	
 	
     .. class:: screenshot
 
 		|bitblox-dns-settings|
 
-7. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 		
-	
-	
-8.  Click **Account Manager**, then click **Domains** 
+8. `Log in to your Register.com account <https://www.register.com/myaccount/productdisplay.rcmx/>`__ 		
+
+9.  Click **Account Manager**, then click **Domains** 
 
     .. class:: screenshot
 
 		|registercom-select-domain|
 		
-9. From the drop-down menu, select **Manage**
+10. From the drop-down menu, select **Manage**
 
     .. class:: screenshot
 
 		|registercom-select-manage|
 		
-10. Click **Manage** for the domain your want to use
+11. Click **Manage** for the domain your want to use
 
     .. class:: screenshot
 
 		|registercom-select-manage-domain|
 
 
-5. Scroll down to **Advanced Technical Settings**, click **Edit IP Address Records** 
+12. Scroll down to **Advanced Technical Settings**, click **Edit Domain Aliases Records** 
 
 	.. class:: screenshot
 
-		|registercom-edit-a-record|
+		|registercom-select-cname|
 
+		
+		
+		
+		
+	
+	
+		
+		
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
 6. In the first row, add ``@`` to the left of your domain
 7. In the right of **points to** , enter BitBlox's IP address ``162.243.77.151`` 
 8. Click **Continue**
@@ -239,16 +260,9 @@ For more help with settings in your Register.com account, contact their `support
 .. |registercom-select-domain| image:: _images/registercom-select-domain.png
 .. |registercom-select-manage| image:: _images/registercom-select-manage.png
 .. |registercom-select-manage-domain| image:: _images/registercom-select-manage-domain.png
-.. |registercom-edit-a-record| image:: _images/registercom-edit-a-record.png
-.. |registercom-enter-a-record| image:: _images/registercom-enter-a-record.png
-.. |registercom-enter-continue| image:: _images/registercom-enter-continue.png
 .. |registercom-select-cname| image:: _images/registercom-select-cname.png
-.. |registercom-edit-cname-record| image:: _images/registercom-edit-cname-record.png
-.. |registercom-enter-cname-record| image:: _images/registercom-enter-cname-record.png
-.. |registercom-click-continue-cnam| image:: _images/registercom-click-continue-cnam.png
-.. |registercom-select-subdomain| image:: _images/registercom-select-subdomain.png
-.. |registercom-enter-a-subdomain|	image:: _images/registercom-enter-a-subdomain.png
-.. |registercom-click-continue-subdomain| image:: _images/registercom-click-continue-subdomain.png
+
+
 
 .. |bitblox-click-3-rd-party-domain| image:: _images/bitblox-click-3-rd-party-domain.png
 .. |bitblox-subdomain-click-connect-domain| image:: _images/bitblox-subdomain-click-connect-domain.png
