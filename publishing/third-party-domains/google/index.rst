@@ -74,18 +74,18 @@ If you purchased a domain from Google, then you will have to configure your DNS 
 10. Scroll down to the **Synthetic records** section
 11. In the **Subdomain** text box enter **@** extension
 12. In the **Destination URL** text box, enter your domain name (ex: ``mylandingpage.com``)
-13. Select **Permanent redirect (301) option
+13. Select **Permanent redirect (301)** option
 14. Click **Add** button
 
 	.. class:: screenshot
 
 		|google-click-add-synthetic-records|
 
-15. Scroll down to the **Custom resource records** tab
+15. Scroll down to the **Custom resource records** section
 16. In the **Name** text box, enter the **www** extension
-17. In the **Type** drop-down menu, **CNAME** record
+17. In the **Type** drop-down menu, select **CNAME** record
 18. In the **Data** text box, enter the name of your page (ex: ``bitbloxkb-lzj29.bitblox.online``) 
-	
+19. Click **Add** button	
 	.. class:: screenshot
 
 		|google-click-add-custom-resource|
